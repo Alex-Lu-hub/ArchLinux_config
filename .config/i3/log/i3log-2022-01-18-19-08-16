@@ -1,0 +1,443 @@
+2022年01月18日 19时08分16秒 - i3 4.20.1 (2021-11-03) starting
+2022年01月18日 19时08分16秒 - Parsing configfile /home/alex/.config/i3/config
+2022年01月18日 19时08分16秒 - Changing working directory to config file directory /home/alex/.config/i3
+2022年01月18日 19时08分16秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2022年01月18日 19时08分16秒 - [libi3] ../i3-4.20.1/libi3/font.c Using Pango font monospace, size 8
+2022年01月18日 19时08分16秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分16秒 - focused now = 0x561a59b585f0 / 1
+2022年01月18日 19时08分16秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分16秒 - workspace visible? fs = 0x561a59b54a40, ws = 0x561a59b54a40
+2022年01月18日 19时08分16秒 - This is not an in-place restart, checking if a wallpaper is set.
+2022年01月18日 19时08分16秒 - A wallpaper is set, so no screenshot is necessary.
+2022年01月18日 19时08分16秒 - auto-starting dex --autostart --environment i3
+2022年01月18日 19时08分16秒 - executing: dex --autostart --environment i3
+2022年01月18日 19时08分16秒 - auto-starting xss-lock --transfer-sleep-lock -- i3lock --nofork
+2022年01月18日 19时08分16秒 - executing: xss-lock --transfer-sleep-lock -- i3lock --nofork
+2022年01月18日 19时08分16秒 - auto-starting nm-applet
+2022年01月18日 19时08分16秒 - executing: nm-applet
+2022年01月18日 19时08分16秒 - Starting bar process: exec i3bar  --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.626"
+2022年01月18日 19时08分16秒 - executing: exec i3bar  --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.626"
+/bin/sh:行1: dex：未找到命令
+/bin/sh:行1: xss-lock：未找到命令
+/bin/sh:行1: nm-applet：未找到命令
+2022年01月18日 19时08分16秒 - IPC: looking for config for bar ID "bar-0"
+2022年01月18日 19时08分16秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分16秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分16秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 19时08分16秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 19时08分16秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 19时08分16秒 - This window is of type dock
+2022年01月18日 19时08分16秒 - Checking window 0x00800006 (class i3bar)
+2022年01月18日 19时08分16秒 - dock status does not match
+2022年01月18日 19时08分16秒 - Checking window 0x00800006 (class i3bar)
+2022年01月18日 19时08分16秒 - dock status matches
+2022年01月18日 19时08分16秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分16秒 - workspace visible? fs = 0x561a59b54a40, ws = 0x561a59b54a40
+2022年01月18日 19时08分16秒 - ClientMessage for window 0x000001cd
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+2022年01月18日 19时08分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分18秒 - expose event for unknown window, ignoring
+2022年01月18日 19时08分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分18秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 19时08分18秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 19时08分18秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 19时08分18秒 - This window is of type dock
+2022年01月18日 19时08分18秒 - Checking window 0x00800015 (class i3bar)
+2022年01月18日 19时08分18秒 - dock status does not match
+2022年01月18日 19时08分18秒 - Checking window 0x00800015 (class i3bar)
+2022年01月18日 19时08分18秒 - dock status matches
+2022年01月18日 19时08分18秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分18秒 - workspace visible? fs = 0x561a59b54a40, ws = 0x561a59b54a40
+2022年01月18日 19时08分18秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分18秒 - expose event for unknown window, ignoring
+2022年01月18日 19时08分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分18秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分18秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 19时08分18秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 19时08分18秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 19时08分18秒 - This window is of type dock
+2022年01月18日 19时08分18秒 - Checking window 0x0080001b (class i3bar)
+2022年01月18日 19时08分18秒 - dock status does not match
+2022年01月18日 19时08分18秒 - Checking window 0x0080001b (class i3bar)
+2022年01月18日 19时08分18秒 - dock status matches
+2022年01月18日 19时08分18秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分18秒 - workspace visible? fs = 0x561a59b54a40, ws = 0x561a59b54a40
+2022年01月18日 19时08分23秒 - executing: rofi -modi drun,run -show drun
+
+(process:653): GLib-CRITICAL **: 19:08:24.054: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+Gtk-Message: 19:08:24.225: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 19:08:24.225: Failed to load module "window-decorations-gtk-module"
+
+** (nemo:673): WARNING **: 19:08:24.852: Current gtk theme is not known to have nemo support (Breeze) - checking...
+
+** (nemo:673): WARNING **: 19:08:24.900: The theme appears to have no nemo support.  Adding some...
+2022年01月18日 19时08分25秒 - ClientMessage for window 0x00a00028
+2022年01月18日 19时08分25秒 - WM_CLASS changed to nemo (instance), Nemo (class)
+2022年01月18日 19时08分25秒 - WM_NAME changed to "Home"
+2022年01月18日 19时08分25秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 19时08分25秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 19时08分25秒 - WM_HINTS.input changed to "1"
+2022年01月18日 19时08分25秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 19时08分25秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分25秒 - dock status does not match
+2022年01月18日 19时08分25秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分25秒 - dock status does not match
+2022年01月18日 19时08分25秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分25秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分25秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分25秒 - workspace visible? fs = 0x561a59b54a40, ws = 0x561a59b54a40
+2022年01月18日 19时08分25秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 19时08分25秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分25秒 - dock status does not match
+2022年01月18日 19时08分25秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分25秒 - dock status does not match
+2022年01月18日 19时08分25秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分25秒 - dock status does not match
+2022年01月18日 19时08分25秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分25秒 - dock status does not match
+2022年01月18日 19时08分25秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 19时08分25秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分25秒 - dock status does not match
+2022年01月18日 19时08分25秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分25秒 - dock status does not match
+2022年01月18日 19时08分25秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分25秒 - dock status does not match
+2022年01月18日 19时08分25秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分25秒 - dock status does not match
+2022年01月18日 19时08分27秒 - ClientMessage for window 0x00a00411
+2022年01月18日 19时08分27秒 - WM_CLASS changed to nemo (instance), Nemo (class)
+2022年01月18日 19时08分27秒 - WM_HINTS.input changed to "1"
+2022年01月18日 19时08分27秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 19时08分27秒 - Checking window 0x00a00411 (class Nemo)
+2022年01月18日 19时08分27秒 - dock status does not match
+2022年01月18日 19时08分27秒 - Checking window 0x00a00411 (class Nemo)
+2022年01月18日 19时08分27秒 - dock status does not match
+2022年01月18日 19时08分27秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分27秒 - This window is a dialog window, setting floating
+2022年01月18日 19时08分27秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分27秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分27秒 - workspace visible? fs = 0x561a59b54a40, ws = 0x561a59b54a40
+2022年01月18日 19时08分27秒 - Checking window 0x00a00411 (class Nemo)
+2022年01月18日 19时08分27秒 - dock status does not match
+2022年01月18日 19时08分27秒 - Checking window 0x00a00411 (class Nemo)
+2022年01月18日 19时08分27秒 - dock status does not match
+2022年01月18日 19时08分31秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分31秒 - expose event for unknown window, ignoring
+2022年01月18日 19时08分31秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分31秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分31秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分31秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分31秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分31秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分31秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分32秒 - ClientMessage for window 0x00a03b57
+2022年01月18日 19时08分32秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分32秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 19时08分32秒 - executing: terminator
+Gtk-Message: 19:08:33.168: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 19:08:33.168: Failed to load module "window-decorations-gtk-module"
+2022年01月18日 19时08分33秒 - ClientMessage for window 0x00e00007
+2022年01月18日 19时08分33秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年01月18日 19时08分33秒 - WM_NAME changed to "None"
+2022年01月18日 19时08分33秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 19时08分33秒 - _NET_WM_NAME changed to "None"
+2022年01月18日 19时08分33秒 - WM_HINTS.input changed to "1"
+2022年01月18日 19时08分33秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 19时08分33秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分33秒 - dock status does not match
+2022年01月18日 19时08分33秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分33秒 - dock status does not match
+2022年01月18日 19时08分33秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分33秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分33秒 - workspace visible? fs = 0x561a59b585f0, ws = 0x561a59b585f0
+2022年01月18日 19时08分33秒 - workspace visible? fs = 0x561a59b54a40, ws = 0x561a59b54a40
+2022年01月18日 19时08分33秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年01月18日 19时08分33秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分33秒 - dock status does not match
+2022年01月18日 19时08分33秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分33秒 - dock status does not match
+2022年01月18日 19时08分33秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分33秒 - dock status does not match
+2022年01月18日 19时08分33秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分33秒 - dock status does not match
+2022年01月18日 19时08分33秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 19时08分33秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分33秒 - dock status does not match
+2022年01月18日 19时08分33秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分33秒 - dock status does not match
+2022年01月18日 19时08分33秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分33秒 - dock status does not match
+2022年01月18日 19时08分33秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分33秒 - dock status does not match
+2022年01月18日 19时08分41秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 19时08分41秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分41秒 - dock status does not match
+2022年01月18日 19时08分41秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分41秒 - dock status does not match
+2022年01月18日 19时08分41秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分41秒 - dock status does not match
+2022年01月18日 19时08分41秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时08分41秒 - dock status does not match
+2022年01月18日 19时08分41秒 - _NET_WM_NAME changed to "sudo mount"
+2022年01月18日 19时08分41秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分41秒 - dock status does not match
+2022年01月18日 19时08分41秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分41秒 - dock status does not match
+2022年01月18日 19时08分41秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分41秒 - dock status does not match
+2022年01月18日 19时08分41秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分41秒 - dock status does not match
+2022年01月18日 19时08分45秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 19时08分45秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分45秒 - dock status does not match
+2022年01月18日 19时08分45秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分45秒 - dock status does not match
+2022年01月18日 19时08分45秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分45秒 - dock status does not match
+2022年01月18日 19时08分45秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时08分45秒 - dock status does not match
+2022年01月18日 19时09分18秒 - _NET_WM_NAME changed to "sudo mount /dev/sda1 disk"
+2022年01月18日 19时09分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分18秒 - dock status does not match
+2022年01月18日 19时09分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分18秒 - dock status does not match
+2022年01月18日 19时09分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分18秒 - dock status does not match
+2022年01月18日 19时09分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分18秒 - dock status does not match
+2022年01月18日 19时09分18秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 19时09分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分18秒 - dock status does not match
+2022年01月18日 19时09分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分18秒 - dock status does not match
+2022年01月18日 19时09分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分18秒 - dock status does not match
+2022年01月18日 19时09分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分18秒 - dock status does not match
+2022年01月18日 19时09分21秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 19时09分21秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时09分21秒 - dock status does not match
+2022年01月18日 19时09分21秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时09分21秒 - dock status does not match
+2022年01月18日 19时09分21秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时09分21秒 - dock status does not match
+2022年01月18日 19时09分21秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时09分21秒 - dock status does not match
+2022年01月18日 19时09分21秒 - _NET_WM_NAME changed to "ls --color=tty -lh"
+2022年01月18日 19时09分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分21秒 - dock status does not match
+2022年01月18日 19时09分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分21秒 - dock status does not match
+2022年01月18日 19时09分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分21秒 - dock status does not match
+2022年01月18日 19时09分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分21秒 - dock status does not match
+2022年01月18日 19时09分21秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 19时09分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分21秒 - dock status does not match
+2022年01月18日 19时09分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分21秒 - dock status does not match
+2022年01月18日 19时09分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分21秒 - dock status does not match
+2022年01月18日 19时09分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分21秒 - dock status does not match
+2022年01月18日 19时09分25秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk"
+2022年01月18日 19时09分25秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分25秒 - dock status does not match
+2022年01月18日 19时09分25秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分25秒 - dock status does not match
+2022年01月18日 19时09分25秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分25秒 - dock status does not match
+2022年01月18日 19时09分25秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分25秒 - dock status does not match
+2022年01月18日 19时09分27秒 - _NET_WM_NAME changed to "ls --color=tty -lh"
+2022年01月18日 19时09分27秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分27秒 - dock status does not match
+2022年01月18日 19时09分27秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分27秒 - dock status does not match
+2022年01月18日 19时09分27秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分27秒 - dock status does not match
+2022年01月18日 19时09分27秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分27秒 - dock status does not match
+2022年01月18日 19时09分27秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk"
+2022年01月18日 19时09分27秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分27秒 - dock status does not match
+2022年01月18日 19时09分27秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分27秒 - dock status does not match
+2022年01月18日 19时09分27秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分27秒 - dock status does not match
+2022年01月18日 19时09分27秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分27秒 - dock status does not match
+2022年01月18日 19时09分30秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 19时09分30秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时09分30秒 - dock status does not match
+2022年01月18日 19时09分30秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时09分30秒 - dock status does not match
+2022年01月18日 19时09分30秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时09分30秒 - dock status does not match
+2022年01月18日 19时09分30秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时09分30秒 - dock status does not match
+2022年01月18日 19时09分35秒 - _NET_WM_NAME changed to "sudo cd lost+found"
+2022年01月18日 19时09分35秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分35秒 - dock status does not match
+2022年01月18日 19时09分35秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分35秒 - dock status does not match
+2022年01月18日 19时09分35秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分35秒 - dock status does not match
+2022年01月18日 19时09分35秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分35秒 - dock status does not match
+2022年01月18日 19时09分35秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk"
+2022年01月18日 19时09分35秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分35秒 - dock status does not match
+2022年01月18日 19时09分35秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分35秒 - dock status does not match
+2022年01月18日 19时09分35秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分35秒 - dock status does not match
+2022年01月18日 19时09分35秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分35秒 - dock status does not match
+2022年01月18日 19时09分39秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 19时09分39秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分39秒 - dock status does not match
+2022年01月18日 19时09分39秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分39秒 - dock status does not match
+2022年01月18日 19时09分39秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分39秒 - dock status does not match
+2022年01月18日 19时09分39秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分39秒 - dock status does not match
+2022年01月18日 19时09分47秒 - _NET_WM_NAME changed to "sudo chown -R alex:alex disk"
+2022年01月18日 19时09分47秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分47秒 - dock status does not match
+2022年01月18日 19时09分47秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分47秒 - dock status does not match
+2022年01月18日 19时09分47秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分47秒 - dock status does not match
+2022年01月18日 19时09分47秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分47秒 - dock status does not match
+2022年01月18日 19时09分47秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 19时09分47秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分47秒 - dock status does not match
+2022年01月18日 19时09分47秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分47秒 - dock status does not match
+2022年01月18日 19时09分47秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分47秒 - dock status does not match
+2022年01月18日 19时09分47秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分47秒 - dock status does not match
+2022年01月18日 19时09分50秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 19时09分50秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时09分50秒 - dock status does not match
+2022年01月18日 19时09分50秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时09分50秒 - dock status does not match
+2022年01月18日 19时09分50秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时09分50秒 - dock status does not match
+2022年01月18日 19时09分50秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时09分50秒 - dock status does not match
+2022年01月18日 19时09分50秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk"
+2022年01月18日 19时09分50秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分50秒 - dock status does not match
+2022年01月18日 19时09分50秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分50秒 - dock status does not match
+2022年01月18日 19时09分50秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分50秒 - dock status does not match
+2022年01月18日 19时09分50秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时09分50秒 - dock status does not match
+2022年01月18日 19时10分09秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 19时10分09秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分09秒 - dock status does not match
+2022年01月18日 19时10分09秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分09秒 - dock status does not match
+2022年01月18日 19时10分09秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分09秒 - dock status does not match
+2022年01月18日 19时10分09秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分09秒 - dock status does not match
+2022年01月18日 19时10分16秒 - _NET_WM_NAME changed to "sudo blkid"
+2022年01月18日 19时10分16秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分16秒 - dock status does not match
+2022年01月18日 19时10分16秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分16秒 - dock status does not match
+2022年01月18日 19时10分16秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分16秒 - dock status does not match
+2022年01月18日 19时10分16秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分16秒 - dock status does not match
+2022年01月18日 19时10分16秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 19时10分16秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分16秒 - dock status does not match
+2022年01月18日 19时10分16秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分16秒 - dock status does not match
+2022年01月18日 19时10分16秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分16秒 - dock status does not match
+2022年01月18日 19时10分16秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分16秒 - dock status does not match
+2022年01月18日 19时10分19秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 19时10分19秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分19秒 - dock status does not match
+2022年01月18日 19时10分19秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分19秒 - dock status does not match
+2022年01月18日 19时10分19秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分19秒 - dock status does not match
+2022年01月18日 19时10分19秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分19秒 - dock status does not match
+2022年01月18日 19时10分22秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 19时10分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分22秒 - dock status does not match
+2022年01月18日 19时10分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分22秒 - dock status does not match
+2022年01月18日 19时10分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分22秒 - dock status does not match
+2022年01月18日 19时10分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分22秒 - dock status does not match
+2022年01月18日 19时10分31秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 19时10分31秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时10分31秒 - dock status does not match
+2022年01月18日 19时10分31秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时10分31秒 - dock status does not match
+2022年01月18日 19时10分31秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时10分31秒 - dock status does not match
+2022年01月18日 19时10分31秒 - Checking window 0x00a00028 (class Nemo)
+2022年01月18日 19时10分31秒 - dock status does not match
+2022年01月18日 19时10分31秒 - _NET_WM_NAME changed to "sudo vim /etc/fstab"
+2022年01月18日 19时10分31秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分31秒 - dock status does not match
+2022年01月18日 19时10分31秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分31秒 - dock status does not match
+2022年01月18日 19时10分31秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分31秒 - dock status does not match
+2022年01月18日 19时10分31秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分31秒 - dock status does not match
+2022年01月18日 19时10分47秒 - _NET_WM_NAME changed to "sudo vim /etc/fstab"
+2022年01月18日 19时10分47秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分47秒 - dock status does not match
+2022年01月18日 19时10分47秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分47秒 - dock status does not match
+2022年01月18日 19时10分47秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分47秒 - dock status does not match
+2022年01月18日 19时10分47秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分47秒 - dock status does not match
+2022年01月18日 19时10分51秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 19时10分51秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分51秒 - dock status does not match
+2022年01月18日 19时10分51秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分51秒 - dock status does not match
+2022年01月18日 19时10分51秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分51秒 - dock status does not match
+2022年01月18日 19时10分51秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分51秒 - dock status does not match
+2022年01月18日 19时10分54秒 - _NET_WM_NAME changed to "sudo reboot"
+2022年01月18日 19时10分54秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分54秒 - dock status does not match
+2022年01月18日 19时10分54秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分54秒 - dock status does not match
+2022年01月18日 19时10分54秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分54秒 - dock status does not match
+2022年01月18日 19时10分54秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 19时10分54秒 - dock status does not match
+i3status: exiting due to signal.
+[libi3] ../i3-4.20.1/i3bar/src/main.c i3bar version 4.20.1 (2021-11-03)
+[libi3] ../i3-4.20.1/libi3/font.c Using Pango font monospace, size 8

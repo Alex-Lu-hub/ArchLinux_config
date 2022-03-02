@@ -1,0 +1,1691 @@
+2022年02月19日 20时31分03秒 - i3 4.20.1 (2021-11-03) starting
+2022年02月19日 20时31分03秒 - Parsing configfile /home/alex/.config/i3/config
+2022年02月19日 20时31分03秒 - Changing working directory to config file directory /home/alex/.config/i3
+2022年02月19日 20时31分03秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2022年02月19日 20时31分03秒 - [libi3] ../i3-4.20.1/libi3/font.c Using Pango font Input Nerd Font, size 9
+2022年02月19日 20时31分03秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分03秒 - focused now = 0x5581e1c5e080 / 1
+2022年02月19日 20时31分03秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分03秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+2022年02月19日 20时31分03秒 - This is not an in-place restart, checking if a wallpaper is set.
+2022年02月19日 20时31分03秒 - A wallpaper is set, so no screenshot is necessary.
+2022年02月19日 20时31分03秒 - auto-starting xautolock -time 5 -locker '/usr/bin/betterlockscreen -l' -corners ---- -cornersize 30 &
+2022年02月19日 20时31分03秒 - executing: xautolock -time 5 -locker '/usr/bin/betterlockscreen -l' -corners ---- -cornersize 30 &
+2022年02月19日 20时31分03秒 - auto-starting fcitx5
+2022年02月19日 20时31分03秒 - executing: fcitx5
+2022年02月19日 20时31分03秒 - auto-starting dunst
+2022年02月19日 20时31分03秒 - executing: dunst
+2022年02月19日 20时31分03秒 - auto-starting '/home/alex/Downloads/Clash for Windows-0.19.7-x64-linux/cfw'
+2022年02月19日 20时31分03秒 - executing: '/home/alex/Downloads/Clash for Windows-0.19.7-x64-linux/cfw'
+2022年02月19日 20时31分03秒 - auto-starting feh --bg-fill feh/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+2022年02月19日 20时31分03秒 - executing: feh --bg-fill feh/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+2022年02月19日 20时31分03秒 - auto-starting picom -b
+2022年02月19日 20时31分03秒 - executing: picom -b
+2022年02月19日 20时31分03秒 - auto-starting $HOME/.config/i3/bin/i3bar
+2022年02月19日 20时31分03秒 - executing: $HOME/.config/i3/bin/i3bar
+[ 2022年02月19日 20:31:03.502 get_cfg WARN ] Dual-kawase blur is not implemented by the legacy backends, you must use the `experimental-backends` option.
+WARNING: Setting geometry in section global doesn't exist
+WARNING: Setting notification_height in section global doesn't exist
+WARNING: Setting startup_notification in section global doesn't exist
+WARNING: Setting verbosity in section global doesn't exist
+WARNING: Section shortcuts is deprecated.
+Acting on notifications has been moved to its own utility. For more information, see the manual for dunstctl.
+Ignoring this section.
+I2022-02-19 20:31:03.514120 instance.cpp:1394] Override Enabled Addons: {}
+I2022-02-19 20:31:03.514201 instance.cpp:1395] Override Disabled Addons: {}
+I2022-02-19 20:31:03.523128 addonmanager.cpp:191] Loaded addon imselector
+I2022-02-19 20:31:03.528189 addonmanager.cpp:191] Loaded addon xcb
+I2022-02-19 20:31:03.532680 addonmanager.cpp:191] Loaded addon quickphrase
+I2022-02-19 20:31:03.543684 addonmanager.cpp:191] Loaded addon keyboard
+I2022-02-19 20:31:03.548649 addonmanager.cpp:191] Loaded addon dbus
+I2022-02-19 20:31:03.551118 addonmanager.cpp:191] Loaded addon dbusfrontend
+polybar|notice:  Parsing config file: /home/alex/.config/i3/polybar/config
+I2022-02-19 20:31:03.560083 addonmanager.cpp:191] Loaded addon fcitx4frontend
+polybar|warn:  The config parameter 'settings.throttle-input-for' is deprecated, it will be removed in the future. Please remove it from your config
+I2022-02-19 20:31:03.577360 addonmanager.cpp:191] Loaded addon ibusfrontend
+I2022-02-19 20:31:03.580909 addonmanager.cpp:191] Loaded addon xim
+E2022-02-19 20:31:03.583990 waylandmodule.cpp:162] Failed to open wayland connection
+I2022-02-19 20:31:03.584013 addonmanager.cpp:191] Loaded addon wayland
+I2022-02-19 20:31:03.586369 addonmanager.cpp:191] Loaded addon clipboard
+polybar|error: module/mpd: Connection refused
+I2022-02-19 20:31:03.588387 addonmanager.cpp:191] Loaded addon waylandim
+I2022-02-19 20:31:03.591599 addonmanager.cpp:191] Loaded addon unicode
+I2022-02-19 20:31:03.637366 inputmethodmanager.cpp:198] Found 713 input method(s) in addon keyboard
+I2022-02-19 20:31:03.653018 addonmanager.cpp:191] Loaded addon kimpanel
+I2022-02-19 20:31:03.694164 addonmanager.cpp:191] Loaded addon classicui
+I2022-02-19 20:31:03.696577 addonmanager.cpp:191] Loaded addon notificationitem
+I2022-02-19 20:31:03.699468 addonmanager.cpp:191] Loaded addon notifications
+[ 2022年02月19日 20:31:03.750 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+I2022-02-19 20:31:03.806382 addonmanager.cpp:191] Loaded addon rime
+I2022-02-19 20:31:03.807648 kimpanel.cpp:117] Kimpanel new owner
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时31分04秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=13" (name=LiterationMono Nerd Font, offset=3, file=/usr/share/fonts/TTF/Literation Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=12" (name=LiterationMono Nerd Font, offset=3, file=/usr/share/fonts/TTF/Literation Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "NotoColorEmoji:pixelsize=8;1:fontformat=truetype:scale=10:antialias=true" (name=Noto Color Emoji, offset=3, file=/usr/share/fonts/noto/NotoColorEmoji.ttf)
+polybar|notice:  Loaded font "Weather Icons:style=Regular:size=10" (name=Weather Icons, offset=3, file=/usr/share/fonts/TTF/weathericons-regular-webfont.ttf)
+polybar|notice:  Loaded font "NotoSansCJK:size=12" (name=Noto Sans CJK SC, offset=2, file=/usr/share/fonts/noto-cjk/NotoSansCJK-Regular.ttc)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+2022年02月19日 20时31分04秒 - WM_CLASS changed to polybar (instance), Polybar (class)
+2022年02月19日 20时31分04秒 - WM_NAME changed to "i3"
+2022年02月19日 20时31分04秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年02月19日 20时31分04秒 - This window is of type dock
+2022年02月19日 20时31分04秒 - Checking window 0x00c00001 (class Polybar)
+2022年02月19日 20时31分04秒 - dock status matches
+2022年02月19日 20时31分04秒 - Checking window 0x00c00001 (class Polybar)
+2022年02月19日 20时31分04秒 - Regular expression ".*" matches "Polybar"
+2022年02月19日 20时31分04秒 - window class matches (Polybar)
+2022年02月19日 20时31分04秒 - dock status does not match
+2022年02月19日 20时31分04秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分04秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+[896:0219/203104.667443:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时31分04秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: Failed to setup tray client removing... (XCB_WINDOW (3))
+[756:0219/203104.846774:ERROR:browser_main_loop.cc(269)] Gdk: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时31分05秒 - ClientMessage for window 0x00000336
+2022年02月19日 20时31分05秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年02月19日 20时31分05秒 - WM_NAME changed to "Clash for Windows"
+2022年02月19日 20时31分05秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年02月19日 20时31分05秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年02月19日 20时31分05秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年02月19日 20时31分05秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年02月19日 20时31分05秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年02月19日 20时31分05秒 - dock status does not match
+2022年02月19日 20时31分05秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年02月19日 20时31分05秒 - dock status does not match
+2022年02月19日 20时31分05秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分05秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年02月19日 20时31分05秒 - Regular expression ".*" matches "Clash for Windows"
+2022年02月19日 20时31分05秒 - window class matches (Clash for Windows)
+2022年02月19日 20时31分05秒 - dock status matches
+2022年02月19日 20时31分05秒 - Checking window 0x00c00001 (class Polybar)
+2022年02月19日 20时31分05秒 - window id does not match
+2022年02月19日 20时31分05秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年02月19日 20时31分05秒 - match made by window id (20971523)
+2022年02月19日 20时31分05秒 - dock status matches
+2022年02月19日 20时31分05秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分05秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分05秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+2022年02月19日 20时31分05秒 - ClientMessage for window 0x01400003
+2022年02月19日 20时31分05秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分05秒 - ClientMessage for window 0x01400003
+2022年02月19日 20时31分05秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时31分16秒 - Sending WM_DELETE to the client
+2022年02月19日 20时31分16秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分16秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时31分16秒 - expose event for unknown window, ignoring
+2022年02月19日 20时31分16秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时31分16秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时31分16秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时31分17秒 - startup id = i3/rofi/739-0-alexarch_TIME38096
+2022年02月19日 20时31分17秒 - executing: rofi -show drun
+2022年02月19日 20时31分17秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(blueberry.py:1032): com.linuxmint.blueberry-WARNING **: 20:31:21.398: DE could not be detected!
+2022年02月19日 20时31分21秒 - ClientMessage for window 0x02000008
+2022年02月19日 20时31分21秒 - WM_CLASS changed to blueberry.py (instance), Blueberry.py (class)
+2022年02月19日 20时31分21秒 - WM_NAME changed to "$(A@6Q@"
+2022年02月19日 20时31分21秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年02月19日 20时31分21秒 - _NET_WM_NAME changed to "蓝牙"
+2022年02月19日 20时31分21秒 - WM_HINTS.input changed to "1"
+2022年02月19日 20时31分21秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年02月19日 20时31分21秒 - Checking window 0x02000008 (class Blueberry.py)
+2022年02月19日 20时31分21秒 - dock status does not match
+2022年02月19日 20时31分21秒 - Checking window 0x02000008 (class Blueberry.py)
+2022年02月19日 20时31分21秒 - dock status does not match
+2022年02月19日 20时31分21秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分21秒 - Checking window 0x02000008 (class Blueberry.py)
+2022年02月19日 20时31分21秒 - Regular expression ".*" matches "Blueberry.py"
+2022年02月19日 20时31分21秒 - window class matches (Blueberry.py)
+2022年02月19日 20时31分21秒 - dock status matches
+2022年02月19日 20时31分21秒 - Checking window 0x00c00001 (class Polybar)
+2022年02月19日 20时31分21秒 - window id does not match
+2022年02月19日 20时31分21秒 - Checking window 0x02000008 (class Blueberry.py)
+2022年02月19日 20时31分21秒 - match made by window id (33554440)
+2022年02月19日 20时31分21秒 - dock status matches
+2022年02月19日 20时31分21秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分21秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分21秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时31分26秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分26秒 - ClientMessage for window 0x02000008
+2022年02月19日 20时31分26秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分27秒 - ClientMessage for window 0x0220005d
+2022年02月19日 20时31分28秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时31分39秒 - startup id = i3/rofi/739-1-alexarch_TIME60434
+2022年02月19日 20时31分39秒 - executing: rofi -show drun
+2022年02月19日 20时31分39秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+/usr/lib/blueberry/blueberry-tray.py:159: DeprecationWarning: Gtk.ImageMenuItem.set_always_show_image is deprecated
+  item.set_always_show_image(True)
+/usr/lib/blueberry/blueberry-tray.py:160: DeprecationWarning: Gtk.ImageMenuItem.set_image is deprecated
+  item.set_image(image)
+2022年02月19日 20时31分55秒 - ClientMessage for window 0x022000c0
+2022年02月19日 20时31分56秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时31分57秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时31分59秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时31分59秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时31分59秒 - expose event for unknown window, ignoring
+2022年02月19日 20时31分59秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时31分59秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时31分59秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时31分59秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时31分59秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分00秒 - startup id = i3/rofi/739-2-alexarch_TIME81865
+2022年02月19日 20时32分00秒 - executing: rofi -show drun
+2022年02月19日 20时32分00秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分04秒 - executing: terminator
+2022年02月19日 20时32分04秒 - ClientMessage for window 0x02000007
+2022年02月19日 20时32分04秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年02月19日 20时32分04秒 - WM_NAME changed to "None"
+2022年02月19日 20时32分04秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年02月19日 20时32分04秒 - _NET_WM_NAME changed to "None"
+2022年02月19日 20时32分04秒 - WM_HINTS.input changed to "1"
+2022年02月19日 20时32分04秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年02月19日 20时32分04秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分04秒 - dock status does not match
+2022年02月19日 20时32分04秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分04秒 - dock status does not match
+2022年02月19日 20时32分04秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时32分04秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分04秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分04秒 - window class matches (Terminator)
+2022年02月19日 20时32分04秒 - dock status matches
+2022年02月19日 20时32分04秒 - Checking window 0x00c00001 (class Polybar)
+2022年02月19日 20时32分04秒 - window id does not match
+2022年02月19日 20时32分04秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分04秒 - match made by window id (33554439)
+2022年02月19日 20时32分04秒 - dock status matches
+2022年02月19日 20时32分04秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时32分04秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时32分04秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+2022年02月19日 20时32分04秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年02月19日 20时32分04秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分04秒 - dock status does not match
+2022年02月19日 20时32分04秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分04秒 - dock status does not match
+2022年02月19日 20时32分04秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分04秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分04秒 - window class matches (Terminator)
+2022年02月19日 20时32分04秒 - dock status matches
+2022年02月19日 20时32分04秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分04秒 - dock status does not match
+2022年02月19日 20时32分04秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分04秒 - dock status does not match
+2022年02月19日 20时32分04秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分04秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分04秒 - window class matches (Terminator)
+2022年02月19日 20时32分04秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分05秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时32分05秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分05秒 - dock status does not match
+2022年02月19日 20时32分05秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分05秒 - dock status does not match
+2022年02月19日 20时32分05秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分05秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分05秒 - window class matches (Terminator)
+2022年02月19日 20时32分05秒 - dock status matches
+2022年02月19日 20时32分05秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分05秒 - dock status does not match
+2022年02月19日 20时32分05秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分05秒 - dock status does not match
+2022年02月19日 20时32分05秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分05秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分05秒 - window class matches (Terminator)
+2022年02月19日 20时32分05秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分10秒 - _NET_WM_NAME changed to "nvidia-smi"
+2022年02月19日 20时32分10秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分10秒 - dock status does not match
+2022年02月19日 20时32分10秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分10秒 - dock status does not match
+2022年02月19日 20时32分10秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分10秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分10秒 - window class matches (Terminator)
+2022年02月19日 20时32分10秒 - dock status matches
+2022年02月19日 20时32分10秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分10秒 - dock status does not match
+2022年02月19日 20时32分10秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分10秒 - dock status does not match
+2022年02月19日 20时32分10秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分10秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分10秒 - window class matches (Terminator)
+2022年02月19日 20时32分10秒 - dock status matches
+2022年02月19日 20时32分10秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时32分10秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分10秒 - dock status does not match
+2022年02月19日 20时32分10秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分10秒 - dock status does not match
+2022年02月19日 20时32分10秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分10秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分10秒 - window class matches (Terminator)
+2022年02月19日 20时32分10秒 - dock status matches
+2022年02月19日 20时32分10秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分10秒 - dock status does not match
+2022年02月19日 20时32分10秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分10秒 - dock status does not match
+2022年02月19日 20时32分10秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分10秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分10秒 - window class matches (Terminator)
+2022年02月19日 20时32分10秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分17秒 - _NET_WM_NAME changed to "vim ~/.config/i3/config"
+2022年02月19日 20时32分17秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分17秒 - dock status does not match
+2022年02月19日 20时32分17秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分17秒 - dock status does not match
+2022年02月19日 20时32分17秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分17秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分17秒 - window class matches (Terminator)
+2022年02月19日 20时32分17秒 - dock status matches
+2022年02月19日 20时32分17秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分17秒 - dock status does not match
+2022年02月19日 20时32分17秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分17秒 - dock status does not match
+2022年02月19日 20时32分17秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分17秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分17秒 - window class matches (Terminator)
+2022年02月19日 20时32分17秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分22秒 - There is no workspace with number 2, creating a new one.
+2022年02月19日 20时32分22秒 - Creating new workspace "2"
+2022年02月19日 20时32分22秒 - focused now = 0x5581e1c4c400 / 2
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c5e080
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c5e080
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c5e080
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分22秒 - executing: terminator
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分22秒 - ClientMessage for window 0x020001b8
+2022年02月19日 20时32分22秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年02月19日 20时32分22秒 - WM_NAME changed to "None"
+2022年02月19日 20时32分22秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年02月19日 20时32分22秒 - _NET_WM_NAME changed to "None"
+2022年02月19日 20时32分22秒 - WM_HINTS.input changed to "1"
+2022年02月19日 20时32分22秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年02月19日 20时32分22秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分22秒 - dock status does not match
+2022年02月19日 20时32分22秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分22秒 - dock status does not match
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分22秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分22秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分22秒 - window class matches (Terminator)
+2022年02月19日 20时32分22秒 - dock status matches
+2022年02月19日 20时32分22秒 - Checking window 0x00c00001 (class Polybar)
+2022年02月19日 20时32分22秒 - window id does not match
+2022年02月19日 20时32分22秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分22秒 - window id does not match
+2022年02月19日 20时32分22秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分22秒 - match made by window id (33554872)
+2022年02月19日 20时32分22秒 - dock status matches
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c5e080
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+2022年02月19日 20时32分22秒 - _NET_WM_NAME changed to "vim ~/.config/i3/config"
+2022年02月19日 20时32分22秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分22秒 - dock status does not match
+2022年02月19日 20时32分22秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分22秒 - dock status does not match
+2022年02月19日 20时32分22秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分22秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分22秒 - window class matches (Terminator)
+2022年02月19日 20时32分22秒 - dock status matches
+2022年02月19日 20时32分22秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分22秒 - dock status does not match
+2022年02月19日 20时32分22秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分22秒 - dock status does not match
+2022年02月19日 20时32分22秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分22秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分22秒 - window class matches (Terminator)
+2022年02月19日 20时32分22秒 - dock status matches
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分22秒 - ClientMessage for window 0x020001b8
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分22秒 - ClientMessage for window 0x020001b8
+2022年02月19日 20时32分22秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分22秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年02月19日 20时32分22秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分22秒 - dock status does not match
+2022年02月19日 20时32分22秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分22秒 - dock status does not match
+2022年02月19日 20时32分22秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分22秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分22秒 - window class matches (Terminator)
+2022年02月19日 20时32分22秒 - dock status matches
+2022年02月19日 20时32分22秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分22秒 - dock status does not match
+2022年02月19日 20时32分22秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分22秒 - dock status does not match
+2022年02月19日 20时32分22秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分22秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分22秒 - window class matches (Terminator)
+2022年02月19日 20时32分22秒 - dock status matches
+2022年02月19日 20时32分23秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时32分23秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分23秒 - dock status does not match
+2022年02月19日 20时32分23秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分23秒 - dock status does not match
+2022年02月19日 20时32分23秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分23秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分23秒 - window class matches (Terminator)
+2022年02月19日 20时32分23秒 - dock status matches
+2022年02月19日 20时32分23秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分23秒 - dock status does not match
+2022年02月19日 20时32分23秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分23秒 - dock status does not match
+2022年02月19日 20时32分23秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分23秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分23秒 - window class matches (Terminator)
+2022年02月19日 20时32分23秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分27秒 - ClientMessage for window 0x02800008
+2022年02月19日 20时32分28秒 - WM_CLASS changed to blueberry.py (instance), Blueberry.py (class)
+2022年02月19日 20时32分28秒 - WM_NAME changed to "$(A@6$(B2g"
+2022年02月19日 20时32分28秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年02月19日 20时32分28秒 - _NET_WM_NAME changed to "蓝牙"
+2022年02月19日 20时32分28秒 - WM_HINTS.input changed to "1"
+2022年02月19日 20时32分28秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年02月19日 20时32分28秒 - Checking window 0x02800008 (class Blueberry.py)
+2022年02月19日 20时32分28秒 - dock status does not match
+2022年02月19日 20时32分28秒 - Checking window 0x02800008 (class Blueberry.py)
+2022年02月19日 20时32分28秒 - dock status does not match
+2022年02月19日 20时32分28秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分28秒 - Checking window 0x02800008 (class Blueberry.py)
+2022年02月19日 20时32分28秒 - Regular expression ".*" matches "Blueberry.py"
+2022年02月19日 20时32分28秒 - window class matches (Blueberry.py)
+2022年02月19日 20时32分28秒 - dock status matches
+2022年02月19日 20时32分28秒 - Checking window 0x00c00001 (class Polybar)
+2022年02月19日 20时32分28秒 - window id does not match
+2022年02月19日 20时32分28秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分28秒 - window id does not match
+2022年02月19日 20时32分28秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分28秒 - window id does not match
+2022年02月19日 20时32分28秒 - Checking window 0x02800008 (class Blueberry.py)
+2022年02月19日 20时32分28秒 - match made by window id (41943048)
+2022年02月19日 20时32分28秒 - dock status matches
+2022年02月19日 20时32分28秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分28秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c5e080
+2022年02月19日 20时32分28秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分28秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分31秒 - Sending WM_DELETE to the client
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分33秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分33秒 - expose event for unknown window, ignoring
+2022年02月19日 20时32分33秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分33秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分33秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分33秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分33秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分33秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时32分33秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分33秒 - dock status does not match
+2022年02月19日 20时32分33秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分33秒 - dock status does not match
+2022年02月19日 20时32分33秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分33秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分33秒 - window class matches (Terminator)
+2022年02月19日 20时32分33秒 - dock status matches
+2022年02月19日 20时32分33秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分33秒 - dock status does not match
+2022年02月19日 20时32分33秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分33秒 - dock status does not match
+2022年02月19日 20时32分33秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分33秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分33秒 - window class matches (Terminator)
+2022年02月19日 20时32分33秒 - dock status matches
+2022年02月19日 20时32分33秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时32分33秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分33秒 - dock status does not match
+2022年02月19日 20时32分33秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分33秒 - dock status does not match
+2022年02月19日 20时32分33秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分33秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分33秒 - window class matches (Terminator)
+2022年02月19日 20时32分33秒 - dock status matches
+2022年02月19日 20时32分33秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分33秒 - dock status does not match
+2022年02月19日 20时32分33秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分33秒 - dock status does not match
+2022年02月19日 20时32分33秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分33秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分33秒 - window class matches (Terminator)
+2022年02月19日 20时32分33秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分39秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分41秒 - ClientMessage for window 0x02800008
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分43秒 - WM_CLASS changed to blueberry.py (instance), Blueberry.py (class)
+2022年02月19日 20时32分43秒 - WM_NAME changed to "$(A@6$(B2g"
+2022年02月19日 20时32分43秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年02月19日 20时32分43秒 - _NET_WM_NAME changed to "蓝牙"
+2022年02月19日 20时32分43秒 - WM_HINTS.input changed to "1"
+2022年02月19日 20时32分43秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年02月19日 20时32分43秒 - Checking window 0x02800008 (class Blueberry.py)
+2022年02月19日 20时32分43秒 - dock status does not match
+2022年02月19日 20时32分43秒 - Checking window 0x02800008 (class Blueberry.py)
+2022年02月19日 20时32分43秒 - dock status does not match
+2022年02月19日 20时32分43秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分43秒 - Checking window 0x02800008 (class Blueberry.py)
+2022年02月19日 20时32分43秒 - Regular expression ".*" matches "Blueberry.py"
+2022年02月19日 20时32分43秒 - window class matches (Blueberry.py)
+2022年02月19日 20时32分43秒 - dock status matches
+2022年02月19日 20时32分43秒 - Checking window 0x00c00001 (class Polybar)
+2022年02月19日 20时32分43秒 - window id does not match
+2022年02月19日 20时32分43秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分43秒 - window id does not match
+2022年02月19日 20时32分43秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分43秒 - window id does not match
+2022年02月19日 20时32分43秒 - Checking window 0x02800008 (class Blueberry.py)
+2022年02月19日 20时32分43秒 - match made by window id (41943048)
+2022年02月19日 20时32分43秒 - dock status matches
+2022年02月19日 20时32分43秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分43秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c5e080
+2022年02月19日 20时32分43秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分43秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分44秒 - focused now = 0x5581e1c745e0 / (null)
+2022年02月19日 20时32分44秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时32分44秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+2022年02月19日 20时32分44秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时32分44秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c4c400
+2022年02月19日 20时32分45秒 - _NET_WM_NAME changed to "vim ~/.config/i3/config"
+2022年02月19日 20时32分45秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分45秒 - dock status does not match
+2022年02月19日 20时32分45秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分45秒 - dock status does not match
+2022年02月19日 20时32分45秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分45秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分45秒 - window class matches (Terminator)
+2022年02月19日 20时32分45秒 - dock status matches
+2022年02月19日 20时32分45秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分45秒 - dock status does not match
+2022年02月19日 20时32分45秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分45秒 - dock status does not match
+2022年02月19日 20时32分45秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分45秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分45秒 - window class matches (Terminator)
+2022年02月19日 20时32分45秒 - dock status matches
+2022年02月19日 20时32分45秒 - _NET_WM_NAME changed to "vim ~/.config/i3/config"
+2022年02月19日 20时32分45秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分45秒 - dock status does not match
+2022年02月19日 20时32分45秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分45秒 - dock status does not match
+2022年02月19日 20时32分45秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分45秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分45秒 - window class matches (Terminator)
+2022年02月19日 20时32分45秒 - dock status matches
+2022年02月19日 20时32分45秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分45秒 - dock status does not match
+2022年02月19日 20时32分45秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分45秒 - dock status does not match
+2022年02月19日 20时32分45秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分45秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分45秒 - window class matches (Terminator)
+2022年02月19日 20时32分45秒 - dock status matches
+2022年02月19日 20时32分45秒 - focused now = 0x5581e1c76b20 / (null)
+2022年02月19日 20时32分45秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c5e080
+2022年02月19日 20时32分45秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分45秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+2022年02月19日 20时32分45秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c5e080
+2022年02月19日 20时32分45秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分47秒 - Sending WM_DELETE to the client
+2022年02月19日 20时32分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分48秒 - expose event for unknown window, ignoring
+2022年02月19日 20时32分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分48秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时32分48秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分48秒 - dock status does not match
+2022年02月19日 20时32分48秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分48秒 - dock status does not match
+2022年02月19日 20时32分48秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分48秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分48秒 - window class matches (Terminator)
+2022年02月19日 20时32分48秒 - dock status matches
+2022年02月19日 20时32分48秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分48秒 - dock status does not match
+2022年02月19日 20时32分48秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分48秒 - dock status does not match
+2022年02月19日 20时32分48秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分48秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分48秒 - window class matches (Terminator)
+2022年02月19日 20时32分48秒 - dock status matches
+2022年02月19日 20时32分48秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时32分48秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分48秒 - dock status does not match
+2022年02月19日 20时32分48秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分48秒 - dock status does not match
+2022年02月19日 20时32分48秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分48秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分48秒 - window class matches (Terminator)
+2022年02月19日 20时32分48秒 - dock status matches
+2022年02月19日 20时32分48秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分48秒 - dock status does not match
+2022年02月19日 20时32分48秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分48秒 - dock status does not match
+2022年02月19日 20时32分48秒 - Checking window 0x020001b8 (class Terminator)
+2022年02月19日 20时32分48秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分48秒 - window class matches (Terminator)
+2022年02月19日 20时32分48秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时32分49秒 - Sending WM_DELETE to the client
+2022年02月19日 20时32分49秒 - workspace visible? fs = 0x5581e1c4c400, ws = 0x5581e1c4c400
+2022年02月19日 20时32分49秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分49秒 - expose event for unknown window, ignoring
+2022年02月19日 20时32分49秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分49秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分49秒 - Not a managed window, ignoring UnmapNotify event
+<window.Window object at 0x7fbbb3a71e00 (terminatorlib+window+Window at 0x55be49e18540)> is not in registered window list
+2022年02月19日 20时32分50秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c4c400
+2022年02月19日 20时32分50秒 - Closing old workspace (0x5581e1c4c400 / 2), it is empty
+2022年02月19日 20时32分50秒 - focused now = 0x5581e1c745e0 / (null)
+2022年02月19日 20时32分50秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时32分50秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+2022年02月19日 20时32分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时32分50秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时32分50秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时32分50秒 - _NET_WM_NAME changed to "vim ~/.config/i3/config"
+2022年02月19日 20时32分50秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分50秒 - dock status does not match
+2022年02月19日 20时32分50秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分50秒 - dock status does not match
+2022年02月19日 20时32分50秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分50秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分50秒 - window class matches (Terminator)
+2022年02月19日 20时32分50秒 - dock status matches
+2022年02月19日 20时32分50秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分50秒 - dock status does not match
+2022年02月19日 20时32分50秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分50秒 - dock status does not match
+2022年02月19日 20时32分50秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时32分50秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时32分50秒 - window class matches (Terminator)
+2022年02月19日 20时32分50秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时33分00秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时33分34秒 - startup id = i3/rofi/739-3-alexarch_TIME175606
+2022年02月19日 20时33分34秒 - executing: rofi -show run
+2022年02月19日 20时33分34秒 - Not a managed window, ignoring UnmapNotify event
+
+(process:3572): Helpers.IconFetcher-WARNING **: 20:33:34.637: Failed to load image: 打开文件“2to3-3.10”失败：没有那个文件或目录
+2022年02月19日 20时33分34秒 - _NET_WM_NAME changed to "vim ~/.config/i3/config"
+2022年02月19日 20时33分34秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分34秒 - dock status does not match
+2022年02月19日 20时33分34秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分34秒 - dock status does not match
+2022年02月19日 20时33分34秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分34秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时33分34秒 - window class matches (Terminator)
+2022年02月19日 20时33分34秒 - dock status matches
+2022年02月19日 20时33分34秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分34秒 - dock status does not match
+2022年02月19日 20时33分34秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分34秒 - dock status does not match
+2022年02月19日 20时33分34秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分34秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时33分34秒 - window class matches (Terminator)
+2022年02月19日 20时33分34秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(process:3572): Helpers.IconFetcher-WARNING **: 20:33:36.877: Failed to load image: 打开文件“alsabat-test.sh”失败：没有那个文件或目录
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时33分41秒 - _NET_WM_NAME changed to "vim ~/.config/i3/config"
+2022年02月19日 20时33分41秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分41秒 - dock status does not match
+2022年02月19日 20时33分41秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分41秒 - dock status does not match
+2022年02月19日 20时33分41秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分41秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时33分41秒 - window class matches (Terminator)
+2022年02月19日 20时33分41秒 - dock status matches
+2022年02月19日 20时33分41秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分41秒 - dock status does not match
+2022年02月19日 20时33分41秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分41秒 - dock status does not match
+2022年02月19日 20时33分41秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分41秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时33分41秒 - window class matches (Terminator)
+2022年02月19日 20时33分41秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时33分44秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时33分44秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分44秒 - dock status does not match
+2022年02月19日 20时33分44秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分44秒 - dock status does not match
+2022年02月19日 20时33分44秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分44秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时33分44秒 - window class matches (Terminator)
+2022年02月19日 20时33分44秒 - dock status matches
+2022年02月19日 20时33分44秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分44秒 - dock status does not match
+2022年02月19日 20时33分44秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分44秒 - dock status does not match
+2022年02月19日 20时33分44秒 - Checking window 0x02000007 (class Terminator)
+2022年02月19日 20时33分44秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时33分44秒 - window class matches (Terminator)
+2022年02月19日 20时33分44秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时33分44秒 - Sending WM_DELETE to the client
+2022年02月19日 20时33分44秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时33分44秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时33分44秒 - expose event for unknown window, ignoring
+2022年02月19日 20时33分44秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时33分44秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时33分44秒 - Not a managed window, ignoring UnmapNotify event
+<window.Window object at 0x7fbbb3c8e9c0 (terminatorlib+window+Window at 0x55be49e182a0)> is not in registered window list
+2022年02月19日 20时33分46秒 - executing: microsoft-edge-stable
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+[3744:3744:0219/203349.651113:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+[3648:3648:0219/203349.866548:ERROR:assistance_home_client.cc(23)] File path /home/alex/.config/microsoft-edge/Default
+2022年02月19日 20时33分50秒 - WM_CLASS changed to microsoft-edge (instance), Microsoft-edge (class)
+2022年02月19日 20时33分50秒 - WM_NAME changed to "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时33分50秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年02月19日 20时33分50秒 - _NET_WM_NAME changed to "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时33分50秒 - WM_WINDOW_ROLE changed to "browser"
+2022年02月19日 20时33分50秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年02月19日 20时33分50秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分50秒 - dock status does not match
+2022年02月19日 20时33分50秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分50秒 - dock status does not match
+2022年02月19日 20时33分50秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时33分50秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分50秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分50秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分50秒 - dock status matches
+2022年02月19日 20时33分50秒 - Checking window 0x00c00001 (class Polybar)
+2022年02月19日 20时33分50秒 - window id does not match
+2022年02月19日 20时33分50秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分50秒 - match made by window id (33554435)
+2022年02月19日 20时33分50秒 - dock status matches
+2022年02月19日 20时33分50秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时33分50秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时33分50秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+2022年02月19日 20时33分50秒 - ClientMessage for window 0x02000003
+2022年02月19日 20时33分50秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时33分50秒 - ClientMessage for window 0x02000003
+2022年02月19日 20时33分50秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+[3648:3977:0219/203350.495785:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[3648:3977:0219/203350.496092:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[3648:3977:0219/203350.496436:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时33分52秒 - _NET_WM_NAME changed to "Microsoft Edge 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时33分52秒 - _NET_WM_NAME changed to "Microsoft Edge 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+2022年02月19日 20时33分52秒 - _NET_WM_NAME changed to "Microsoft Edge 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+2022年02月19日 20时33分52秒 - _NET_WM_NAME changed to "Microsoft Edge 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+2022年02月19日 20时33分52秒 - _NET_WM_NAME changed to "Microsoft Edge 和另外 5 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+2022年02月19日 20时33分52秒 - _NET_WM_NAME changed to "Microsoft Edge 和另外 6 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+2022年02月19日 20时33分52秒 - _NET_WM_NAME changed to "Microsoft Edge 和另外 7 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status does not match
+2022年02月19日 20时33分52秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时33分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时33分52秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时33分52秒 - dock status matches
+2022年02月19日 20时33分52秒 - ClientMessage for window 0x02000003
+2022年02月19日 20时33分52秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时33分56秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时33分57秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时34分09秒 - _NET_WM_NAME changed to "新建标签页 和另外 6 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时34分09秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分09秒 - dock status does not match
+2022年02月19日 20时34分09秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分09秒 - dock status does not match
+2022年02月19日 20时34分09秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分09秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时34分09秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时34分09秒 - dock status matches
+2022年02月19日 20时34分09秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分09秒 - dock status does not match
+2022年02月19日 20时34分09秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分09秒 - dock status does not match
+2022年02月19日 20时34分09秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分09秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时34分09秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时34分09秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:13.562: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:13.679: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:14.038: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:14.278: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:14.729: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:14.822: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:15.031: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:15.210: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:15.988: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:17.461: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:17.642: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:17.822: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:18.152: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:19.922: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:20.130: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:20.492: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:20.703: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:21.063: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:21.213: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:21.362: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:22.951: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:23.133: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:23.253: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:23.402: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:27.363: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:27.542: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:27.723: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:3648): Gdk-WARNING **: 20:34:27.934: gdk_window_set_user_time called on non-toplevel
+
+2022年02月19日 20时34分27秒 - ClientMessage for window 0x02000003
+2022年02月19日 20时34分27秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时34分28秒 - _NET_WM_NAME changed to "arch 网络管理 - Search 和另外 6 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时34分28秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分28秒 - dock status does not match
+2022年02月19日 20时34分28秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分28秒 - dock status does not match
+2022年02月19日 20时34分28秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分28秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时34分28秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时34分28秒 - dock status matches
+2022年02月19日 20时34分28秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分28秒 - dock status does not match
+2022年02月19日 20时34分28秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分28秒 - dock status does not match
+2022年02月19日 20时34分28秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分28秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时34分28秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时34分28秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时34分32秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时34分32秒 - _NET_WM_NAME changed to "arch 网络管理 - Search 和另外 7 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时34分32秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分32秒 - dock status does not match
+2022年02月19日 20时34分32秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分32秒 - dock status does not match
+2022年02月19日 20时34分32秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分32秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时34分32秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时34分32秒 - dock status matches
+2022年02月19日 20时34分32秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分32秒 - dock status does not match
+2022年02月19日 20时34分32秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分32秒 - dock status does not match
+2022年02月19日 20时34分32秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分32秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时34分32秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时34分32秒 - dock status matches
+2022年02月19日 20时34分32秒 - ClientMessage for window 0x02000003
+2022年02月19日 20时34分32秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时34分34秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时34分36秒 - _NET_WM_NAME changed to "NetworkManager (简体中文) - ArchWiki 和另外 7 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时34分36秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分36秒 - dock status does not match
+2022年02月19日 20时34分36秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分36秒 - dock status does not match
+2022年02月19日 20时34分36秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分36秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时34分36秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时34分36秒 - dock status matches
+2022年02月19日 20时34分36秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分36秒 - dock status does not match
+2022年02月19日 20时34分36秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分36秒 - dock status does not match
+2022年02月19日 20时34分36秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分36秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时34分36秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时34分36秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时34分50秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时34分54秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时34分54秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时34分57秒 - executing: terminator
+2022年02月19日 20时34分57秒 - ClientMessage for window 0x03200007
+2022年02月19日 20时34分57秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年02月19日 20时34分57秒 - WM_NAME changed to "None"
+2022年02月19日 20时34分57秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年02月19日 20时34分57秒 - _NET_WM_NAME changed to "None"
+2022年02月19日 20时34分57秒 - WM_HINTS.input changed to "1"
+2022年02月19日 20时34分57秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年02月19日 20时34分57秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分57秒 - dock status does not match
+2022年02月19日 20时34分57秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分57秒 - dock status does not match
+2022年02月19日 20时34分57秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时34分57秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分57秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时34分57秒 - window class matches (Terminator)
+2022年02月19日 20时34分57秒 - dock status matches
+2022年02月19日 20时34分57秒 - Checking window 0x00c00001 (class Polybar)
+2022年02月19日 20时34分57秒 - window id does not match
+2022年02月19日 20时34分57秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时34分57秒 - window id does not match
+2022年02月19日 20时34分57秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分57秒 - match made by window id (52428807)
+2022年02月19日 20时34分57秒 - dock status matches
+2022年02月19日 20时34分57秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时34分57秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时34分57秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+2022年02月19日 20时34分57秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年02月19日 20时34分57秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分57秒 - dock status does not match
+2022年02月19日 20时34分57秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分57秒 - dock status does not match
+2022年02月19日 20时34分57秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分57秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时34分57秒 - window class matches (Terminator)
+2022年02月19日 20时34分57秒 - dock status matches
+2022年02月19日 20时34分57秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分57秒 - dock status does not match
+2022年02月19日 20时34分57秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分57秒 - dock status does not match
+2022年02月19日 20时34分57秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分57秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时34分57秒 - window class matches (Terminator)
+2022年02月19日 20时34分57秒 - dock status matches
+2022年02月19日 20时34分58秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时34分58秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分58秒 - dock status does not match
+2022年02月19日 20时34分58秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分58秒 - dock status does not match
+2022年02月19日 20时34分58秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分58秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时34分58秒 - window class matches (Terminator)
+2022年02月19日 20时34分58秒 - dock status matches
+2022年02月19日 20时34分58秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分58秒 - dock status does not match
+2022年02月19日 20时34分58秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分58秒 - dock status does not match
+2022年02月19日 20时34分58秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时34分58秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时34分58秒 - window class matches (Terminator)
+2022年02月19日 20时34分58秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时35分09秒 - _NET_WM_NAME changed to "sudo pacman -S nm-connection-editor"
+2022年02月19日 20时35分09秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分09秒 - dock status does not match
+2022年02月19日 20时35分09秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分09秒 - dock status does not match
+2022年02月19日 20时35分09秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分09秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时35分09秒 - window class matches (Terminator)
+2022年02月19日 20时35分09秒 - dock status matches
+2022年02月19日 20时35分09秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分09秒 - dock status does not match
+2022年02月19日 20时35分09秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分09秒 - dock status does not match
+2022年02月19日 20时35分09秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分09秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时35分09秒 - window class matches (Terminator)
+2022年02月19日 20时35分09秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时35分15秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时35分15秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分15秒 - dock status does not match
+2022年02月19日 20时35分15秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分15秒 - dock status does not match
+2022年02月19日 20时35分15秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分15秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时35分15秒 - window class matches (Terminator)
+2022年02月19日 20时35分15秒 - dock status matches
+2022年02月19日 20时35分15秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分15秒 - dock status does not match
+2022年02月19日 20时35分15秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分15秒 - dock status does not match
+2022年02月19日 20时35分15秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分15秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时35分15秒 - window class matches (Terminator)
+2022年02月19日 20时35分15秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时35分25秒 - WM_HINTS.input changed to "1"
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时35分35秒 - _NET_WM_NAME changed to "sudo pacman -S network-manager-applet"
+2022年02月19日 20时35分35秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分35秒 - dock status does not match
+2022年02月19日 20时35分35秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分35秒 - dock status does not match
+2022年02月19日 20时35分35秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分35秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时35分35秒 - window class matches (Terminator)
+2022年02月19日 20时35分35秒 - dock status matches
+2022年02月19日 20时35分35秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分35秒 - dock status does not match
+2022年02月19日 20时35分35秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分35秒 - dock status does not match
+2022年02月19日 20时35分35秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分35秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时35分35秒 - window class matches (Terminator)
+2022年02月19日 20时35分35秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时35分40秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时35分40秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分40秒 - dock status does not match
+2022年02月19日 20时35分40秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分40秒 - dock status does not match
+2022年02月19日 20时35分40秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分40秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时35分40秒 - window class matches (Terminator)
+2022年02月19日 20时35分40秒 - dock status matches
+2022年02月19日 20时35分40秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分40秒 - dock status does not match
+2022年02月19日 20时35分40秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分40秒 - dock status does not match
+2022年02月19日 20时35分40秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分40秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时35分40秒 - window class matches (Terminator)
+2022年02月19日 20时35分40秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时35分41秒 - startup id = i3/rofi/739-4-alexarch_TIME302674
+2022年02月19日 20时35分41秒 - executing: rofi -show drun
+2022年02月19日 20时35分41秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时35分41秒 - WM_HINTS.input changed to "1"
+2022年02月19日 20时35分41秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时35分41秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分41秒 - dock status does not match
+2022年02月19日 20时35分41秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分41秒 - dock status does not match
+2022年02月19日 20时35分41秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分41秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时35分41秒 - window class matches (Terminator)
+2022年02月19日 20时35分41秒 - dock status matches
+2022年02月19日 20时35分41秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分41秒 - dock status does not match
+2022年02月19日 20时35分41秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分41秒 - dock status does not match
+2022年02月19日 20时35分41秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时35分41秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时35分41秒 - window class matches (Terminator)
+2022年02月19日 20时35分41秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时36分02秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时36分02秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分02秒 - dock status does not match
+2022年02月19日 20时36分02秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分02秒 - dock status does not match
+2022年02月19日 20时36分02秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分02秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分02秒 - window class matches (Terminator)
+2022年02月19日 20时36分02秒 - dock status matches
+2022年02月19日 20时36分02秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分02秒 - dock status does not match
+2022年02月19日 20时36分02秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分02秒 - dock status does not match
+2022年02月19日 20时36分02秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分02秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分02秒 - window class matches (Terminator)
+2022年02月19日 20时36分02秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时36分02秒 - ClientMessage for window 0x03600007
+2022年02月19日 20时36分02秒 - WM_CLASS changed to nm-connection-editor (instance), Nm-connection-editor (class)
+2022年02月19日 20时36分02秒 - WM_NAME changed to "$(AMxBgA,=S"
+2022年02月19日 20时36分02秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年02月19日 20时36分02秒 - _NET_WM_NAME changed to "网络连接"
+2022年02月19日 20时36分02秒 - WM_HINTS.input changed to "1"
+2022年02月19日 20时36分02秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年02月19日 20时36分02秒 - Checking window 0x03600007 (class Nm-connection-editor)
+2022年02月19日 20时36分02秒 - dock status does not match
+2022年02月19日 20时36分02秒 - Checking window 0x03600007 (class Nm-connection-editor)
+2022年02月19日 20时36分02秒 - dock status does not match
+2022年02月19日 20时36分02秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时36分02秒 - Checking window 0x03600007 (class Nm-connection-editor)
+2022年02月19日 20时36分02秒 - Regular expression ".*" matches "Nm-connection-editor"
+2022年02月19日 20时36分02秒 - window class matches (Nm-connection-editor)
+2022年02月19日 20时36分02秒 - dock status matches
+2022年02月19日 20时36分02秒 - Checking window 0x00c00001 (class Polybar)
+2022年02月19日 20时36分02秒 - window id does not match
+2022年02月19日 20时36分02秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时36分02秒 - window id does not match
+2022年02月19日 20时36分02秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分02秒 - window id does not match
+2022年02月19日 20时36分02秒 - Checking window 0x03600007 (class Nm-connection-editor)
+2022年02月19日 20时36分02秒 - match made by window id (56623111)
+2022年02月19日 20时36分02秒 - dock status matches
+2022年02月19日 20时36分02秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时36分02秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时36分02秒 - workspace visible? fs = 0x5581e1c5a4d0, ws = 0x5581e1c5a4d0
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时36分11秒 - Sending WM_DELETE to the client
+2022年02月19日 20时36分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时36分11秒 - expose event for unknown window, ignoring
+2022年02月19日 20时36分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时36分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时36分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时36分12秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时36分12秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分12秒 - dock status does not match
+2022年02月19日 20时36分12秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分12秒 - dock status does not match
+2022年02月19日 20时36分12秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分12秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分12秒 - window class matches (Terminator)
+2022年02月19日 20时36分12秒 - dock status matches
+2022年02月19日 20时36分12秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分12秒 - dock status does not match
+2022年02月19日 20时36分12秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分12秒 - dock status does not match
+2022年02月19日 20时36分12秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分12秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分12秒 - window class matches (Terminator)
+2022年02月19日 20时36分12秒 - dock status matches
+2022年02月19日 20时36分12秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时36分12秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分12秒 - dock status does not match
+2022年02月19日 20时36分12秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分12秒 - dock status does not match
+2022年02月19日 20时36分12秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分12秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分12秒 - window class matches (Terminator)
+2022年02月19日 20时36分12秒 - dock status matches
+2022年02月19日 20时36分12秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分12秒 - dock status does not match
+2022年02月19日 20时36分12秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分12秒 - dock status does not match
+2022年02月19日 20时36分12秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分12秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分12秒 - window class matches (Terminator)
+2022年02月19日 20时36分12秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时36分41秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时36分43秒 - _NET_WM_NAME changed to "nm-applet"
+2022年02月19日 20时36分43秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分43秒 - dock status does not match
+2022年02月19日 20时36分43秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分43秒 - dock status does not match
+2022年02月19日 20时36分43秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分43秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分43秒 - window class matches (Terminator)
+2022年02月19日 20时36分43秒 - dock status matches
+2022年02月19日 20时36分43秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分43秒 - dock status does not match
+2022年02月19日 20时36分43秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分43秒 - dock status does not match
+2022年02月19日 20时36分43秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分43秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分43秒 - window class matches (Terminator)
+2022年02月19日 20时36分43秒 - dock status matches
+WARNING: No icon found in path: 'nm-signal-75'
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时36分46秒 - _NET_WM_NAME changed to "nm-applet"
+2022年02月19日 20时36分46秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分46秒 - dock status does not match
+2022年02月19日 20时36分46秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分46秒 - dock status does not match
+2022年02月19日 20时36分46秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分46秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分46秒 - window class matches (Terminator)
+2022年02月19日 20时36分46秒 - dock status matches
+2022年02月19日 20时36分46秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分46秒 - dock status does not match
+2022年02月19日 20时36分46秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分46秒 - dock status does not match
+2022年02月19日 20时36分46秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分46秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分46秒 - window class matches (Terminator)
+2022年02月19日 20时36分46秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时36分49秒 - _NET_WM_NAME changed to "nm-applet"
+2022年02月19日 20时36分49秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分49秒 - dock status does not match
+2022年02月19日 20时36分49秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分49秒 - dock status does not match
+2022年02月19日 20时36分49秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分49秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分49秒 - window class matches (Terminator)
+2022年02月19日 20时36分49秒 - dock status matches
+2022年02月19日 20时36分49秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分49秒 - dock status does not match
+2022年02月19日 20时36分49秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分49秒 - dock status does not match
+2022年02月19日 20时36分49秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分49秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分49秒 - window class matches (Terminator)
+2022年02月19日 20时36分49秒 - dock status matches
+2022年02月19日 20时36分49秒 - _NET_WM_NAME changed to "nm-applet"
+2022年02月19日 20时36分49秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分49秒 - dock status does not match
+2022年02月19日 20时36分49秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分49秒 - dock status does not match
+2022年02月19日 20时36分49秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分49秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分49秒 - window class matches (Terminator)
+2022年02月19日 20时36分49秒 - dock status matches
+2022年02月19日 20时36分49秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分49秒 - dock status does not match
+2022年02月19日 20时36分49秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分49秒 - dock status does not match
+2022年02月19日 20时36分49秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分49秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分49秒 - window class matches (Terminator)
+2022年02月19日 20时36分49秒 - dock status matches
+2022年02月19日 20时36分50秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时36分50秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分50秒 - dock status does not match
+2022年02月19日 20时36分50秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分50秒 - dock status does not match
+2022年02月19日 20时36分50秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分50秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分50秒 - window class matches (Terminator)
+2022年02月19日 20时36分50秒 - dock status matches
+2022年02月19日 20时36分50秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分50秒 - dock status does not match
+2022年02月19日 20时36分50秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分50秒 - dock status does not match
+2022年02月19日 20时36分50秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分50秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分50秒 - window class matches (Terminator)
+2022年02月19日 20时36分50秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时36分55秒 - ClientMessage for window 0x022001c1
+2022年02月19日 20时36分56秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时36分56秒 - ClientMessage for window 0x022001d5
+2022年02月19日 20时36分58秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时36分58秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时36分58秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分58秒 - dock status does not match
+2022年02月19日 20时36分58秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分58秒 - dock status does not match
+2022年02月19日 20时36分58秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分58秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分58秒 - window class matches (Terminator)
+2022年02月19日 20时36分58秒 - dock status matches
+2022年02月19日 20时36分58秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分58秒 - dock status does not match
+2022年02月19日 20时36分58秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分58秒 - dock status does not match
+2022年02月19日 20时36分58秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时36分58秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时36分58秒 - window class matches (Terminator)
+2022年02月19日 20时36分58秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时37分01秒 - _NET_WM_NAME changed to "vim ~/.config/i3/config"
+2022年02月19日 20时37分01秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时37分01秒 - dock status does not match
+2022年02月19日 20时37分01秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时37分01秒 - dock status does not match
+2022年02月19日 20时37分01秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时37分01秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时37分01秒 - window class matches (Terminator)
+2022年02月19日 20时37分01秒 - dock status matches
+2022年02月19日 20时37分01秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时37分01秒 - dock status does not match
+2022年02月19日 20时37分01秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时37分01秒 - dock status does not match
+2022年02月19日 20时37分01秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时37分01秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时37分01秒 - window class matches (Terminator)
+2022年02月19日 20时37分01秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时37分22秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年02月19日 20时37分22秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时37分22秒 - dock status does not match
+2022年02月19日 20时37分22秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时37分22秒 - dock status does not match
+2022年02月19日 20时37分22秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时37分22秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时37分22秒 - window class matches (Terminator)
+2022年02月19日 20时37分22秒 - dock status matches
+2022年02月19日 20时37分22秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时37分22秒 - dock status does not match
+2022年02月19日 20时37分22秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时37分22秒 - dock status does not match
+2022年02月19日 20时37分22秒 - Checking window 0x03200007 (class Terminator)
+2022年02月19日 20时37分22秒 - Regular expression ".*" matches "Terminator"
+2022年02月19日 20时37分22秒 - window class matches (Terminator)
+2022年02月19日 20时37分22秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时37分26秒 - Sending WM_DELETE to the client
+<window.Window object at 0x7f61e2c3ccc0 (terminatorlib+window+Window at 0x56041594a2a0)> is not in registered window list
+2022年02月19日 20时37分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时37分26秒 - expose event for unknown window, ignoring
+2022年02月19日 20时37分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时37分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时37分26秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时37分32秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时37分33秒 - _NET_WM_NAME changed to "arch 网络管理 - Search 和另外 7 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时37分33秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分33秒 - dock status does not match
+2022年02月19日 20时37分33秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分33秒 - dock status does not match
+2022年02月19日 20时37分33秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分33秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时37分33秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时37分33秒 - dock status matches
+2022年02月19日 20时37分33秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分33秒 - dock status does not match
+2022年02月19日 20时37分33秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分33秒 - dock status does not match
+2022年02月19日 20时37分33秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分33秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时37分33秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时37分33秒 - dock status matches
+2022年02月19日 20时37分34秒 - Not a managed window, ignoring UnmapNotify event
+2022年02月19日 20时37分34秒 - _NET_WM_NAME changed to "NetworkManager (简体中文) - ArchWiki 和另外 6 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时37分34秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分34秒 - dock status does not match
+2022年02月19日 20时37分34秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分34秒 - dock status does not match
+2022年02月19日 20时37分34秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分34秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时37分34秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时37分34秒 - dock status matches
+2022年02月19日 20时37分34秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分34秒 - dock status does not match
+2022年02月19日 20时37分34秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分34秒 - dock status does not match
+2022年02月19日 20时37分34秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分34秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时37分34秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时37分34秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时37分34秒 - _NET_WM_NAME changed to "Python数学模型——线性规划求解（一）_Reclusiveman的博客-CSDN博客_python 线性规划 和另外 5 个页面 - 个人 - Microsoft​ Edge"
+2022年02月19日 20时37分34秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分34秒 - dock status does not match
+2022年02月19日 20时37分34秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分34秒 - dock status does not match
+2022年02月19日 20时37分34秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分34秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时37分34秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时37分34秒 - dock status matches
+2022年02月19日 20时37分34秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分34秒 - dock status does not match
+2022年02月19日 20时37分34秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分34秒 - dock status does not match
+2022年02月19日 20时37分34秒 - Checking window 0x02000003 (class Microsoft-edge)
+2022年02月19日 20时37分34秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年02月19日 20时37分34秒 - window class matches (Microsoft-edge)
+2022年02月19日 20时37分34秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年02月19日 20时37分39秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+2022年02月19日 20时37分40秒 - executing: systemctl reboot
+2022年02月19日 20时37分40秒 - workspace visible? fs = 0x5581e1c5e080, ws = 0x5581e1c5e080
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address (polkit-error-quark, 0)
+=========================
+Fcitx 5.0.14 -- Get Signal No.: 15
+Date: try "date -d @1645274260" if you are using GNU date ***
+ProcessID: 752
+fcitx5(+0xcfd7)[0x55a993b9dfd7]
+/usr/lib/libc.so.6(+0x42560)[0x7f88e4d83560]
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+/usr/lib/libc.so.6(epoll_wait+0x5e)[0x7f88e4e539ae]
+/usr/lib/libsystemd.so.0(sd_event_wait+0x172)[0x7f88e4c82cd2]
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+/usr/lib/libsystemd.so.0(sd_event_run+0x1ac)[0x7f88e4c8408c]
+/usr/lib/libsystemd.so.0(sd_event_loop+0x60)[0x7f88e4c841d0]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx9EventLoop4execEv+0x16)[0x7f88e520c826]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4execEv+0x57)[0x7f88e52ca927]
+fcitx5(+0xb6f8)[0x55a993b9c6f8]
+/usr/lib/libc.so.6(+0x2d310)[0x7f88e4d6e310]
+/usr/lib/libc.so.6(__libc_start_main+0x81)[0x7f88e4d6e3c1]
+fcitx5(+0xc74e)[0x55a993b9d74e]
+W2022-02-19 20:37:40.501746 xcbeventreader.cpp:39] XCB connection ":0" got error: 1
+=========================
+Fcitx 5.0.14 -- Get Signal No.: 1
+Date: try "date -d @1645274260" if you are using GNU date ***
+ProcessID: 752
+fcitx5(+0xcfd7)[0x55a993b9dfd7]
+/usr/lib/libc.so.6(+0x42560)[0x7f88e4d83560]
+/usr/lib/libc.so.6(fsync+0x3b)[0x7f88e4e49dbb]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx20StandardPathTempFile5closeEv+0x39)[0x7f88e5216e49]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx20StandardPathTempFileD1Ev+0x1c)[0x7f88e521709c]
+/usr/lib/libFcitx5Utils.so.2(_ZNK5fcitx12StandardPath8safeSaveENS0_4TypeERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERKSt8functionIFbiEE+0x53)[0x7f88e521f8a3]
+/usr/lib/libFcitx5Config.so.6(_ZN5fcitx13safeSaveAsIniERKNS_9RawConfigENS_12StandardPath4TypeERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x5c)[0x7f88e528321c]
+/usr/lib/libFcitx5Config.so.6(_ZN5fcitx13safeSaveAsIniERKNS_13ConfigurationENS_12StandardPath4TypeERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x4f)[0x7f88e52832df]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx18InputMethodManager4saveEv+0x402)[0x7f88e52f4a72]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4saveEv+0x28)[0x7f88e52cd868]
+/usr/lib/libFcitx5Core.so.7(+0x4e1af)[0x7f88e52e11af]
+/usr/lib/libFcitx5Utils.so.2(+0x45f4c)[0x7f88e5216f4c]
+/usr/lib/libsystemd.so.0(+0x79dfd)[0x7f88e4c80dfd]
+/usr/lib/libsystemd.so.0(sd_event_dispatch+0x270)[0x7f88e4c81420]
+/usr/lib/libsystemd.so.0(sd_event_run+0x119)[0x7f88e4c83ff9]
+/usr/lib/libsystemd.so.0(sd_event_loop+0x60)[0x7f88e4c841d0]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx9EventLoop4execEv+0x16)[0x7f88e520c826]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4execEv+0x57)[0x7f88e52ca927]
+fcitx5(+0xb6f8)[0x55a993b9c6f8]
+/usr/lib/libc.so.6(+0x2d310)[0x7f88e4d6e310]
+/usr/lib/libc.so.6(__libc_start_main+0x81)[0x7f88e4d6e3c1]
+fcitx5(+0xc74e)[0x55a993b9d74e]
+I2022-02-19 20:37:40.514982 addonmanager.cpp:297] Unloading addon rime
+I2022-02-19 20:37:40.515451 addonmanager.cpp:297] Unloading addon notifications
+I2022-02-19 20:37:40.515520 addonmanager.cpp:297] Unloading addon notificationitem
+I2022-02-19 20:37:40.515604 addonmanager.cpp:297] Unloading addon classicui
+I2022-02-19 20:37:40.518539 addonmanager.cpp:297] Unloading addon kimpanel
+I2022-02-19 20:37:40.518601 addonmanager.cpp:297] Unloading addon unicode
+I2022-02-19 20:37:40.518652 addonmanager.cpp:297] Unloading addon waylandim
+I2022-02-19 20:37:40.518691 addonmanager.cpp:297] Unloading addon clipboard
+I2022-02-19 20:37:40.518741 addonmanager.cpp:297] Unloading addon wayland
+I2022-02-19 20:37:40.518782 addonmanager.cpp:297] Unloading addon xim
+I2022-02-19 20:37:40.518831 addonmanager.cpp:297] Unloading addon ibusfrontend
+I2022-02-19 20:37:40.529000 addonmanager.cpp:297] Unloading addon fcitx4frontend
+I2022-02-19 20:37:40.529127 addonmanager.cpp:297] Unloading addon dbusfrontend
+I2022-02-19 20:37:40.529197 addonmanager.cpp:297] Unloading addon dbus
+I2022-02-19 20:37:40.529283 addonmanager.cpp:297] Unloading addon keyboard
+I2022-02-19 20:37:40.529513 addonmanager.cpp:297] Unloading addon quickphrase
+I2022-02-19 20:37:40.529775 addonmanager.cpp:297] Unloading addon xcb
+I2022-02-19 20:37:40.529806 inputcontextmanager.cpp:318] All display connections are gone, exit now.
+I2022-02-19 20:37:40.530300 addonmanager.cpp:297] Unloading addon imselector

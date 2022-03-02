@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "86a7c62ad99e7eae",
+    "type": "split",
+    "children": [
+      {
+        "id": "836da8115c67848d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce65e2dbf7e3493d",
+    "type": "split",
+    "children": [
+      {
+        "id": "38a33f10061f4a5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6548c715b01121f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c4f85c83a6c7740",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2fa24cd3fc79e57",
+    "type": "split",
+    "children": [
+      {
+        "id": "960a06e5afe2c102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a54d554cba78ab7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3fc7245e4e3138e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "824bb287748ccefc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8b69ba089150b9b",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "836da8115c67848d",
+  "lastOpenFiles": [
+    "README.md",
+    "TODO.md",
+    "NGMN_5G_White_Paper_V1_0.pdf",
+    "Drawing 2022-03-02 15.26.36.excalidraw.md",
+    "Excalidraw/Drawing 2022-03-02 15.24.04.excalidraw.md",
+    "Excalidraw/Drawing 2022-03-02 15.23.32.excalidraw.md",
+    "相关参考/5G&能源深度融合 为“碳达峰碳中和”提速-北极星输配电网.pdf"
+  ]
+}

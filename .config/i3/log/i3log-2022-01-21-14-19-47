@@ -1,0 +1,382 @@
+2022年01月21日 14时19分48秒 - i3 4.20.1 (2021-11-03) starting
+2022年01月21日 14时19分48秒 - Parsing configfile /home/alex/.config/i3/config
+2022年01月21日 14时19分48秒 - Changing working directory to config file directory /home/alex/.config/i3
+2022年01月21日 14时19分48秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2022年01月21日 14时19分48秒 - [libi3] ../i3-4.20.1/libi3/font.c Using Pango font Input Nerd Font, size 9
+2022年01月21日 14时19分48秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时19分48秒 - focused now = 0x55b48cb0b140 / 1
+2022年01月21日 14时19分48秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时19分48秒 - workspace visible? fs = 0x55b48cb07280, ws = 0x55b48cb07280
+2022年01月21日 14时19分48秒 - This is not an in-place restart, checking if a wallpaper is set.
+2022年01月21日 14时19分48秒 - A wallpaper is set, so no screenshot is necessary.
+2022年01月21日 14时19分48秒 - auto-starting xautolock -time 5 -locker '/usr/bin/betterlockscreen -l' -corners ---- -cornersize 30 &
+2022年01月21日 14时19分48秒 - executing: xautolock -time 5 -locker '/usr/bin/betterlockscreen -l' -corners ---- -cornersize 30 &
+2022年01月21日 14时19分48秒 - auto-starting fcitx5
+2022年01月21日 14时19分48秒 - executing: fcitx5
+2022年01月21日 14时19分48秒 - auto-starting dunst
+2022年01月21日 14时19分48秒 - executing: dunst
+2022年01月21日 14时19分48秒 - auto-starting feh --bg-fill feh/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+2022年01月21日 14时19分48秒 - executing: feh --bg-fill feh/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+2022年01月21日 14时19分48秒 - auto-starting picom -b
+2022年01月21日 14时19分48秒 - executing: picom -b
+2022年01月21日 14时19分48秒 - auto-starting $HOME/.config/i3/bin/i3bar
+2022年01月21日 14时19分48秒 - executing: $HOME/.config/i3/bin/i3bar
+[ 2022年01月21日 14:19:48.157 parse_config_libconfig WARN ] Invalid blur method dual_kawase, ignoring.
+WARNING: Setting geometry in section global doesn't exist
+WARNING: Setting notification_height in section global doesn't exist
+WARNING: Setting startup_notification in section global doesn't exist
+WARNING: Setting verbosity in section global doesn't exist
+WARNING: Section shortcuts is deprecated.
+Acting on notifications has been moved to its own utility. For more information, see the manual for dunstctl.
+Ignoring this section.
+I2022-01-21 14:19:48.164305 instance.cpp:1404] Override Enabled Addons: {}
+I2022-01-21 14:19:48.164375 instance.cpp:1405] Override Disabled Addons: {}
+I2022-01-21 14:19:48.171765 addonmanager.cpp:191] Loaded addon wayland
+I2022-01-21 14:19:48.172569 addonmanager.cpp:191] Loaded addon imselector
+I2022-01-21 14:19:48.176565 addonmanager.cpp:191] Loaded addon xcb
+I2022-01-21 14:19:48.180933 addonmanager.cpp:191] Loaded addon quickphrase
+I2022-01-21 14:19:48.182015 addonmanager.cpp:191] Loaded addon waylandim
+I2022-01-21 14:19:48.189718 addonmanager.cpp:191] Loaded addon keyboard
+I2022-01-21 14:19:48.191118 addonmanager.cpp:191] Loaded addon clipboard
+I2022-01-21 14:19:48.192280 addonmanager.cpp:191] Loaded addon unicode
+I2022-01-21 14:19:48.194167 addonmanager.cpp:191] Loaded addon dbus
+I2022-01-21 14:19:48.195186 addonmanager.cpp:191] Loaded addon dbusfrontend
+polybar|notice:  Parsing config file: /home/alex/.config/i3/polybar/config
+I2022-01-21 14:19:48.202452 addonmanager.cpp:191] Loaded addon fcitx4frontend
+polybar|warn:  The config parameter 'settings.throttle-input-for' is deprecated, it will be removed in the future. Please remove it from your config
+I2022-01-21 14:19:48.216472 addonmanager.cpp:191] Loaded addon ibusfrontend
+I2022-01-21 14:19:48.218260 addonmanager.cpp:191] Loaded addon xim
+polybar|error: module/mpd: Connection refused
+I2022-01-21 14:19:48.262194 inputmethodmanager.cpp:198] Found 704 input method(s) in addon keyboard
+I2022-01-21 14:19:48.281727 addonmanager.cpp:191] Loaded addon kimpanel
+I2022-01-21 14:19:48.309107 addonmanager.cpp:191] Loaded addon classicui
+I2022-01-21 14:19:48.310140 addonmanager.cpp:191] Loaded addon notificationitem
+I2022-01-21 14:19:48.311550 addonmanager.cpp:191] Loaded addon notifications
+I2022-01-21 14:19:48.395266 addonmanager.cpp:191] Loaded addon rime
+I2022-01-21 14:19:48.396311 kimpanel.cpp:117] Kimpanel new owner
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时19分48秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=13" (name=LiterationMono Nerd Font, offset=3, file=/usr/share/fonts/TTF/Literation Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=12" (name=LiterationMono Nerd Font, offset=3, file=/usr/share/fonts/TTF/Literation Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "NotoColorEmoji:pixelsize=8;1:fontformat=truetype:scale=10:antialias=true" (name=Noto Color Emoji, offset=3, file=/usr/share/fonts/noto/NotoColorEmoji.ttf)
+polybar|notice:  Loaded font "Weather Icons:style=Regular:size=10" (name=Weather Icons, offset=3, file=/usr/share/fonts/TTF/weathericons-regular-webfont.ttf)
+polybar|notice:  Loaded font "NotoSansCJK:size=12" (name=Noto Sans CJK SC, offset=2, file=/usr/share/fonts/noto-cjk/NotoSansCJK-Regular.ttc)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+2022年01月21日 14时19分48秒 - WM_CLASS changed to polybar (instance), Polybar (class)
+2022年01月21日 14时19分48秒 - WM_NAME changed to "i3"
+2022年01月21日 14时19分48秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时19分48秒 - This window is of type dock
+2022年01月21日 14时19分48秒 - Checking window 0x01400001 (class Polybar)
+2022年01月21日 14时19分48秒 - dock status matches
+2022年01月21日 14时19分48秒 - Checking window 0x01400001 (class Polybar)
+2022年01月21日 14时19分48秒 - Regular expression ".*" matches "Polybar"
+2022年01月21日 14时19分48秒 - window class matches (Polybar)
+2022年01月21日 14时19分48秒 - dock status does not match
+2022年01月21日 14时19分48秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时19分48秒 - workspace visible? fs = 0x55b48cb07280, ws = 0x55b48cb07280
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时19分49秒 - ClientMessage for window 0x000001cd
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时20分10秒 - executing: terminator
+Gtk-Message: 14:20:10.295: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 14:20:10.295: Failed to load module "window-decorations-gtk-module"
+2022年01月21日 14时20分10秒 - ClientMessage for window 0x00c00007
+2022年01月21日 14时20分10秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年01月21日 14时20分10秒 - WM_NAME changed to "None"
+2022年01月21日 14时20分10秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时20分10秒 - _NET_WM_NAME changed to "None"
+2022年01月21日 14时20分10秒 - WM_HINTS.input changed to "1"
+2022年01月21日 14时20分10秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - dock status does not match
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - dock status does not match
+2022年01月21日 14时20分10秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时20分10秒 - window class matches (Terminator)
+2022年01月21日 14时20分10秒 - dock status matches
+2022年01月21日 14时20分10秒 - Checking window 0x01400001 (class Polybar)
+2022年01月21日 14时20分10秒 - window id does not match
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - match made by window id (12582919)
+2022年01月21日 14时20分10秒 - dock status matches
+2022年01月21日 14时20分10秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时20分10秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时20分10秒 - workspace visible? fs = 0x55b48cb07280, ws = 0x55b48cb07280
+2022年01月21日 14时20分10秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - dock status does not match
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - dock status does not match
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时20分10秒 - window class matches (Terminator)
+2022年01月21日 14时20分10秒 - dock status matches
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - dock status does not match
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - dock status does not match
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时20分10秒 - window class matches (Terminator)
+2022年01月21日 14时20分10秒 - dock status matches
+2022年01月21日 14时20分10秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - dock status does not match
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - dock status does not match
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时20分10秒 - window class matches (Terminator)
+2022年01月21日 14时20分10秒 - dock status matches
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - dock status does not match
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - dock status does not match
+2022年01月21日 14时20分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分10秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时20分10秒 - window class matches (Terminator)
+2022年01月21日 14时20分10秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时20分16秒 - _NET_WM_NAME changed to "ps -aux | grep --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox}"
+2022年01月21日 14时20分16秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分16秒 - dock status does not match
+2022年01月21日 14时20分16秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分16秒 - dock status does not match
+2022年01月21日 14时20分16秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分16秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时20分16秒 - window class matches (Terminator)
+2022年01月21日 14时20分16秒 - dock status matches
+2022年01月21日 14时20分16秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分16秒 - dock status does not match
+2022年01月21日 14时20分16秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分16秒 - dock status does not match
+2022年01月21日 14时20分16秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分16秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时20分16秒 - window class matches (Terminator)
+2022年01月21日 14时20分16秒 - dock status matches
+2022年01月21日 14时20分16秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月21日 14时20分16秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分16秒 - dock status does not match
+2022年01月21日 14时20分16秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分16秒 - dock status does not match
+2022年01月21日 14时20分16秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分16秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时20分16秒 - window class matches (Terminator)
+2022年01月21日 14时20分16秒 - dock status matches
+2022年01月21日 14时20分16秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分16秒 - dock status does not match
+2022年01月21日 14时20分16秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分16秒 - dock status does not match
+2022年01月21日 14时20分16秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月21日 14时20分16秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时20分16秒 - window class matches (Terminator)
+2022年01月21日 14时20分16秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时20分32秒 - Sending WM_DELETE to the client
+2022年01月21日 14时20分32秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时20分32秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时20分32秒 - expose event for unknown window, ignoring
+2022年01月21日 14时20分32秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时20分32秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时20分32秒 - Not a managed window, ignoring UnmapNotify event
+<window.Window object at 0x7fc53a734ec0 (terminatorlib+window+Window at 0x55de379a42a0)> is not in registered window list
+2022年01月21日 14时20分33秒 - startup id = i3/rofi/678-0-alexarch_TIME70221
+2022年01月21日 14时20分33秒 - executing: rofi -show drun
+2022年01月21日 14时20分33秒 - Not a managed window, ignoring UnmapNotify event
+
+(process:948): XrmOptions-WARNING **: 14:20:33.160: Option: width is not found.
+
+(process:948): XrmOptions-WARNING **: 14:20:33.161: Option: lines is not found.
+
+(process:948): XrmOptions-WARNING **: 14:20:33.161: Option: columns is not found.
+polybar|error: module/mpd: Connection refused
+Gtk-Message: 14:20:35.083: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 14:20:35.083: Failed to load module "window-decorations-gtk-module"
+[1032:0121/142035.243621:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时20分35秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: Failed to setup tray client removing... (XCB_WINDOW (3))
+[989:0121/142035.407430:ERROR:browser_main_loop.cc(269)] Gdk: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+2022年01月21日 14时20分36秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年01月21日 14时20分36秒 - WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时20分36秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时20分36秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时20分36秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月21日 14时20分36秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时20分36秒 - Checking window 0x00c00003 (class Clash for Windows)
+2022年01月21日 14时20分36秒 - dock status does not match
+2022年01月21日 14时20分36秒 - Checking window 0x00c00003 (class Clash for Windows)
+2022年01月21日 14时20分36秒 - dock status does not match
+2022年01月21日 14时20分36秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时20分36秒 - Checking window 0x00c00003 (class Clash for Windows)
+2022年01月21日 14时20分36秒 - Regular expression ".*" matches "Clash for Windows"
+2022年01月21日 14时20分36秒 - window class matches (Clash for Windows)
+2022年01月21日 14时20分36秒 - dock status matches
+2022年01月21日 14时20分36秒 - Checking window 0x01400001 (class Polybar)
+2022年01月21日 14时20分36秒 - window id does not match
+2022年01月21日 14时20分36秒 - Checking window 0x00c00003 (class Clash for Windows)
+2022年01月21日 14时20分36秒 - match made by window id (12582915)
+2022年01月21日 14时20分36秒 - dock status matches
+2022年01月21日 14时20分36秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时20分36秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时20分36秒 - workspace visible? fs = 0x55b48cb07280, ws = 0x55b48cb07280
+2022年01月21日 14时20分36秒 - ClientMessage for window 0x00c00003
+2022年01月21日 14时20分36秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时20分36秒 - ClientMessage for window 0x00c00003
+2022年01月21日 14时20分36秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时20分44秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时20分44秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时20分44秒 - expose event for unknown window, ignoring
+2022年01月21日 14时20分44秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时20分44秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时20分44秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时20分52秒 - ClientMessage for window 0x0160001a
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时20分54秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时20分55秒 - startup id = i3/rofi/678-1-alexarch_TIME93025
+2022年01月21日 14时20分55秒 - executing: rofi -show drun
+2022年01月21日 14时20分55秒 - Not a managed window, ignoring UnmapNotify event
+
+(process:1119): XrmOptions-WARNING **: 14:20:55.960: Option: width is not found.
+
+(process:1119): XrmOptions-WARNING **: 14:20:55.960: Option: lines is not found.
+
+(process:1119): XrmOptions-WARNING **: 14:20:55.960: Option: columns is not found.
+2022年01月21日 14时20分57秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年01月21日 14时20分57秒 - WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时20分57秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时20分57秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时20分57秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月21日 14时20分57秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时20分57秒 - Checking window 0x00c00003 (class Clash for Windows)
+2022年01月21日 14时20分57秒 - dock status does not match
+2022年01月21日 14时20分57秒 - Checking window 0x00c00003 (class Clash for Windows)
+2022年01月21日 14时20分57秒 - dock status does not match
+2022年01月21日 14时20分57秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时20分57秒 - Checking window 0x00c00003 (class Clash for Windows)
+2022年01月21日 14时20分57秒 - Regular expression ".*" matches "Clash for Windows"
+2022年01月21日 14时20分57秒 - window class matches (Clash for Windows)
+2022年01月21日 14时20分57秒 - dock status matches
+2022年01月21日 14时20分57秒 - Checking window 0x01400001 (class Polybar)
+2022年01月21日 14时20分57秒 - window id does not match
+2022年01月21日 14时20分57秒 - Checking window 0x00c00003 (class Clash for Windows)
+2022年01月21日 14时20分57秒 - match made by window id (12582915)
+2022年01月21日 14时20分57秒 - dock status matches
+2022年01月21日 14时20分57秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时20分57秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时20分57秒 - workspace visible? fs = 0x55b48cb07280, ws = 0x55b48cb07280
+2022年01月21日 14时20分57秒 - ClientMessage for window 0x00c00003
+2022年01月21日 14时20分57秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时20分57秒 - ClientMessage for window 0x00c00003
+2022年01月21日 14时20分57秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+Gtk-Message: 14:20:57.121: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 14:20:57.121: Failed to load module "window-decorations-gtk-module"
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时21分08秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+2022年01月21日 14时21分08秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时21分08秒 - expose event for unknown window, ignoring
+2022年01月21日 14时21分08秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时21分08秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时21分08秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时21分14秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时21分16秒 - executing: systemctl reboot
+2022年01月21日 14时21分16秒 - workspace visible? fs = 0x55b48cb0b140, ws = 0x55b48cb0b140
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address (polkit-error-quark, 0)
+=========================
+Fcitx 5.0.13 -- Get Signal No.: 15
+Date: try "date -d @1642746076" if you are using GNU date ***
+ProcessID: 691
+fcitx5(+0xd158)[0x5592905c4158]
+/usr/lib/libc.so.6(+0x3cda0)[0x7f60003d9da0]
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+/usr/lib/libc.so.6(epoll_wait+0x5e)[0x7f600049b92e]
+/usr/lib/libsystemd.so.0(sd_event_wait+0x172)[0x7f60002c0d02]
+/usr/lib/libsystemd.so.0(sd_event_run+0x1ac)[0x7f60002c20bc]
+/usr/lib/libsystemd.so.0(sd_event_loop+0x60)[0x7f60002c2200]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx9EventLoop4execEv+0x16)[0x7f60008191d6]
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+=========================
+Fcitx 5.0.13 -- Get Signal No.: 1
+Date: try "date -d @1642746076" if you are using GNU date ***
+ProcessID: 691
+fcitx5(+0xd158)[0x5592905c4158]
+/usr/lib/libc.so.6(+0x3cda0)[0x7f60003d9da0]
+/usr/lib/libc.so.6(_dl_addr+0xc8)[0x7f60004d4d48]
+/usr/lib/libc.so.6(backtrace_symbols_fd+0x229)[0x7f60004a8979]
+fcitx5(+0xd16b)[0x5592905c416b]
+/usr/lib/libc.so.6(+0x3cda0)[0x7f60003d9da0]
+/usr/lib/libc.so.6(epoll_wait+0x5e)[0x7f600049b92e]
+/usr/lib/libsystemd.so.0(sd_event_wait+0x172)[0x7f60002c0d02]
+/usr/lib/libsystemd.so.0(sd_event_run+0x1ac)[0x7f60002c20bc]
+/usr/lib/libsystemd.so.0(sd_event_loop+0x60)[0x7f60002c2200]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx9EventLoop4execEv+0x16)[0x7f60008191d6]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4execEv+0x57)[0x7f60008d4847]
+fcitx5(+0xb7f8)[0x5592905c27f8]
+/usr/lib/libc.so.6(__libc_start_main+0xd5)[0x7f60003c4b25]
+fcitx5(+0xc7fe)[0x5592905c37fe]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4execEv+0x57)[0x7f60008d4847]
+fcitx5(+0xb7f8)[0x5592905c27f8]
+/usr/lib/libc.so.6(__libc_start_main+0xd5)[0x7f60003c4b25]
+fcitx5(+0xc7fe)[0x5592905c37fe]
+W2022-01-21 14:21:16.406543 xcbeventreader.cpp:39] XCB connection ":0" got error: 1
+I2022-01-21 14:21:16.408129 addonmanager.cpp:297] Unloading addon rime
+I2022-01-21 14:21:16.408478 addonmanager.cpp:297] Unloading addon notifications
+I2022-01-21 14:21:16.408527 addonmanager.cpp:297] Unloading addon notificationitem
+I2022-01-21 14:21:16.408703 addonmanager.cpp:297] Unloading addon classicui
+I2022-01-21 14:21:16.409277 addonmanager.cpp:297] Unloading addon kimpanel
+I2022-01-21 14:21:16.409305 addonmanager.cpp:297] Unloading addon xim
+I2022-01-21 14:21:16.409326 addonmanager.cpp:297] Unloading addon ibusfrontend
+I2022-01-21 14:21:16.412009 addonmanager.cpp:297] Unloading addon fcitx4frontend
+I2022-01-21 14:21:16.412074 addonmanager.cpp:297] Unloading addon dbusfrontend
+I2022-01-21 14:21:16.412121 addonmanager.cpp:297] Unloading addon dbus
+I2022-01-21 14:21:16.412162 addonmanager.cpp:297] Unloading addon unicode
+I2022-01-21 14:21:16.412184 addonmanager.cpp:297] Unloading addon clipboard
+I2022-01-21 14:21:16.412223 addonmanager.cpp:297] Unloading addon keyboard
+I2022-01-21 14:21:16.412323 addonmanager.cpp:297] Unloading addon waylandim
+I2022-01-21 14:21:16.412342 addonmanager.cpp:297] Unloading addon quickphrase
+I2022-01-21 14:21:16.412465 addonmanager.cpp:297] Unloading addon xcb
+I2022-01-21 14:21:16.412480 inputcontextmanager.cpp:318] All display connections are gone, exit now.
+I2022-01-21 14:21:16.412551 addonmanager.cpp:297] Unloading addon imselector
+I2022-01-21 14:21:16.412571 addonmanager.cpp:297] Unloading addon wayland

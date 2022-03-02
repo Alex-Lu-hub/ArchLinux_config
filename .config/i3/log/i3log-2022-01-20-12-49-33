@@ -1,0 +1,3454 @@
+2022年01月20日 12时49分33秒 - i3 4.20.1 (2021-11-03) starting
+2022年01月20日 12时49分33秒 - Parsing configfile /home/alex/.config/i3/config
+2022年01月20日 12时49分33秒 - Changing working directory to config file directory /home/alex/.config/i3
+2022年01月20日 12时49分33秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2022年01月20日 12时49分33秒 - [libi3] ../i3-4.20.1/libi3/font.c Using Pango font Input Nerd Font, size 9
+2022年01月20日 12时49分33秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时49分33秒 - focused now = 0x55fe4709b0d0 / 1
+2022年01月20日 12时49分33秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时49分33秒 - workspace visible? fs = 0x55fe47097620, ws = 0x55fe47097620
+2022年01月20日 12时49分33秒 - This is not an in-place restart, checking if a wallpaper is set.
+2022年01月20日 12时49分33秒 - A wallpaper is set, so no screenshot is necessary.
+2022年01月20日 12时49分33秒 - auto-starting xautolock -time 5 -locker '/usr/bin/betterlockscreen -l' -corners ---- -cornersize 30 &
+2022年01月20日 12时49分33秒 - executing: xautolock -time 5 -locker '/usr/bin/betterlockscreen -l' -corners ---- -cornersize 30 &
+2022年01月20日 12时49分33秒 - auto-starting fcitx5
+2022年01月20日 12时49分33秒 - executing: fcitx5
+2022年01月20日 12时49分33秒 - auto-starting copyq
+2022年01月20日 12时49分33秒 - executing: copyq
+2022年01月20日 12时49分33秒 - auto-starting feh --bg-fill feh/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+2022年01月20日 12时49分33秒 - executing: feh --bg-fill feh/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+2022年01月20日 12时49分33秒 - auto-starting picom -b
+2022年01月20日 12时49分33秒 - executing: picom -b
+2022年01月20日 12时49分33秒 - auto-starting $HOME/.config/i3/bin/i3bar
+2022年01月20日 12时49分33秒 - executing: $HOME/.config/i3/bin/i3bar
+[ 2022年01月20日 12:49:33.778 parse_config_libconfig WARN ] Invalid blur method dual_kawase, ignoring.
+I2022-01-20 12:49:33.786493 instance.cpp:1404] Override Enabled Addons: {}
+I2022-01-20 12:49:33.786571 instance.cpp:1405] Override Disabled Addons: {}
+I2022-01-20 12:49:33.795458 addonmanager.cpp:191] Loaded addon wayland
+I2022-01-20 12:49:33.796697 addonmanager.cpp:191] Loaded addon imselector
+I2022-01-20 12:49:33.800574 addonmanager.cpp:191] Loaded addon xcb
+I2022-01-20 12:49:33.804982 addonmanager.cpp:191] Loaded addon quickphrase
+I2022-01-20 12:49:33.805942 addonmanager.cpp:191] Loaded addon waylandim
+I2022-01-20 12:49:33.813843 addonmanager.cpp:191] Loaded addon keyboard
+I2022-01-20 12:49:33.817627 addonmanager.cpp:191] Loaded addon clipboard
+I2022-01-20 12:49:33.818623 addonmanager.cpp:191] Loaded addon unicode
+polybar|notice:  Parsing config file: /home/alex/.config/i3/polybar/config
+I2022-01-20 12:49:33.820960 addonmanager.cpp:191] Loaded addon dbus
+I2022-01-20 12:49:33.822380 addonmanager.cpp:191] Loaded addon dbusfrontend
+I2022-01-20 12:49:33.826884 addonmanager.cpp:191] Loaded addon fcitx4frontend
+polybar|warn:  The config parameter 'settings.throttle-input-for' is deprecated, it will be removed in the future. Please remove it from your config
+I2022-01-20 12:49:33.834250 addonmanager.cpp:191] Loaded addon ibusfrontend
+I2022-01-20 12:49:33.836354 addonmanager.cpp:191] Loaded addon xim
+polybar|error: module/mpd: Connection refused
+I2022-01-20 12:49:33.881394 inputmethodmanager.cpp:198] Found 704 input method(s) in addon keyboard
+I2022-01-20 12:49:33.902589 addonmanager.cpp:191] Loaded addon kimpanel
+I2022-01-20 12:49:33.938182 addonmanager.cpp:191] Loaded addon classicui
+I2022-01-20 12:49:33.939459 addonmanager.cpp:191] Loaded addon notificationitem
+I2022-01-20 12:49:33.942820 addonmanager.cpp:191] Loaded addon notifications
+I2022-01-20 12:49:34.030729 addonmanager.cpp:191] Loaded addon rime
+I2022-01-20 12:49:34.031949 kimpanel.cpp:117] Kimpanel new owner
+2022年01月20日 12时49分34秒 - ClientMessage for window 0x00c00007
+2022年01月20日 12时49分34秒 - ClientMessage for window 0x00c00007
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时49分34秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=13" (name=LiterationMono Nerd Font, offset=3, file=/usr/share/fonts/TTF/Literation Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=12" (name=LiterationMono Nerd Font, offset=3, file=/usr/share/fonts/TTF/Literation Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "NotoColorEmoji:pixelsize=8;1:fontformat=truetype:scale=10:antialias=true" (name=Noto Color Emoji, offset=3, file=/usr/share/fonts/noto/NotoColorEmoji.ttf)
+polybar|notice:  Loaded font "Weather Icons:style=Regular:size=10" (name=Weather Icons, offset=3, file=/usr/share/fonts/TTF/weathericons-regular-webfont.ttf)
+polybar|notice:  Loaded font "NotoSansCJK:size=12" (name=Noto Sans CJK SC, offset=2, file=/usr/share/fonts/noto-cjk/NotoSansCJK-Regular.ttc)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+2022年01月20日 12时49分34秒 - WM_CLASS changed to polybar (instance), Polybar (class)
+2022年01月20日 12时49分34秒 - WM_NAME changed to "i3"
+2022年01月20日 12时49分34秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月20日 12时49分34秒 - This window is of type dock
+2022年01月20日 12时49分34秒 - Checking window 0x01000001 (class Polybar)
+2022年01月20日 12时49分34秒 - dock status matches
+2022年01月20日 12时49分34秒 - Checking window 0x01000001 (class Polybar)
+2022年01月20日 12时49分34秒 - Regular expression ".*" matches "Polybar"
+2022年01月20日 12时49分34秒 - window class matches (Polybar)
+2022年01月20日 12时49分34秒 - dock status does not match
+2022年01月20日 12时49分34秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时49分34秒 - workspace visible? fs = 0x55fe47097620, ws = 0x55fe47097620
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时49分35秒 - ClientMessage for window 0x000001cd
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时49分39秒 - executing: light -U 5
+2022年01月20日 12时49分40秒 - executing: light -A 5
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时49分45秒 - executing: nemo
+Gtk-Message: 12:49:45.749: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 12:49:45.749: Failed to load module "window-decorations-gtk-module"
+
+** (nemo:790): WARNING **: 12:49:46.012: Current gtk theme is not known to have nemo support (Breeze) - checking...
+
+** (nemo:790): WARNING **: 12:49:46.049: The theme appears to have no nemo support.  Adding some...
+2022年01月20日 12时49分46秒 - ClientMessage for window 0x01600028
+2022年01月20日 12时49分46秒 - WM_CLASS changed to nemo (instance), Nemo (class)
+2022年01月20日 12时49分46秒 - WM_NAME changed to "Home"
+2022年01月20日 12时49分46秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月20日 12时49分46秒 - _NET_WM_NAME changed to "Home"
+2022年01月20日 12时49分46秒 - WM_HINTS.input changed to "1"
+2022年01月20日 12时49分46秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - dock status does not match
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - dock status does not match
+2022年01月20日 12时49分46秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分46秒 - window class matches (Nemo)
+2022年01月20日 12时49分46秒 - dock status matches
+2022年01月20日 12时49分46秒 - Checking window 0x01000001 (class Polybar)
+2022年01月20日 12时49分46秒 - window id does not match
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - match made by window id (23068712)
+2022年01月20日 12时49分46秒 - dock status matches
+2022年01月20日 12时49分46秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时49分46秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时49分46秒 - workspace visible? fs = 0x55fe47097620, ws = 0x55fe47097620
+2022年01月20日 12时49分46秒 - _NET_WM_NAME changed to "Home"
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - dock status does not match
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - dock status does not match
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分46秒 - window class matches (Nemo)
+2022年01月20日 12时49分46秒 - dock status matches
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - dock status does not match
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - dock status does not match
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分46秒 - window class matches (Nemo)
+2022年01月20日 12时49分46秒 - dock status matches
+2022年01月20日 12时49分46秒 - _NET_WM_NAME changed to "Home"
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - dock status does not match
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - dock status does not match
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分46秒 - window class matches (Nemo)
+2022年01月20日 12时49分46秒 - dock status matches
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - dock status does not match
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - dock status does not match
+2022年01月20日 12时49分46秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分46秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分46秒 - window class matches (Nemo)
+2022年01月20日 12时49分46秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时49分51秒 - _NET_WM_NAME changed to "disk"
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - dock status does not match
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - dock status does not match
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分51秒 - window class matches (Nemo)
+2022年01月20日 12时49分51秒 - dock status matches
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - dock status does not match
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - dock status does not match
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分51秒 - window class matches (Nemo)
+2022年01月20日 12时49分51秒 - dock status matches
+2022年01月20日 12时49分51秒 - WM_HINTS.input changed to "1"
+2022年01月20日 12时49分51秒 - _NET_WM_NAME changed to "disk"
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - dock status does not match
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - dock status does not match
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分51秒 - window class matches (Nemo)
+2022年01月20日 12时49分51秒 - dock status matches
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - dock status does not match
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - dock status does not match
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分51秒 - window class matches (Nemo)
+2022年01月20日 12时49分51秒 - dock status matches
+2022年01月20日 12时49分51秒 - _NET_WM_NAME changed to "disk"
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - dock status does not match
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - dock status does not match
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分51秒 - window class matches (Nemo)
+2022年01月20日 12时49分51秒 - dock status matches
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - dock status does not match
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - dock status does not match
+2022年01月20日 12时49分51秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分51秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分51秒 - window class matches (Nemo)
+2022年01月20日 12时49分51秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时49分54秒 - ClientMessage for window 0x016009d5
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时49分56秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时49分59秒 - _NET_WM_NAME changed to "DiskBak"
+2022年01月20日 12时49分59秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分59秒 - dock status does not match
+2022年01月20日 12时49分59秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分59秒 - dock status does not match
+2022年01月20日 12时49分59秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分59秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分59秒 - window class matches (Nemo)
+2022年01月20日 12时49分59秒 - dock status matches
+2022年01月20日 12时49分59秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分59秒 - dock status does not match
+2022年01月20日 12时49分59秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分59秒 - dock status does not match
+2022年01月20日 12时49分59秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分59秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分59秒 - window class matches (Nemo)
+2022年01月20日 12时49分59秒 - dock status matches
+2022年01月20日 12时49分59秒 - WM_HINTS.input changed to "1"
+2022年01月20日 12时49分59秒 - _NET_WM_NAME changed to "DiskBak"
+2022年01月20日 12时49分59秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分59秒 - dock status does not match
+2022年01月20日 12时49分59秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分59秒 - dock status does not match
+2022年01月20日 12时49分59秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分59秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分59秒 - window class matches (Nemo)
+2022年01月20日 12时49分59秒 - dock status matches
+2022年01月20日 12时49分59秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分59秒 - dock status does not match
+2022年01月20日 12时49分59秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分59秒 - dock status does not match
+2022年01月20日 12时49分59秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时49分59秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时49分59秒 - window class matches (Nemo)
+2022年01月20日 12时49分59秒 - dock status matches
+2022年01月20日 12时50分00秒 - _NET_WM_NAME changed to "DiskBak"
+2022年01月20日 12时50分00秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分00秒 - dock status does not match
+2022年01月20日 12时50分00秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分00秒 - dock status does not match
+2022年01月20日 12时50分00秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分00秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分00秒 - window class matches (Nemo)
+2022年01月20日 12时50分00秒 - dock status matches
+2022年01月20日 12时50分00秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分00秒 - dock status does not match
+2022年01月20日 12时50分00秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分00秒 - dock status does not match
+2022年01月20日 12时50分00秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分00秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分00秒 - window class matches (Nemo)
+2022年01月20日 12时50分00秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分03秒 - _NET_WM_NAME changed to ".Trash-1000"
+2022年01月20日 12时50分03秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分03秒 - dock status does not match
+2022年01月20日 12时50分03秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分03秒 - dock status does not match
+2022年01月20日 12时50分03秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分03秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分03秒 - window class matches (Nemo)
+2022年01月20日 12时50分03秒 - dock status matches
+2022年01月20日 12时50分03秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分03秒 - dock status does not match
+2022年01月20日 12时50分03秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分03秒 - dock status does not match
+2022年01月20日 12时50分03秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分03秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分03秒 - window class matches (Nemo)
+2022年01月20日 12时50分03秒 - dock status matches
+2022年01月20日 12时50分03秒 - _NET_WM_NAME changed to ".Trash-1000"
+2022年01月20日 12时50分03秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分03秒 - dock status does not match
+2022年01月20日 12时50分03秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分03秒 - dock status does not match
+2022年01月20日 12时50分03秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分03秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分03秒 - window class matches (Nemo)
+2022年01月20日 12时50分03秒 - dock status matches
+2022年01月20日 12时50分03秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分03秒 - dock status does not match
+2022年01月20日 12时50分03秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分03秒 - dock status does not match
+2022年01月20日 12时50分03秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分03秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分03秒 - window class matches (Nemo)
+2022年01月20日 12时50分03秒 - dock status matches
+2022年01月20日 12时50分04秒 - _NET_WM_NAME changed to ".Trash-1000"
+2022年01月20日 12时50分04秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分04秒 - dock status does not match
+2022年01月20日 12时50分04秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分04秒 - dock status does not match
+2022年01月20日 12时50分04秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分04秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分04秒 - window class matches (Nemo)
+2022年01月20日 12时50分04秒 - dock status matches
+2022年01月20日 12时50分04秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分04秒 - dock status does not match
+2022年01月20日 12时50分04秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分04秒 - dock status does not match
+2022年01月20日 12时50分04秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分04秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分04秒 - window class matches (Nemo)
+2022年01月20日 12时50分04秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分05秒 - _NET_WM_NAME changed to "files"
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - dock status does not match
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - dock status does not match
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分05秒 - window class matches (Nemo)
+2022年01月20日 12时50分05秒 - dock status matches
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - dock status does not match
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - dock status does not match
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分05秒 - window class matches (Nemo)
+2022年01月20日 12时50分05秒 - dock status matches
+2022年01月20日 12时50分05秒 - _NET_WM_NAME changed to "files"
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - dock status does not match
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - dock status does not match
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分05秒 - window class matches (Nemo)
+2022年01月20日 12时50分05秒 - dock status matches
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - dock status does not match
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - dock status does not match
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分05秒 - window class matches (Nemo)
+2022年01月20日 12时50分05秒 - dock status matches
+2022年01月20日 12时50分05秒 - _NET_WM_NAME changed to "files"
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - dock status does not match
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - dock status does not match
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分05秒 - window class matches (Nemo)
+2022年01月20日 12时50分05秒 - dock status matches
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - dock status does not match
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - dock status does not match
+2022年01月20日 12时50分05秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分05秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分05秒 - window class matches (Nemo)
+2022年01月20日 12时50分05秒 - dock status matches
+2022年01月20日 12时50分06秒 - _NET_WM_NAME changed to ".Trash-1000"
+2022年01月20日 12时50分06秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分06秒 - dock status does not match
+2022年01月20日 12时50分06秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分06秒 - dock status does not match
+2022年01月20日 12时50分06秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分06秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分06秒 - window class matches (Nemo)
+2022年01月20日 12时50分06秒 - dock status matches
+2022年01月20日 12时50分06秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分06秒 - dock status does not match
+2022年01月20日 12时50分06秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分06秒 - dock status does not match
+2022年01月20日 12时50分06秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分06秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分06秒 - window class matches (Nemo)
+2022年01月20日 12时50分06秒 - dock status matches
+2022年01月20日 12时50分06秒 - _NET_WM_NAME changed to ".Trash-1000"
+2022年01月20日 12时50分06秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分06秒 - dock status does not match
+2022年01月20日 12时50分06秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分06秒 - dock status does not match
+2022年01月20日 12时50分06秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分06秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分06秒 - window class matches (Nemo)
+2022年01月20日 12时50分06秒 - dock status matches
+2022年01月20日 12时50分06秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分06秒 - dock status does not match
+2022年01月20日 12时50分06秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分06秒 - dock status does not match
+2022年01月20日 12时50分06秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分06秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分06秒 - window class matches (Nemo)
+2022年01月20日 12时50分06秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分07秒 - _NET_WM_NAME changed to "info"
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - dock status does not match
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - dock status does not match
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分07秒 - window class matches (Nemo)
+2022年01月20日 12时50分07秒 - dock status matches
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - dock status does not match
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - dock status does not match
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分07秒 - window class matches (Nemo)
+2022年01月20日 12时50分07秒 - dock status matches
+2022年01月20日 12时50分07秒 - _NET_WM_NAME changed to "info"
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - dock status does not match
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - dock status does not match
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分07秒 - window class matches (Nemo)
+2022年01月20日 12时50分07秒 - dock status matches
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - dock status does not match
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - dock status does not match
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分07秒 - window class matches (Nemo)
+2022年01月20日 12时50分07秒 - dock status matches
+2022年01月20日 12时50分07秒 - _NET_WM_NAME changed to "info"
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - dock status does not match
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - dock status does not match
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分07秒 - window class matches (Nemo)
+2022年01月20日 12时50分07秒 - dock status matches
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - dock status does not match
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - dock status does not match
+2022年01月20日 12时50分07秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分07秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分07秒 - window class matches (Nemo)
+2022年01月20日 12时50分07秒 - dock status matches
+2022年01月20日 12时50分08秒 - _NET_WM_NAME changed to ".Trash-1000"
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分08秒 - window class matches (Nemo)
+2022年01月20日 12时50分08秒 - dock status matches
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分08秒 - window class matches (Nemo)
+2022年01月20日 12时50分08秒 - dock status matches
+2022年01月20日 12时50分08秒 - _NET_WM_NAME changed to ".Trash-1000"
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分08秒 - window class matches (Nemo)
+2022年01月20日 12时50分08秒 - dock status matches
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分08秒 - window class matches (Nemo)
+2022年01月20日 12时50分08秒 - dock status matches
+2022年01月20日 12时50分08秒 - _NET_WM_NAME changed to "expunged"
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分08秒 - window class matches (Nemo)
+2022年01月20日 12时50分08秒 - dock status matches
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分08秒 - window class matches (Nemo)
+2022年01月20日 12时50分08秒 - dock status matches
+2022年01月20日 12时50分08秒 - _NET_WM_NAME changed to "expunged"
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分08秒 - window class matches (Nemo)
+2022年01月20日 12时50分08秒 - dock status matches
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - dock status does not match
+2022年01月20日 12时50分08秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分08秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分08秒 - window class matches (Nemo)
+2022年01月20日 12时50分08秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分09秒 - _NET_WM_NAME changed to "expunged"
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - dock status does not match
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - dock status does not match
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分09秒 - window class matches (Nemo)
+2022年01月20日 12时50分09秒 - dock status matches
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - dock status does not match
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - dock status does not match
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分09秒 - window class matches (Nemo)
+2022年01月20日 12时50分09秒 - dock status matches
+2022年01月20日 12时50分09秒 - _NET_WM_NAME changed to ".Trash-1000"
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - dock status does not match
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - dock status does not match
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分09秒 - window class matches (Nemo)
+2022年01月20日 12时50分09秒 - dock status matches
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - dock status does not match
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - dock status does not match
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分09秒 - window class matches (Nemo)
+2022年01月20日 12时50分09秒 - dock status matches
+2022年01月20日 12时50分09秒 - _NET_WM_NAME changed to ".Trash-1000"
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - dock status does not match
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - dock status does not match
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分09秒 - window class matches (Nemo)
+2022年01月20日 12时50分09秒 - dock status matches
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - dock status does not match
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - dock status does not match
+2022年01月20日 12时50分09秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分09秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分09秒 - window class matches (Nemo)
+2022年01月20日 12时50分09秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分11秒 - _NET_WM_NAME changed to "DiskBak"
+2022年01月20日 12时50分11秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分11秒 - dock status does not match
+2022年01月20日 12时50分11秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分11秒 - dock status does not match
+2022年01月20日 12时50分11秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分11秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分11秒 - window class matches (Nemo)
+2022年01月20日 12时50分11秒 - dock status matches
+2022年01月20日 12时50分11秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分11秒 - dock status does not match
+2022年01月20日 12时50分11秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分11秒 - dock status does not match
+2022年01月20日 12时50分11秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分11秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分11秒 - window class matches (Nemo)
+2022年01月20日 12时50分11秒 - dock status matches
+2022年01月20日 12时50分11秒 - _NET_WM_NAME changed to "DiskBak"
+2022年01月20日 12时50分11秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分11秒 - dock status does not match
+2022年01月20日 12时50分11秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分11秒 - dock status does not match
+2022年01月20日 12时50分11秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分11秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分11秒 - window class matches (Nemo)
+2022年01月20日 12时50分11秒 - dock status matches
+2022年01月20日 12时50分11秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分11秒 - dock status does not match
+2022年01月20日 12时50分11秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分11秒 - dock status does not match
+2022年01月20日 12时50分11秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分11秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分11秒 - window class matches (Nemo)
+2022年01月20日 12时50分11秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分18秒 - _NET_WM_NAME changed to "文档"
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - dock status does not match
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - dock status does not match
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分18秒 - window class matches (Nemo)
+2022年01月20日 12时50分18秒 - dock status matches
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - dock status does not match
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - dock status does not match
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分18秒 - window class matches (Nemo)
+2022年01月20日 12时50分18秒 - dock status matches
+2022年01月20日 12时50分18秒 - _NET_WM_NAME changed to "文档"
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - dock status does not match
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - dock status does not match
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分18秒 - window class matches (Nemo)
+2022年01月20日 12时50分18秒 - dock status matches
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - dock status does not match
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - dock status does not match
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分18秒 - window class matches (Nemo)
+2022年01月20日 12时50分18秒 - dock status matches
+2022年01月20日 12时50分18秒 - _NET_WM_NAME changed to "文档"
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - dock status does not match
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - dock status does not match
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分18秒 - window class matches (Nemo)
+2022年01月20日 12时50分18秒 - dock status matches
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - dock status does not match
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - dock status does not match
+2022年01月20日 12时50分18秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分18秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分18秒 - window class matches (Nemo)
+2022年01月20日 12时50分18秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分20秒 - _NET_WM_NAME changed to "DiskBak"
+2022年01月20日 12时50分20秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分20秒 - dock status does not match
+2022年01月20日 12时50分20秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分20秒 - dock status does not match
+2022年01月20日 12时50分20秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分20秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分20秒 - window class matches (Nemo)
+2022年01月20日 12时50分20秒 - dock status matches
+2022年01月20日 12时50分20秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分20秒 - dock status does not match
+2022年01月20日 12时50分20秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分20秒 - dock status does not match
+2022年01月20日 12时50分20秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分20秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分20秒 - window class matches (Nemo)
+2022年01月20日 12时50分20秒 - dock status matches
+2022年01月20日 12时50分20秒 - _NET_WM_NAME changed to "DiskBak"
+2022年01月20日 12时50分20秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分20秒 - dock status does not match
+2022年01月20日 12时50分20秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分20秒 - dock status does not match
+2022年01月20日 12时50分20秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分20秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分20秒 - window class matches (Nemo)
+2022年01月20日 12时50分20秒 - dock status matches
+2022年01月20日 12时50分20秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分20秒 - dock status does not match
+2022年01月20日 12时50分20秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分20秒 - dock status does not match
+2022年01月20日 12时50分20秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分20秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分20秒 - window class matches (Nemo)
+2022年01月20日 12时50分20秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分21秒 - _NET_WM_NAME changed to "disk"
+2022年01月20日 12时50分21秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分21秒 - dock status does not match
+2022年01月20日 12时50分21秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分21秒 - dock status does not match
+2022年01月20日 12时50分21秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分21秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分21秒 - window class matches (Nemo)
+2022年01月20日 12时50分21秒 - dock status matches
+2022年01月20日 12时50分21秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分21秒 - dock status does not match
+2022年01月20日 12时50分21秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分21秒 - dock status does not match
+2022年01月20日 12时50分21秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分21秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分21秒 - window class matches (Nemo)
+2022年01月20日 12时50分21秒 - dock status matches
+2022年01月20日 12时50分21秒 - WM_HINTS.input changed to "1"
+2022年01月20日 12时50分21秒 - _NET_WM_NAME changed to "disk"
+2022年01月20日 12时50分21秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分21秒 - dock status does not match
+2022年01月20日 12时50分21秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分21秒 - dock status does not match
+2022年01月20日 12时50分21秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分21秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分21秒 - window class matches (Nemo)
+2022年01月20日 12时50分21秒 - dock status matches
+2022年01月20日 12时50分21秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分21秒 - dock status does not match
+2022年01月20日 12时50分21秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分21秒 - dock status does not match
+2022年01月20日 12时50分21秒 - Checking window 0x01600028 (class Nemo)
+2022年01月20日 12时50分21秒 - Regular expression ".*" matches "Nemo"
+2022年01月20日 12时50分21秒 - window class matches (Nemo)
+2022年01月20日 12时50分21秒 - dock status matches
+2022年01月20日 12时50分22秒 - ClientMessage for window 0x016087fa
+2022年01月20日 12时50分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月20日 12时50分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月20日 12时50分22秒 - Sending WM_DELETE to the client
+2022年01月20日 12时50分22秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时50分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月20日 12时50分22秒 - expose event for unknown window, ignoring
+2022年01月20日 12时50分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月20日 12时50分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月20日 12时50分22秒 - Not a managed window, ignoring UnmapNotify event
+
+(nemo:790): Gtk-CRITICAL **: 12:50:22.640: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分24秒 - executing: microsoft-edge-stable
+Gtk-Message: 12:50:24.770: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 12:50:24.770: Failed to load module "window-decorations-gtk-module"
+polybar|error: module/mpd: Connection refused
+[922:922:0120/125024.943187:ERROR:assistance_home_client.cc(23)] File path /home/alex/.config/microsoft-edge/Default
+2022年01月20日 12时50分25秒 - WM_CLASS changed to microsoft-edge (instance), Microsoft-edge (class)
+2022年01月20日 12时50分25秒 - WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时50分25秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月20日 12时50分25秒 - _NET_WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时50分25秒 - WM_WINDOW_ROLE changed to "browser"
+2022年01月20日 12时50分25秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月20日 12时50分25秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分25秒 - dock status does not match
+2022年01月20日 12时50分25秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分25秒 - dock status does not match
+2022年01月20日 12时50分25秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时50分25秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分25秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时50分25秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时50分25秒 - dock status matches
+2022年01月20日 12时50分25秒 - Checking window 0x01000001 (class Polybar)
+2022年01月20日 12时50分25秒 - window id does not match
+2022年01月20日 12时50分25秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分25秒 - match made by window id (23068675)
+2022年01月20日 12时50分25秒 - dock status matches
+2022年01月20日 12时50分25秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时50分25秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时50分25秒 - workspace visible? fs = 0x55fe47097620, ws = 0x55fe47097620
+2022年01月20日 12时50分25秒 - ClientMessage for window 0x01600003
+2022年01月20日 12时50分25秒 - ClientMessage for window 0x01600003
+2022年01月20日 12时50分25秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+[922:1120:0120/125025.269358:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[922:1120:0120/125025.269531:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[922:1120:0120/125025.269687:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1017:1017:0120/125026.601683:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+polybar|error: module/mpd: Connection refused
+[922:1038:0120/125027.524057:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[1021:1025:0120/125027.586981:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1021:1025:0120/125027.648008:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1021:1025:0120/125027.714280:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[922:1038:0120/125027.744933:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:29.727: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:29.800: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:30.030: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:30.115: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:30.419: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:30.858: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:31.178: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:31.216: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:31.560: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:31.756: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:32.157: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:32.412: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:32.533: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:32.785: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:32.999: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:33.601: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:33.701: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:33.806: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:33.938: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:34.052: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:50:34.168: gdk_window_set_user_time called on non-toplevel
+
+2022年01月20日 12时50分34秒 - _NET_WM_NAME changed to "arch playonlinux - 国内版 Bing - 个人 - Microsoft​ Edge"
+2022年01月20日 12时50分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分34秒 - dock status does not match
+2022年01月20日 12时50分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分34秒 - dock status does not match
+2022年01月20日 12时50分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分34秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时50分34秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时50分34秒 - dock status matches
+2022年01月20日 12时50分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分34秒 - dock status does not match
+2022年01月20日 12时50分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分34秒 - dock status does not match
+2022年01月20日 12时50分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分34秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时50分34秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时50分34秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分36秒 - _NET_WM_NAME changed to "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时50分36秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分36秒 - dock status does not match
+2022年01月20日 12时50分36秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分36秒 - dock status does not match
+2022年01月20日 12时50分36秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分36秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时50分36秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时50分36秒 - dock status matches
+2022年01月20日 12时50分36秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分36秒 - dock status does not match
+2022年01月20日 12时50分36秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分36秒 - dock status does not match
+2022年01月20日 12时50分36秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分36秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时50分36秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时50分36秒 - dock status matches
+2022年01月20日 12时50分36秒 - ClientMessage for window 0x01600003
+2022年01月20日 12时50分36秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分37秒 - _NET_WM_NAME changed to "arch playonlinux - 国内版 Bing 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时50分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分37秒 - dock status does not match
+2022年01月20日 12时50分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分37秒 - dock status does not match
+2022年01月20日 12时50分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分37秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时50分37秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时50分37秒 - dock status matches
+2022年01月20日 12时50分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分37秒 - dock status does not match
+2022年01月20日 12时50分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分37秒 - dock status does not match
+2022年01月20日 12时50分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分37秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时50分37秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时50分37秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分42秒 - _NET_WM_NAME changed to "Arch Linux - playonlinux 4.3.4-4 (x86_64) 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时50分42秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分42秒 - dock status does not match
+2022年01月20日 12时50分42秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分42秒 - dock status does not match
+2022年01月20日 12时50分42秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分42秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时50分42秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时50分42秒 - dock status matches
+2022年01月20日 12时50分42秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分42秒 - dock status does not match
+2022年01月20日 12时50分42秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分42秒 - dock status does not match
+2022年01月20日 12时50分42秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分42秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时50分42秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时50分42秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分46秒 - executing: terminator
+Gtk-Message: 12:50:46.622: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 12:50:46.622: Failed to load module "window-decorations-gtk-module"
+2022年01月20日 12时50分46秒 - ClientMessage for window 0x02600007
+2022年01月20日 12时50分46秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年01月20日 12时50分46秒 - WM_NAME changed to "None"
+2022年01月20日 12时50分46秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月20日 12时50分46秒 - _NET_WM_NAME changed to "None"
+2022年01月20日 12时50分46秒 - WM_HINTS.input changed to "1"
+2022年01月20日 12时50分46秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月20日 12时50分46秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分46秒 - dock status does not match
+2022年01月20日 12时50分46秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分46秒 - dock status does not match
+2022年01月20日 12时50分46秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时50分46秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分46秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时50分46秒 - window class matches (Terminator)
+2022年01月20日 12时50分46秒 - dock status matches
+2022年01月20日 12时50分46秒 - Checking window 0x01000001 (class Polybar)
+2022年01月20日 12时50分46秒 - window id does not match
+2022年01月20日 12时50分46秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时50分46秒 - window id does not match
+2022年01月20日 12时50分46秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分46秒 - match made by window id (39845895)
+2022年01月20日 12时50分46秒 - dock status matches
+2022年01月20日 12时50分46秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时50分46秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时50分46秒 - workspace visible? fs = 0x55fe47097620, ws = 0x55fe47097620
+2022年01月20日 12时50分46秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年01月20日 12时50分46秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分46秒 - dock status does not match
+2022年01月20日 12时50分46秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分46秒 - dock status does not match
+2022年01月20日 12时50分46秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分46秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时50分46秒 - window class matches (Terminator)
+2022年01月20日 12时50分46秒 - dock status matches
+2022年01月20日 12时50分46秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分46秒 - dock status does not match
+2022年01月20日 12时50分46秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分46秒 - dock status does not match
+2022年01月20日 12时50分46秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分46秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时50分46秒 - window class matches (Terminator)
+2022年01月20日 12时50分46秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分47秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月20日 12时50分47秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分47秒 - dock status does not match
+2022年01月20日 12时50分47秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分47秒 - dock status does not match
+2022年01月20日 12时50分47秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分47秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时50分47秒 - window class matches (Terminator)
+2022年01月20日 12时50分47秒 - dock status matches
+2022年01月20日 12时50分47秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分47秒 - dock status does not match
+2022年01月20日 12时50分47秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分47秒 - dock status does not match
+2022年01月20日 12时50分47秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分47秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时50分47秒 - window class matches (Terminator)
+2022年01月20日 12时50分47秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时50分52秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时50分52秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分52秒 - dock status does not match
+2022年01月20日 12时50分52秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分52秒 - dock status does not match
+2022年01月20日 12时50分52秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分52秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时50分52秒 - window class matches (Terminator)
+2022年01月20日 12时50分52秒 - dock status matches
+2022年01月20日 12时50分52秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分52秒 - dock status does not match
+2022年01月20日 12时50分52秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分52秒 - dock status does not match
+2022年01月20日 12时50分52秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时50分52秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时50分52秒 - window class matches (Terminator)
+2022年01月20日 12时50分52秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时51分08秒 - ClientMessage for window 0x01600003
+2022年01月20日 12时51分08秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时51分09秒 - _NET_WM_NAME changed to "arch playonlinux - 国内版 Bing 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时51分09秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分09秒 - dock status does not match
+2022年01月20日 12时51分09秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分09秒 - dock status does not match
+2022年01月20日 12时51分09秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分09秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分09秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分09秒 - dock status matches
+2022年01月20日 12时51分09秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分09秒 - dock status does not match
+2022年01月20日 12时51分09秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分09秒 - dock status does not match
+2022年01月20日 12时51分09秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分09秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分09秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分09秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时51分13秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月20日 12时51分13秒 - _NET_WM_NAME changed to "arch playonlinux - 国内版 Bing 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时51分13秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分13秒 - dock status does not match
+2022年01月20日 12时51分13秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分13秒 - dock status does not match
+2022年01月20日 12时51分13秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分13秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分13秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分13秒 - dock status matches
+2022年01月20日 12时51分13秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分13秒 - dock status does not match
+2022年01月20日 12时51分13秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分13秒 - dock status does not match
+2022年01月20日 12时51分13秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分13秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分13秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分13秒 - dock status matches
+2022年01月20日 12时51分13秒 - ClientMessage for window 0x01600003
+2022年01月20日 12时51分13秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时51分15秒 - _NET_WM_NAME changed to "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时51分15秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分15秒 - dock status does not match
+2022年01月20日 12时51分15秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分15秒 - dock status does not match
+2022年01月20日 12时51分15秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分15秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分15秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分15秒 - dock status matches
+2022年01月20日 12时51分15秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分15秒 - dock status does not match
+2022年01月20日 12时51分15秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分15秒 - dock status does not match
+2022年01月20日 12时51分15秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分15秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分15秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分15秒 - dock status matches
+[922:922:0120/125115.570624:ERROR:smartscreen_dns_resolver.cc(103)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://bbs.archlinux.org/viewtopic.php?id=234587
+2022年01月20日 12时51分15秒 - _NET_WM_NAME changed to "arch playonlinux - 国内版 Bing 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时51分15秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分15秒 - dock status does not match
+2022年01月20日 12时51分15秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分15秒 - dock status does not match
+2022年01月20日 12时51分15秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分15秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分15秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分15秒 - dock status matches
+2022年01月20日 12时51分15秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分15秒 - dock status does not match
+2022年01月20日 12时51分15秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分15秒 - dock status does not match
+2022年01月20日 12时51分15秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分15秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分15秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分15秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时51分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月20日 12时51分21秒 - _NET_WM_NAME changed to "arch playonlinux - 国内版 Bing 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时51分21秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分21秒 - dock status does not match
+2022年01月20日 12时51分21秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分21秒 - dock status does not match
+2022年01月20日 12时51分21秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分21秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分21秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分21秒 - dock status matches
+2022年01月20日 12时51分21秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分21秒 - dock status does not match
+2022年01月20日 12时51分21秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分21秒 - dock status does not match
+2022年01月20日 12时51分21秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分21秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分21秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分21秒 - dock status matches
+2022年01月20日 12时51分21秒 - ClientMessage for window 0x01600003
+2022年01月20日 12时51分21秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时51分22秒 - _NET_WM_NAME changed to "Wine - ArchWiki 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时51分22秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分22秒 - dock status does not match
+2022年01月20日 12时51分22秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分22秒 - dock status does not match
+2022年01月20日 12时51分22秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分22秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分22秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分22秒 - dock status matches
+2022年01月20日 12时51分22秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分22秒 - dock status does not match
+2022年01月20日 12时51分22秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分22秒 - dock status does not match
+2022年01月20日 12时51分22秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分22秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分22秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分22秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时51分33秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时51分36秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时51分36秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分36秒 - dock status does not match
+2022年01月20日 12时51分36秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分36秒 - dock status does not match
+2022年01月20日 12时51分36秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分36秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时51分36秒 - window class matches (Terminator)
+2022年01月20日 12时51分36秒 - dock status matches
+2022年01月20日 12时51分36秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分36秒 - dock status does not match
+2022年01月20日 12时51分36秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分36秒 - dock status does not match
+2022年01月20日 12时51分36秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分36秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时51分36秒 - window class matches (Terminator)
+2022年01月20日 12时51分36秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时51分44秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时51分48秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时51分52秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+Fontconfig error: Cannot load default config file: No such file: (null)
+2022年01月20日 12时51分53秒 - _NET_WM_NAME changed to "wiki.archlinux.org 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时51分53秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分53秒 - dock status does not match
+2022年01月20日 12时51分53秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分53秒 - dock status does not match
+2022年01月20日 12时51分53秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分53秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分53秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分53秒 - dock status matches
+2022年01月20日 12时51分53秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分53秒 - dock status does not match
+2022年01月20日 12时51分53秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分53秒 - dock status does not match
+2022年01月20日 12时51分53秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分53秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时51分53秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时51分53秒 - dock status matches
+2022年01月20日 12时51分53秒 - startup id = i3/rofi/679-0-alexarch_TIME250969
+2022年01月20日 12时51分53秒 - executing: rofi -show drun
+2022年01月20日 12时51分53秒 - Not a managed window, ignoring UnmapNotify event
+
+(process:2151): XrmOptions-WARNING **: 12:51:53.911: Option: width is not found.
+
+(process:2151): XrmOptions-WARNING **: 12:51:53.911: Option: lines is not found.
+
+(process:2151): XrmOptions-WARNING **: 12:51:53.911: Option: columns is not found.
+polybar|error: module/mpd: Connection refused
+Gtk-Message: 12:51:55.445: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 12:51:55.445: Failed to load module "window-decorations-gtk-module"
+[2249:0120/125155.605692:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+2022年01月20日 12时51分56秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年01月20日 12时51分56秒 - WM_NAME changed to "Clash for Windows"
+2022年01月20日 12时51分56秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月20日 12时51分56秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年01月20日 12时51分56秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月20日 12时51分56秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月20日 12时51分56秒 - Checking window 0x02a00003 (class Clash for Windows)
+2022年01月20日 12时51分56秒 - dock status does not match
+2022年01月20日 12时51分56秒 - Checking window 0x02a00003 (class Clash for Windows)
+2022年01月20日 12时51分56秒 - dock status does not match
+2022年01月20日 12时51分56秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时51分56秒 - Checking window 0x02a00003 (class Clash for Windows)
+2022年01月20日 12时51分56秒 - Regular expression ".*" matches "Clash for Windows"
+2022年01月20日 12时51分56秒 - window class matches (Clash for Windows)
+2022年01月20日 12时51分56秒 - dock status matches
+2022年01月20日 12时51分56秒 - Checking window 0x01000001 (class Polybar)
+2022年01月20日 12时51分56秒 - window id does not match
+2022年01月20日 12时51分56秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时51分56秒 - window id does not match
+2022年01月20日 12时51分56秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分56秒 - window id does not match
+2022年01月20日 12时51分56秒 - Checking window 0x02a00003 (class Clash for Windows)
+2022年01月20日 12时51分56秒 - match made by window id (44040195)
+2022年01月20日 12时51分56秒 - dock status matches
+2022年01月20日 12时51分56秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时51分56秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时51分56秒 - workspace visible? fs = 0x55fe47097620, ws = 0x55fe47097620
+2022年01月20日 12时51分56秒 - ClientMessage for window 0x02a00003
+2022年01月20日 12时51分56秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时51分56秒 - ClientMessage for window 0x02a00003
+2022年01月20日 12时51分56秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+2022年01月20日 12时51分56秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时51分56秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分56秒 - dock status does not match
+2022年01月20日 12时51分56秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分56秒 - dock status does not match
+2022年01月20日 12时51分56秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分56秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时51分56秒 - window class matches (Terminator)
+2022年01月20日 12时51分56秒 - dock status matches
+2022年01月20日 12时51分56秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分56秒 - dock status does not match
+2022年01月20日 12时51分56秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分56秒 - dock status does not match
+2022年01月20日 12时51分56秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分56秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时51分56秒 - window class matches (Terminator)
+2022年01月20日 12时51分56秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+[2267:0120/125157.331486:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2267:0120/125158.046618:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2267:0120/125158.346028:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -101
+polybar|error: module/mpd: Connection refused
+[2267:0120/125159.003144:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -101
+2022年01月20日 12时51分59秒 - Sending WM_DELETE to the client
+2022年01月20日 12时51分59秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月20日 12时51分59秒 - expose event for unknown window, ignoring
+2022年01月20日 12时51分59秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月20日 12时51分59秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月20日 12时51分59秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月20日 12时51分59秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时51分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分59秒 - dock status does not match
+2022年01月20日 12时51分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分59秒 - dock status does not match
+2022年01月20日 12时51分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分59秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时51分59秒 - window class matches (Terminator)
+2022年01月20日 12时51分59秒 - dock status matches
+2022年01月20日 12时51分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分59秒 - dock status does not match
+2022年01月20日 12时51分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分59秒 - dock status does not match
+2022年01月20日 12时51分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时51分59秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时51分59秒 - window class matches (Terminator)
+2022年01月20日 12时51分59秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时52分01秒 - _NET_WM_NAME changed to "Wine - ArchWiki 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时52分01秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分01秒 - dock status does not match
+2022年01月20日 12时52分01秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分01秒 - dock status does not match
+2022年01月20日 12时52分01秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分01秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分01秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分01秒 - dock status matches
+2022年01月20日 12时52分01秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分01秒 - dock status does not match
+2022年01月20日 12时52分01秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分01秒 - dock status does not match
+2022年01月20日 12时52分01秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分01秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分01秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分01秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时52分06秒 - _NET_WM_NAME changed to "https://en.wikipedia.org/wiki/PlayOnLinux 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时52分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分06秒 - dock status does not match
+2022年01月20日 12时52分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分06秒 - dock status does not match
+2022年01月20日 12时52分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分06秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分06秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分06秒 - dock status matches
+2022年01月20日 12时52分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分06秒 - dock status does not match
+2022年01月20日 12时52分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分06秒 - dock status does not match
+2022年01月20日 12时52分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分06秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分06秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分06秒 - dock status matches
+2022年01月20日 12时52分06秒 - _NET_WM_NAME changed to "PlayOnLinux - Wikipedia 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时52分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分06秒 - dock status does not match
+2022年01月20日 12时52分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分06秒 - dock status does not match
+2022年01月20日 12时52分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分06秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分06秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分06秒 - dock status matches
+2022年01月20日 12时52分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分06秒 - dock status does not match
+2022年01月20日 12时52分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分06秒 - dock status does not match
+2022年01月20日 12时52分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分06秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分06秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分06秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时52分18秒 - _NET_WM_NAME changed to "How can I install PlayOnLinux/Wine / Applications & Desktop Environments / Arch Linux Forums 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时52分18秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分18秒 - dock status does not match
+2022年01月20日 12时52分18秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分18秒 - dock status does not match
+2022年01月20日 12时52分18秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分18秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分18秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分18秒 - dock status matches
+2022年01月20日 12时52分18秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分18秒 - dock status does not match
+2022年01月20日 12时52分18秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分18秒 - dock status does not match
+2022年01月20日 12时52分18秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分18秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分18秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分18秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时52分22秒 - _NET_WM_NAME changed to "How can I install PlayOnLinux/Wine / Applications & Desktop Environments / Arch Linux Forums 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时52分22秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分22秒 - dock status does not match
+2022年01月20日 12时52分22秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分22秒 - dock status does not match
+2022年01月20日 12时52分22秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分22秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分22秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分22秒 - dock status matches
+2022年01月20日 12时52分22秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分22秒 - dock status does not match
+2022年01月20日 12时52分22秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分22秒 - dock status does not match
+2022年01月20日 12时52分22秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分22秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分22秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分22秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时52分35秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时52分35秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时52分35秒 - dock status does not match
+2022年01月20日 12时52分35秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时52分35秒 - dock status does not match
+2022年01月20日 12时52分35秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时52分35秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时52分35秒 - window class matches (Terminator)
+2022年01月20日 12时52分35秒 - dock status matches
+2022年01月20日 12时52分35秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时52分35秒 - dock status does not match
+2022年01月20日 12时52分35秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时52分35秒 - dock status does not match
+2022年01月20日 12时52分35秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时52分35秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时52分35秒 - window class matches (Terminator)
+2022年01月20日 12时52分35秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时52分37秒 - _NET_WM_NAME changed to "arch playonlinux - 国内版 Bing 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时52分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分37秒 - dock status does not match
+2022年01月20日 12时52分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分37秒 - dock status does not match
+2022年01月20日 12时52分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分37秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分37秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分37秒 - dock status matches
+2022年01月20日 12时52分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分37秒 - dock status does not match
+2022年01月20日 12时52分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分37秒 - dock status does not match
+2022年01月20日 12时52分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分37秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分37秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分37秒 - dock status matches
+2022年01月20日 12时52分37秒 - _NET_WM_NAME changed to "Arch Linux - playonlinux 4.3.4-4 (x86_64) 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时52分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分37秒 - dock status does not match
+2022年01月20日 12时52分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分37秒 - dock status does not match
+2022年01月20日 12时52分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分37秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分37秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分37秒 - dock status matches
+2022年01月20日 12时52分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分37秒 - dock status does not match
+2022年01月20日 12时52分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分37秒 - dock status does not match
+2022年01月20日 12时52分37秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分37秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分37秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分37秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时52分39秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+[922:922:0120/125243.693213:ERROR:smartscreen_dns_resolver.cc(103)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://archlinux.org/packages/
+[922:922:0120/125243.693514:ERROR:smartscreen_dns_resolver.cc(103)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://archlinux.org/
+2022年01月20日 12时52分43秒 - _NET_WM_NAME changed to "Arch Linux - Package Search 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时52分43秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分43秒 - dock status does not match
+2022年01月20日 12时52分43秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分43秒 - dock status does not match
+2022年01月20日 12时52分43秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分43秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分43秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分43秒 - dock status matches
+2022年01月20日 12时52分43秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分43秒 - dock status does not match
+2022年01月20日 12时52分43秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分43秒 - dock status does not match
+2022年01月20日 12时52分43秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时52分43秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时52分43秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时52分43秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:45.532: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:45.576: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:45.656: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:46.174: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:46.291: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时52分53秒 - Not a managed window, ignoring UnmapNotify event
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:53.891: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:53.989: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:54.471: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:54.603: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:56.026: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:56.195: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:56.424: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:57.386: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:57.450: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:57.578: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:58.062: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:52:58.195: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:01.381: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:01.521: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时53分03秒 - _NET_WM_NAME changed to "AUR (zh_CN) - 首页 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时53分03秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分03秒 - dock status does not match
+2022年01月20日 12时53分03秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分03秒 - dock status does not match
+2022年01月20日 12时53分03秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分03秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时53分03秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时53分03秒 - dock status matches
+2022年01月20日 12时53分03秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分03秒 - dock status does not match
+2022年01月20日 12时53分03秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分03秒 - dock status does not match
+2022年01月20日 12时53分03秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分03秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时53分03秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时53分03秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:04.995: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:05.065: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:05.405: gdk_window_set_user_time called on non-toplevel
+
+2022年01月20日 12时53分06秒 - _NET_WM_NAME changed to "AUR (zh_CN) - 搜索标准: wine-for-wechat 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时53分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分06秒 - dock status does not match
+2022年01月20日 12时53分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分06秒 - dock status does not match
+2022年01月20日 12时53分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分06秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时53分06秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时53分06秒 - dock status matches
+2022年01月20日 12时53分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分06秒 - dock status does not match
+2022年01月20日 12时53分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分06秒 - dock status does not match
+2022年01月20日 12时53分06秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分06秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时53分06秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时53分06秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:09.423: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:09.582: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:09.738: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:09.896: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:10.049: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:10.190: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:10.332: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:10.476: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:10.633: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:10.808: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:11.132: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:11.209: gdk_window_set_user_time called on non-toplevel
+
+2022年01月20日 12时53分12秒 - _NET_WM_NAME changed to "AUR (zh_CN) - 搜索标准: wine 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时53分12秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分12秒 - dock status does not match
+2022年01月20日 12时53分12秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分12秒 - dock status does not match
+2022年01月20日 12时53分12秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分12秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时53分12秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时53分12秒 - dock status matches
+2022年01月20日 12时53分12秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分12秒 - dock status does not match
+2022年01月20日 12时53分12秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分12秒 - dock status does not match
+2022年01月20日 12时53分12秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分12秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时53分12秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时53分12秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:15.710: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:15.890: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:16.403: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:16.485: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:16.609: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:16.841: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:26.220: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:26.374: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:26.501: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:26.625: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:26.742: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:26.852: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:27.437: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:27.525: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:27.703: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:27.804: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:27.901: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:28.035: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时53分41秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时53分41秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分41秒 - dock status does not match
+2022年01月20日 12时53分41秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分41秒 - dock status does not match
+2022年01月20日 12时53分41秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分41秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时53分41秒 - window class matches (Terminator)
+2022年01月20日 12时53分41秒 - dock status matches
+2022年01月20日 12时53分41秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分41秒 - dock status does not match
+2022年01月20日 12时53分41秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分41秒 - dock status does not match
+2022年01月20日 12时53分41秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分41秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时53分41秒 - window class matches (Terminator)
+2022年01月20日 12时53分41秒 - dock status matches
+2022年01月20日 12时53分41秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时53分41秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分41秒 - dock status does not match
+2022年01月20日 12时53分41秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分41秒 - dock status does not match
+2022年01月20日 12时53分41秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分41秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时53分41秒 - window class matches (Terminator)
+2022年01月20日 12时53分41秒 - dock status matches
+2022年01月20日 12时53分41秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分41秒 - dock status does not match
+2022年01月20日 12时53分41秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分41秒 - dock status does not match
+2022年01月20日 12时53分41秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分41秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时53分41秒 - window class matches (Terminator)
+2022年01月20日 12时53分41秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时53分43秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时53分43秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分43秒 - dock status does not match
+2022年01月20日 12时53分43秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分43秒 - dock status does not match
+2022年01月20日 12时53分43秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分43秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时53分43秒 - window class matches (Terminator)
+2022年01月20日 12时53分43秒 - dock status matches
+2022年01月20日 12时53分43秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分43秒 - dock status does not match
+2022年01月20日 12时53分43秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分43秒 - dock status does not match
+2022年01月20日 12时53分43秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时53分43秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时53分43秒 - window class matches (Terminator)
+2022年01月20日 12时53分43秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:45.837: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:46.014: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:46.134: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:46.249: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:46.359: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:46.480: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:47.170: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:47.542: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:47.662: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:47.839: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:48.229: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:48.776: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时53分50秒 - _NET_WM_NAME changed to "arch playonlinux - 国内版 Bing 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时53分50秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分50秒 - dock status does not match
+2022年01月20日 12时53分50秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分50秒 - dock status does not match
+2022年01月20日 12时53分50秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分50秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时53分50秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时53分50秒 - dock status matches
+2022年01月20日 12时53分50秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分50秒 - dock status does not match
+2022年01月20日 12时53分50秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分50秒 - dock status does not match
+2022年01月20日 12时53分50秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分50秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时53分50秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时53分50秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:52.402: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:53.352: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:53.538: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:53.614: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:54.256: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:54.546: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:54.660: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:54.822: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:55.185: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:55.899: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:56.238: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:56.472: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:56.679: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:57.329: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:57.447: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:57.523: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:57.682: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:57.880: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:57.954: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:58.048: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:58.189: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:53:58.464: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时53分59秒 - _NET_WM_NAME changed to "wine-for-wechat - 国内版 Bing 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时53分59秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分59秒 - dock status does not match
+2022年01月20日 12时53分59秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分59秒 - dock status does not match
+2022年01月20日 12时53分59秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分59秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时53分59秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时53分59秒 - dock status matches
+2022年01月20日 12时53分59秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分59秒 - dock status does not match
+2022年01月20日 12时53分59秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分59秒 - dock status does not match
+2022年01月20日 12时53分59秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时53分59秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时53分59秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时53分59秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:10.166: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:10.345: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:10.456: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:10.535: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:10.741: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:11.036: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:11.697: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:11.735: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:11.776: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:11.817: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:11.857: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:11.898: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:11.938: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:11.978: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:12.018: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:12.058: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:12.098: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:12.138: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:12.178: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:12.218: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:12.257: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:12.830: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:12.903: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:13.094: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:13.230: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:13.325: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:13.455: gdk_window_set_user_time called on non-toplevel
+
+2022年01月20日 12时54分13秒 - _NET_WM_NAME changed to "wine-value - 国内版 Bing 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时54分13秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分13秒 - dock status does not match
+2022年01月20日 12时54分13秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分13秒 - dock status does not match
+2022年01月20日 12时54分13秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分13秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时54分13秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时54分13秒 - dock status matches
+2022年01月20日 12时54分13秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分13秒 - dock status does not match
+2022年01月20日 12时54分13秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分13秒 - dock status does not match
+2022年01月20日 12时54分13秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分13秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时54分13秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时54分13秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:18.607: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:18.782: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:18.931: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:19.141: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:19.216: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:19.360: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:54:19.513: gdk_window_set_user_time called on non-toplevel
+
+2022年01月20日 12时54分20秒 - _NET_WM_NAME changed to "arch wine-value - 国内版 Bing 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时54分20秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分20秒 - dock status does not match
+2022年01月20日 12时54分20秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分20秒 - dock status does not match
+2022年01月20日 12时54分20秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分20秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时54分20秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时54分20秒 - dock status matches
+2022年01月20日 12时54分20秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分20秒 - dock status does not match
+2022年01月20日 12时54分20秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分20秒 - dock status does not match
+2022年01月20日 12时54分20秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分20秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时54分20秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时54分20秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时54分25秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月20日 12时54分25秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时54分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分25秒 - dock status does not match
+2022年01月20日 12时54分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分25秒 - dock status does not match
+2022年01月20日 12时54分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分25秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时54分25秒 - window class matches (Terminator)
+2022年01月20日 12时54分25秒 - dock status matches
+2022年01月20日 12时54分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分25秒 - dock status does not match
+2022年01月20日 12时54分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分25秒 - dock status does not match
+2022年01月20日 12时54分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分25秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时54分25秒 - window class matches (Terminator)
+2022年01月20日 12时54分25秒 - dock status matches
+2022年01月20日 12时54分25秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时54分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分25秒 - dock status does not match
+2022年01月20日 12时54分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分25秒 - dock status does not match
+2022年01月20日 12时54分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分25秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时54分25秒 - window class matches (Terminator)
+2022年01月20日 12时54分25秒 - dock status matches
+2022年01月20日 12时54分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分25秒 - dock status does not match
+2022年01月20日 12时54分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分25秒 - dock status does not match
+2022年01月20日 12时54分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分25秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时54分25秒 - window class matches (Terminator)
+2022年01月20日 12时54分25秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时54分29秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月20日 12时54分29秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分29秒 - dock status does not match
+2022年01月20日 12时54分29秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分29秒 - dock status does not match
+2022年01月20日 12时54分29秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分29秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时54分29秒 - window class matches (Terminator)
+2022年01月20日 12时54分29秒 - dock status matches
+2022年01月20日 12时54分29秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分29秒 - dock status does not match
+2022年01月20日 12时54分29秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分29秒 - dock status does not match
+2022年01月20日 12时54分29秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分29秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时54分29秒 - window class matches (Terminator)
+2022年01月20日 12时54分29秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时54分33秒 - _NET_WM_NAME changed to "sudo pacman -S wine"
+2022年01月20日 12时54分33秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分33秒 - dock status does not match
+2022年01月20日 12时54分33秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分33秒 - dock status does not match
+2022年01月20日 12时54分33秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分33秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时54分33秒 - window class matches (Terminator)
+2022年01月20日 12时54分33秒 - dock status matches
+2022年01月20日 12时54分33秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分33秒 - dock status does not match
+2022年01月20日 12时54分33秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分33秒 - dock status does not match
+2022年01月20日 12时54分33秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分33秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时54分33秒 - window class matches (Terminator)
+2022年01月20日 12时54分33秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时54分39秒 - _NET_WM_NAME changed to "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时54分39秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分39秒 - dock status does not match
+2022年01月20日 12时54分39秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分39秒 - dock status does not match
+2022年01月20日 12时54分39秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分39秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时54分39秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时54分39秒 - dock status matches
+2022年01月20日 12时54分39秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分39秒 - dock status does not match
+2022年01月20日 12时54分39秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分39秒 - dock status does not match
+2022年01月20日 12时54分39秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分39秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时54分39秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时54分39秒 - dock status matches
+2022年01月20日 12时54分39秒 - ClientMessage for window 0x01600003
+2022年01月20日 12时54分39秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时54分41秒 - _NET_WM_NAME changed to "Arch Linux – How to Install Wine on Arch Linux 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时54分41秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分41秒 - dock status does not match
+2022年01月20日 12时54分41秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分41秒 - dock status does not match
+2022年01月20日 12时54分41秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分41秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时54分41秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时54分41秒 - dock status matches
+2022年01月20日 12时54分41秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分41秒 - dock status does not match
+2022年01月20日 12时54分41秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分41秒 - dock status does not match
+2022年01月20日 12时54分41秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时54分41秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时54分41秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时54分41秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时54分59秒 - _NET_WM_NAME changed to "sudo pacman -S wine"
+2022年01月20日 12时54分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分59秒 - dock status does not match
+2022年01月20日 12时54分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分59秒 - dock status does not match
+2022年01月20日 12时54分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分59秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时54分59秒 - window class matches (Terminator)
+2022年01月20日 12时54分59秒 - dock status matches
+2022年01月20日 12时54分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分59秒 - dock status does not match
+2022年01月20日 12时54分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分59秒 - dock status does not match
+2022年01月20日 12时54分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分59秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时54分59秒 - window class matches (Terminator)
+2022年01月20日 12时54分59秒 - dock status matches
+2022年01月20日 12时54分59秒 - _NET_WM_NAME changed to "sudo pacman -S wine"
+2022年01月20日 12时54分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分59秒 - dock status does not match
+2022年01月20日 12时54分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分59秒 - dock status does not match
+2022年01月20日 12时54分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分59秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时54分59秒 - window class matches (Terminator)
+2022年01月20日 12时54分59秒 - dock status matches
+2022年01月20日 12时54分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分59秒 - dock status does not match
+2022年01月20日 12时54分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分59秒 - dock status does not match
+2022年01月20日 12时54分59秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时54分59秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时54分59秒 - window class matches (Terminator)
+2022年01月20日 12时54分59秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时55分03秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月20日 12时55分03秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分03秒 - dock status does not match
+2022年01月20日 12时55分03秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分03秒 - dock status does not match
+2022年01月20日 12时55分03秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分03秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时55分03秒 - window class matches (Terminator)
+2022年01月20日 12时55分03秒 - dock status matches
+2022年01月20日 12时55分03秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分03秒 - dock status does not match
+2022年01月20日 12时55分03秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分03秒 - dock status does not match
+2022年01月20日 12时55分03秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分03秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时55分03秒 - window class matches (Terminator)
+2022年01月20日 12时55分03秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时55分05秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时55分05秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分05秒 - dock status does not match
+2022年01月20日 12时55分05秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分05秒 - dock status does not match
+2022年01月20日 12时55分05秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分05秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时55分05秒 - window class matches (Terminator)
+2022年01月20日 12时55分05秒 - dock status matches
+2022年01月20日 12时55分05秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分05秒 - dock status does not match
+2022年01月20日 12时55分05秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分05秒 - dock status does not match
+2022年01月20日 12时55分05秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分05秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时55分05秒 - window class matches (Terminator)
+2022年01月20日 12时55分05秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时55分08秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时55分08秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分08秒 - dock status does not match
+2022年01月20日 12时55分08秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分08秒 - dock status does not match
+2022年01月20日 12时55分08秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分08秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时55分08秒 - window class matches (Terminator)
+2022年01月20日 12时55分08秒 - dock status matches
+2022年01月20日 12时55分08秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分08秒 - dock status does not match
+2022年01月20日 12时55分08秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分08秒 - dock status does not match
+2022年01月20日 12时55分08秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分08秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时55分08秒 - window class matches (Terminator)
+2022年01月20日 12时55分08秒 - dock status matches
+2022年01月20日 12时55分08秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时55分08秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分08秒 - dock status does not match
+2022年01月20日 12时55分08秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分08秒 - dock status does not match
+2022年01月20日 12时55分08秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分08秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时55分08秒 - window class matches (Terminator)
+2022年01月20日 12时55分08秒 - dock status matches
+2022年01月20日 12时55分08秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分08秒 - dock status does not match
+2022年01月20日 12时55分08秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分08秒 - dock status does not match
+2022年01月20日 12时55分08秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分08秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时55分08秒 - window class matches (Terminator)
+2022年01月20日 12时55分08秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时55分09秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月20日 12时55分09秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分09秒 - dock status does not match
+2022年01月20日 12时55分09秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分09秒 - dock status does not match
+2022年01月20日 12时55分09秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分09秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时55分09秒 - window class matches (Terminator)
+2022年01月20日 12时55分09秒 - dock status matches
+2022年01月20日 12时55分09秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分09秒 - dock status does not match
+2022年01月20日 12时55分09秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分09秒 - dock status does not match
+2022年01月20日 12时55分09秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分09秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时55分09秒 - window class matches (Terminator)
+2022年01月20日 12时55分09秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时55分16秒 - _NET_WM_NAME changed to "sudo pacman -Syu"
+2022年01月20日 12时55分16秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分16秒 - dock status does not match
+2022年01月20日 12时55分16秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分16秒 - dock status does not match
+2022年01月20日 12时55分16秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分16秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时55分16秒 - window class matches (Terminator)
+2022年01月20日 12时55分16秒 - dock status matches
+2022年01月20日 12时55分16秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分16秒 - dock status does not match
+2022年01月20日 12时55分16秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分16秒 - dock status does not match
+2022年01月20日 12时55分16秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时55分16秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时55分16秒 - window class matches (Terminator)
+2022年01月20日 12时55分16秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时56分24秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月20日 12时56分24秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时56分24秒 - dock status does not match
+2022年01月20日 12时56分24秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时56分24秒 - dock status does not match
+2022年01月20日 12时56分24秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时56分24秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时56分24秒 - window class matches (Terminator)
+2022年01月20日 12时56分24秒 - dock status matches
+2022年01月20日 12时56分24秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时56分24秒 - dock status does not match
+2022年01月20日 12时56分24秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时56分24秒 - dock status does not match
+2022年01月20日 12时56分24秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时56分24秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时56分24秒 - window class matches (Terminator)
+2022年01月20日 12时56分24秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时56分35秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时56分35秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时56分35秒 - dock status does not match
+2022年01月20日 12时56分35秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时56分35秒 - dock status does not match
+2022年01月20日 12时56分35秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时56分35秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时56分35秒 - window class matches (Terminator)
+2022年01月20日 12时56分35秒 - dock status matches
+2022年01月20日 12时56分35秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时56分35秒 - dock status does not match
+2022年01月20日 12时56分35秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时56分35秒 - dock status does not match
+2022年01月20日 12时56分35秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时56分35秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时56分35秒 - window class matches (Terminator)
+2022年01月20日 12时56分35秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时56分45秒 - _NET_WM_NAME changed to "arch wine-value - 国内版 Bing 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时56分45秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分45秒 - dock status does not match
+2022年01月20日 12时56分45秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分45秒 - dock status does not match
+2022年01月20日 12时56分45秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分45秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时56分45秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时56分45秒 - dock status matches
+2022年01月20日 12时56分45秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分45秒 - dock status does not match
+2022年01月20日 12时56分45秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分45秒 - dock status does not match
+2022年01月20日 12时56分45秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分45秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时56分45秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时56分45秒 - dock status matches
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:46.517: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:46.823: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:46.947: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:47.095: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:47.273: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:47.479: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:48.030: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:48.150: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:48.242: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:48.639: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:48.877: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:48.993: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:49.209: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:49.500: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:49.819: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:49.910: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:56:50.039: gdk_window_set_user_time called on non-toplevel
+
+2022年01月20日 12时56分50秒 - _NET_WM_NAME changed to "arch wine-winscard - 国内版 Bing 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时56分50秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分50秒 - dock status does not match
+2022年01月20日 12时56分50秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分50秒 - dock status does not match
+2022年01月20日 12时56分50秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分50秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时56分50秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时56分50秒 - dock status matches
+2022年01月20日 12时56分50秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分50秒 - dock status does not match
+2022年01月20日 12时56分50秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分50秒 - dock status does not match
+2022年01月20日 12时56分50秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分50秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时56分50秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时56分50秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时56分52秒 - _NET_WM_NAME changed to "无标题 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时56分52秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分52秒 - dock status does not match
+2022年01月20日 12时56分52秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分52秒 - dock status does not match
+2022年01月20日 12时56分52秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时56分52秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时56分52秒 - dock status matches
+2022年01月20日 12时56分52秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分52秒 - dock status does not match
+2022年01月20日 12时56分52秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分52秒 - dock status does not match
+2022年01月20日 12时56分52秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分52秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时56分52秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时56分52秒 - dock status matches
+2022年01月20日 12时56分52秒 - ClientMessage for window 0x01600003
+2022年01月20日 12时56分52秒 - workspace visible? fs = 0x55fe4709b0d0, ws = 0x55fe4709b0d0
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时56分53秒 - _NET_WM_NAME changed to "AUR (zh_CN) - wine-winscard 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时56分53秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分53秒 - dock status does not match
+2022年01月20日 12时56分53秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分53秒 - dock status does not match
+2022年01月20日 12时56分53秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分53秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时56分53秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时56分53秒 - dock status matches
+2022年01月20日 12时56分53秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分53秒 - dock status does not match
+2022年01月20日 12时56分53秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分53秒 - dock status does not match
+2022年01月20日 12时56分53秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时56分53秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时56分53秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时56分53秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时56分58秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时56分59秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:02.889: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:02.953: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:03.028: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:03.127: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:03.958: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时57分05秒 - _NET_WM_NAME changed to "AUR (zh_CN) - 搜索标准: wine 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时57分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分05秒 - dock status does not match
+2022年01月20日 12时57分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分05秒 - dock status does not match
+2022年01月20日 12时57分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分05秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分05秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分05秒 - dock status matches
+2022年01月20日 12时57分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分05秒 - dock status does not match
+2022年01月20日 12时57分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分05秒 - dock status does not match
+2022年01月20日 12时57分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分05秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分05秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分05秒 - dock status matches
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:06.559: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:07.013: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:07.114: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:07.254: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:07.333: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:07.455: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:07.619: gdk_window_set_user_time called on non-toplevel
+
+2022年01月20日 12时57分08秒 - _NET_WM_NAME changed to "AUR (zh_CN) - 搜索标准: wine-value 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时57分08秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分08秒 - dock status does not match
+2022年01月20日 12时57分08秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分08秒 - dock status does not match
+2022年01月20日 12时57分08秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分08秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分08秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分08秒 - dock status matches
+2022年01月20日 12时57分08秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分08秒 - dock status does not match
+2022年01月20日 12时57分08秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分08秒 - dock status does not match
+2022年01月20日 12时57分08秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分08秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分08秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分08秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:09.989: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:10.137: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:10.317: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:10.630: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:10.816: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时57分11秒 - _NET_WM_NAME changed to "AUR (zh_CN) - 搜索标准: wine-v 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时57分11秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分11秒 - dock status does not match
+2022年01月20日 12时57分11秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分11秒 - dock status does not match
+2022年01月20日 12时57分11秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分11秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分11秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分11秒 - dock status matches
+2022年01月20日 12时57分11秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分11秒 - dock status does not match
+2022年01月20日 12时57分11秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分11秒 - dock status does not match
+2022年01月20日 12时57分11秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分11秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分11秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分11秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时57分18秒 - _NET_WM_NAME changed to "AUR (zh_CN) - wine-valve 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时57分18秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分18秒 - dock status does not match
+2022年01月20日 12时57分18秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分18秒 - dock status does not match
+2022年01月20日 12时57分18秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分18秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分18秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分18秒 - dock status matches
+2022年01月20日 12时57分18秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分18秒 - dock status does not match
+2022年01月20日 12时57分18秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分18秒 - dock status does not match
+2022年01月20日 12时57分18秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分18秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分18秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分18秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时57分25秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时57分28秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时57分30秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时57分31秒 - _NET_WM_NAME changed to "新建标签页 和另外 5 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时57分31秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分31秒 - dock status does not match
+2022年01月20日 12时57分31秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分31秒 - dock status does not match
+2022年01月20日 12时57分31秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分31秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分31秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分31秒 - dock status matches
+2022年01月20日 12时57分31秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分31秒 - dock status does not match
+2022年01月20日 12时57分31秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分31秒 - dock status does not match
+2022年01月20日 12时57分31秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分31秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分31秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分31秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:33.283: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:33.392: gdk_window_set_user_time called on non-toplevel
+
+[1021:1025:0120/125733.457036:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1021:1025:0120/125733.507332:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1021:1025:0120/125733.560298:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -100
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:33.569: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:33.660: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:33.840: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:34.015: gdk_window_set_user_time called on non-toplevel
+
+[922:922:0120/125734.254848:ERROR:interface_endpoint_client.cc(658)] Message 2 rejected by interface blink.mojom.WidgetHost
+2022年01月20日 12时57分34秒 - _NET_WM_NAME changed to "https://www.bing.com/search?q=vavle&form=ANNTH1&refig=3d8c6b8166b542738f81c49291fcbe6e 和另外 5 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时57分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分34秒 - dock status does not match
+2022年01月20日 12时57分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分34秒 - dock status does not match
+2022年01月20日 12时57分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分34秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分34秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分34秒 - dock status matches
+2022年01月20日 12时57分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分34秒 - dock status does not match
+2022年01月20日 12时57分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分34秒 - dock status does not match
+2022年01月20日 12时57分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分34秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分34秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分34秒 - dock status matches
+2022年01月20日 12时57分34秒 - _NET_WM_NAME changed to "vavle - 国内版 Bing 和另外 5 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时57分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分34秒 - dock status does not match
+2022年01月20日 12时57分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分34秒 - dock status does not match
+2022年01月20日 12时57分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分34秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分34秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分34秒 - dock status matches
+2022年01月20日 12时57分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分34秒 - dock status does not match
+2022年01月20日 12时57分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分34秒 - dock status does not match
+2022年01月20日 12时57分34秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分34秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分34秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分34秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:37.741: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:37.909: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:38.047: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:38.716: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:38.897: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:38.986: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:39.108: gdk_window_set_user_time called on non-toplevel
+
+2022年01月20日 12时57分39秒 - _NET_WM_NAME changed to "valve - 国内版 Bing 和另外 5 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时57分39秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分39秒 - dock status does not match
+2022年01月20日 12时57分39秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分39秒 - dock status does not match
+2022年01月20日 12时57分39秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分39秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分39秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分39秒 - dock status matches
+2022年01月20日 12时57分39秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分39秒 - dock status does not match
+2022年01月20日 12时57分39秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分39秒 - dock status does not match
+2022年01月20日 12时57分39秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分39秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分39秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分39秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时57分47秒 - _NET_WM_NAME changed to "AUR (zh_CN) - wine-valve 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时57分47秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分47秒 - dock status does not match
+2022年01月20日 12时57分47秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分47秒 - dock status does not match
+2022年01月20日 12时57分47秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分47秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分47秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分47秒 - dock status matches
+2022年01月20日 12时57分47秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分47秒 - dock status does not match
+2022年01月20日 12时57分47秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分47秒 - dock status does not match
+2022年01月20日 12时57分47秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分47秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分47秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分47秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:51.295: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:51.489: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:51.917: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:52.108: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:52.667: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:52.723: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:52.782: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:53.254: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:53.665: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:53.835: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:54.641: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:55.068: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:55.236: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:55.500: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:55.587: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:55.684: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:55.863: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:56.009: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时57分57秒 - _NET_WM_NAME changed to "AUR (zh_CN) - 搜索标准: wine-wechat 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时57分57秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分57秒 - dock status does not match
+2022年01月20日 12时57分57秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分57秒 - dock status does not match
+2022年01月20日 12时57分57秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分57秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分57秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分57秒 - dock status matches
+2022年01月20日 12时57分57秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分57秒 - dock status does not match
+2022年01月20日 12时57分57秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分57秒 - dock status does not match
+2022年01月20日 12时57分57秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时57分57秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时57分57秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时57分57秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:59.579: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:59.739: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:57:59.879: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:00.012: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:00.129: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:00.266: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:00.417: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:04.098: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时58分05秒 - _NET_WM_NAME changed to "AUR (zh_CN) - 搜索标准: wine 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时58分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分05秒 - dock status does not match
+2022年01月20日 12时58分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分05秒 - dock status does not match
+2022年01月20日 12时58分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分05秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分05秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分05秒 - dock status matches
+2022年01月20日 12时58分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分05秒 - dock status does not match
+2022年01月20日 12时58分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分05秒 - dock status does not match
+2022年01月20日 12时58分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分05秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分05秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分05秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时58分11秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时58分11秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分11秒 - dock status does not match
+2022年01月20日 12时58分11秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分11秒 - dock status does not match
+2022年01月20日 12时58分11秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分11秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时58分11秒 - window class matches (Terminator)
+2022年01月20日 12时58分11秒 - dock status matches
+2022年01月20日 12时58分11秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分11秒 - dock status does not match
+2022年01月20日 12时58分11秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分11秒 - dock status does not match
+2022年01月20日 12时58分11秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分11秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时58分11秒 - window class matches (Terminator)
+2022年01月20日 12时58分11秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:20.225: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:20.490: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:20.587: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:20.731: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:20.845: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时58分21秒 - _NET_WM_NAME changed to "AUR (zh_CN) - 搜索标准: wine-for 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时58分21秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分21秒 - dock status does not match
+2022年01月20日 12时58分21秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分21秒 - dock status does not match
+2022年01月20日 12时58分21秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分21秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分21秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分21秒 - dock status matches
+2022年01月20日 12时58分21秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分21秒 - dock status does not match
+2022年01月20日 12时58分21秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分21秒 - dock status does not match
+2022年01月20日 12时58分21秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分21秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分21秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分21秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:23.047: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:23.237: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:23.648: gdk_window_set_user_time called on non-toplevel
+
+2022年01月20日 12时58分24秒 - _NET_WM_NAME changed to "AUR (zh_CN) - 搜索标准: wine-f 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时58分24秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分24秒 - dock status does not match
+2022年01月20日 12时58分24秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分24秒 - dock status does not match
+2022年01月20日 12时58分24秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分24秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分24秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分24秒 - dock status matches
+2022年01月20日 12时58分24秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分24秒 - dock status does not match
+2022年01月20日 12时58分24秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分24秒 - dock status does not match
+2022年01月20日 12时58分24秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分24秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分24秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分24秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:25.666: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:25.810: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:26.089: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:26.279: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:26.534: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:26.944: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:27.012: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:27.116: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:27.249: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:27.365: gdk_window_set_user_time called on non-toplevel
+
+2022年01月20日 12时58分28秒 - _NET_WM_NAME changed to "AUR (zh_CN) - 搜索标准: wine wechat 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时58分28秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分28秒 - dock status does not match
+2022年01月20日 12时58分28秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分28秒 - dock status does not match
+2022年01月20日 12时58分28秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分28秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分28秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分28秒 - dock status matches
+2022年01月20日 12时58分28秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分28秒 - dock status does not match
+2022年01月20日 12时58分28秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分28秒 - dock status does not match
+2022年01月20日 12时58分28秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分28秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分28秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分28秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时58分31秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时58分31秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分31秒 - dock status does not match
+2022年01月20日 12时58分31秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分31秒 - dock status does not match
+2022年01月20日 12时58分31秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分31秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时58分31秒 - window class matches (Terminator)
+2022年01月20日 12时58分31秒 - dock status matches
+2022年01月20日 12时58分31秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分31秒 - dock status does not match
+2022年01月20日 12时58分31秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分31秒 - dock status does not match
+2022年01月20日 12时58分31秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分31秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时58分31秒 - window class matches (Terminator)
+2022年01月20日 12时58分31秒 - dock status matches
+2022年01月20日 12时58分31秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时58分31秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分31秒 - dock status does not match
+2022年01月20日 12时58分31秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分31秒 - dock status does not match
+2022年01月20日 12时58分31秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分31秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时58分31秒 - window class matches (Terminator)
+2022年01月20日 12时58分31秒 - dock status matches
+2022年01月20日 12时58分31秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分31秒 - dock status does not match
+2022年01月20日 12时58分31秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分31秒 - dock status does not match
+2022年01月20日 12时58分31秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时58分31秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时58分31秒 - window class matches (Terminator)
+2022年01月20日 12时58分31秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:35.301: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:35.383: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:35.456: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:35.754: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:36.879: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:37.832: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:37.884: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:37.957: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:39.450: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:40.001: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:40.104: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:40.345: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:40.726: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:40.822: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:41.004: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:41.109: gdk_window_set_user_time called on non-toplevel
+
+2022年01月20日 12时58分42秒 - _NET_WM_NAME changed to "AUR (zh_CN) - 搜索标准: wine-winscard 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时58分42秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分42秒 - dock status does not match
+2022年01月20日 12时58分42秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分42秒 - dock status does not match
+2022年01月20日 12时58分42秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分42秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分42秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分42秒 - dock status matches
+2022年01月20日 12时58分42秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分42秒 - dock status does not match
+2022年01月20日 12时58分42秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分42秒 - dock status does not match
+2022年01月20日 12时58分42秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分42秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分42秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分42秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时58分49秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时58分54秒 - _NET_WM_NAME changed to "Arch Linux – How to Install Wine on Arch Linux 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时58分54秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分54秒 - dock status does not match
+2022年01月20日 12时58分54秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分54秒 - dock status does not match
+2022年01月20日 12时58分54秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分54秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分54秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分54秒 - dock status matches
+2022年01月20日 12时58分54秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分54秒 - dock status does not match
+2022年01月20日 12时58分54秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分54秒 - dock status does not match
+2022年01月20日 12时58分54秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分54秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分54秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分54秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时58分56秒 - _NET_WM_NAME changed to "How can I install PlayOnLinux/Wine / Applications & Desktop Environments / Arch Linux Forums 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时58分56秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分56秒 - dock status does not match
+2022年01月20日 12时58分56秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分56秒 - dock status does not match
+2022年01月20日 12时58分56秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分56秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分56秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分56秒 - dock status matches
+2022年01月20日 12时58分56秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分56秒 - dock status does not match
+2022年01月20日 12时58分56秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分56秒 - dock status does not match
+2022年01月20日 12时58分56秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分56秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分56秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分56秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时58分56秒 - _NET_WM_NAME changed to "新建标签页 和另外 5 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时58分56秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分56秒 - dock status does not match
+2022年01月20日 12时58分56秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分56秒 - dock status does not match
+2022年01月20日 12时58分56秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分56秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分56秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分56秒 - dock status matches
+2022年01月20日 12时58分56秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分56秒 - dock status does not match
+2022年01月20日 12时58分56秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分56秒 - dock status does not match
+2022年01月20日 12时58分56秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时58分56秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时58分56秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时58分56秒 - dock status matches
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:58.162: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:58.213: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:58.290: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:58.852: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:58.996: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:59.079: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:59.253: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:59.630: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:922): Gdk-WARNING **: 12:58:59.767: gdk_window_set_user_time called on non-toplevel
+
+[922:922:0120/125859.984505:ERROR:interface_endpoint_client.cc(658)] Message 2 rejected by interface blink.mojom.WidgetHost
+2022年01月20日 12时59分00秒 - _NET_WM_NAME changed to "https://www.bing.com/search?q=winscard&form=ANNTH1&refig=3d9dab0e96124259a36d38fc37c52c35 和另外 5 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时59分00秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分00秒 - dock status does not match
+2022年01月20日 12时59分00秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分00秒 - dock status does not match
+2022年01月20日 12时59分00秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分00秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时59分00秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时59分00秒 - dock status matches
+2022年01月20日 12时59分00秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分00秒 - dock status does not match
+2022年01月20日 12时59分00秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分00秒 - dock status does not match
+2022年01月20日 12时59分00秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分00秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时59分00秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时59分00秒 - dock status matches
+2022年01月20日 12时59分00秒 - _NET_WM_NAME changed to "winscard - 国内版 Bing 和另外 5 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时59分00秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分00秒 - dock status does not match
+2022年01月20日 12时59分00秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分00秒 - dock status does not match
+2022年01月20日 12时59分00秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分00秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时59分00秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时59分00秒 - dock status matches
+2022年01月20日 12时59分00秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分00秒 - dock status does not match
+2022年01月20日 12时59分00秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分00秒 - dock status does not match
+2022年01月20日 12时59分00秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分00秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时59分00秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时59分00秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时59分04秒 - _NET_WM_NAME changed to "How can I install PlayOnLinux/Wine / Applications & Desktop Environments / Arch Linux Forums 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时59分04秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分04秒 - dock status does not match
+2022年01月20日 12时59分04秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分04秒 - dock status does not match
+2022年01月20日 12时59分04秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分04秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时59分04秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时59分04秒 - dock status matches
+2022年01月20日 12时59分04秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分04秒 - dock status does not match
+2022年01月20日 12时59分04秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分04秒 - dock status does not match
+2022年01月20日 12时59分04秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分04秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时59分04秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时59分04秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时59分05秒 - _NET_WM_NAME changed to "Arch Linux – How to Install Wine on Arch Linux 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月20日 12时59分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分05秒 - dock status does not match
+2022年01月20日 12时59分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分05秒 - dock status does not match
+2022年01月20日 12时59分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分05秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时59分05秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时59分05秒 - dock status matches
+2022年01月20日 12时59分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分05秒 - dock status does not match
+2022年01月20日 12时59分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分05秒 - dock status does not match
+2022年01月20日 12时59分05秒 - Checking window 0x01600003 (class Microsoft-edge)
+2022年01月20日 12时59分05秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月20日 12时59分05秒 - window class matches (Microsoft-edge)
+2022年01月20日 12时59分05秒 - dock status matches
+2022年01月20日 12时59分05秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时59分05秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分05秒 - dock status does not match
+2022年01月20日 12时59分05秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分05秒 - dock status does not match
+2022年01月20日 12时59分05秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分05秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时59分05秒 - window class matches (Terminator)
+2022年01月20日 12时59分05秒 - dock status matches
+2022年01月20日 12时59分05秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分05秒 - dock status does not match
+2022年01月20日 12时59分05秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分05秒 - dock status does not match
+2022年01月20日 12时59分05秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分05秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时59分05秒 - window class matches (Terminator)
+2022年01月20日 12时59分05秒 - dock status matches
+2022年01月20日 12时59分06秒 - _NET_WM_NAME changed to "sudo pacman -S playonlinux"
+2022年01月20日 12时59分06秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分06秒 - dock status does not match
+2022年01月20日 12时59分06秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分06秒 - dock status does not match
+2022年01月20日 12时59分06秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分06秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时59分06秒 - window class matches (Terminator)
+2022年01月20日 12时59分06秒 - dock status matches
+2022年01月20日 12时59分06秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分06秒 - dock status does not match
+2022年01月20日 12时59分06秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分06秒 - dock status does not match
+2022年01月20日 12时59分06秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分06秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时59分06秒 - window class matches (Terminator)
+2022年01月20日 12时59分06秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时59分25秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月20日 12时59分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分25秒 - dock status does not match
+2022年01月20日 12时59分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分25秒 - dock status does not match
+2022年01月20日 12时59分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分25秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时59分25秒 - window class matches (Terminator)
+2022年01月20日 12时59分25秒 - dock status matches
+2022年01月20日 12时59分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分25秒 - dock status does not match
+2022年01月20日 12时59分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分25秒 - dock status does not match
+2022年01月20日 12时59分25秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分25秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时59分25秒 - window class matches (Terminator)
+2022年01月20日 12时59分25秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月20日 12时59分27秒 - _NET_WM_NAME changed to "sudo reboot"
+2022年01月20日 12时59分27秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分27秒 - dock status does not match
+2022年01月20日 12时59分27秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分27秒 - dock status does not match
+2022年01月20日 12时59分27秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分27秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时59分27秒 - window class matches (Terminator)
+2022年01月20日 12时59分27秒 - dock status matches
+2022年01月20日 12时59分27秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分27秒 - dock status does not match
+2022年01月20日 12时59分27秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分27秒 - dock status does not match
+2022年01月20日 12时59分27秒 - Checking window 0x02600007 (class Terminator)
+2022年01月20日 12时59分27秒 - Regular expression ".*" matches "Terminator"
+2022年01月20日 12时59分27秒 - window class matches (Terminator)
+2022年01月20日 12时59分27秒 - dock status matches
+=========================
+Fcitx 5.0.13 -- Get Signal No.: 15
+Date: try "date -d @1642654767" if you are using GNU date ***
+ProcessID: 692
+fcitx5(+0xd158)[0x55d7a200e158]
+/usr/lib/libc.so.6(+0x3cda0)[0x7f9be984ada0]
+/usr/lib/libc.so.6(epoll_wait+0x5e)[0x7f9be990c92e]
+/usr/lib/libsystemd.so.0(sd_event_wait+0x172)[0x7f9be9731c52]
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+/usr/lib/libsystemd.so.0(sd_event_run+0x1ac)[0x7f9be973300c]
+polybar|notice:  Termination signal received, shutting down...
+/usr/lib/libsystemd.so.0(sd_event_loop+0x60)[0x7f9be9733150]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx9EventLoop4execEv+0x16)[0x7f9be9c8a1d6]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4execEv+0x57)[0x7f9be9d45847]
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+fcitx5(+0xb7f8)[0x55d7a200c7f8]
+/usr/lib/libc.so.6(__libc_start_main+0xd5)[0x7f9be9835b25]
+fcitx5(+0xc7fe)[0x55d7a200d7fe]
+=========================
+Fcitx 5.0.13 -- Get Signal No.: 1
+Date: try "date -d @1642654767" if you are using GNU date ***
+ProcessID: 692
+fcitx5(+0xd158)[0x55d7a200e158]
+/usr/lib/libc.so.6(+0x3cda0)[0x7f9be984ada0]
+/usr/lib/libc.so.6(fsync+0x3b)[0x7f9be990441b]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx20StandardPathTempFile5closeEv+0x39)[0x7f9be9c94569]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx20StandardPathTempFileD1Ev+0x1c)[0x7f9be9c947bc]
+/usr/lib/libFcitx5Utils.so.2(_ZNK5fcitx12StandardPath8safeSaveENS0_4TypeERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERKSt8functionIFbiEE+0x53)[0x7f9be9c9ce73]
+/usr/lib/libFcitx5Config.so.6(_ZN5fcitx13safeSaveAsIniERKNS_9RawConfigENS_12StandardPath4TypeERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x5c)[0x7f9be9cfe1fc]
+/usr/lib/libFcitx5Config.so.6(_ZN5fcitx13safeSaveAsIniERKNS_13ConfigurationENS_12StandardPath4TypeERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x4f)[0x7f9be9cfe2bf]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx18InputMethodManager4saveEv+0x402)[0x7f9be9d77b32]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4saveEv+0x28)[0x7f9be9d48608]
+/usr/lib/libFcitx5Core.so.7(+0x4b62f)[0x7f9be9d5962f]
+/usr/lib/libFcitx5Utils.so.2(+0x4466c)[0x7f9be9c9466c]
+/usr/lib/libsystemd.so.0(+0x79d7d)[0x7f9be972fd7d]
+/usr/lib/libsystemd.so.0(sd_event_dispatch+0x270)[0x7f9be97303a0]
+/usr/lib/libsystemd.so.0(sd_event_run+0x119)[0x7f9be9732f79]
+/usr/lib/libsystemd.so.0(sd_event_loop+0x60)[0x7f9be9733150]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx9EventLoop4execEv+0x16)[0x7f9be9c8a1d6]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4execEv+0x57)[0x7f9be9d45847]
+fcitx5(+0xb7f8)[0x55d7a200c7f8]
+/usr/lib/libc.so.6(__libc_start_main+0xd5)[0x7f9be9835b25]
+fcitx5(+0xc7fe)[0x55d7a200d7fe]
+W2022-01-20 12:59:27.119448 xcbeventreader.cpp:39] XCB connection ":0" got error: 1
+I2022-01-20 12:59:27.120837 addonmanager.cpp:297] Unloading addon rime
+I2022-01-20 12:59:27.121197 addonmanager.cpp:297] Unloading addon notifications
+I2022-01-20 12:59:27.121242 addonmanager.cpp:297] Unloading addon notificationitem
+I2022-01-20 12:59:27.121300 addonmanager.cpp:297] Unloading addon classicui
+I2022-01-20 12:59:27.123030 addonmanager.cpp:297] Unloading addon kimpanel
+I2022-01-20 12:59:27.123087 addonmanager.cpp:297] Unloading addon xim
+I2022-01-20 12:59:27.123135 addonmanager.cpp:297] Unloading addon ibusfrontend
+I2022-01-20 12:59:27.127833 addonmanager.cpp:297] Unloading addon fcitx4frontend
+I2022-01-20 12:59:27.127908 addonmanager.cpp:297] Unloading addon dbusfrontend
+I2022-01-20 12:59:27.127949 addonmanager.cpp:297] Unloading addon dbus
+I2022-01-20 12:59:27.128011 addonmanager.cpp:297] Unloading addon unicode
+I2022-01-20 12:59:27.128046 addonmanager.cpp:297] Unloading addon clipboard
+I2022-01-20 12:59:27.128085 addonmanager.cpp:297] Unloading addon keyboard
+I2022-01-20 12:59:27.128253 addonmanager.cpp:297] Unloading addon waylandim
+I2022-01-20 12:59:27.128281 addonmanager.cpp:297] Unloading addon quickphrase
+I2022-01-20 12:59:27.128494 addonmanager.cpp:297] Unloading addon xcb
+I2022-01-20 12:59:27.128518 inputcontextmanager.cpp:318] All display connections are gone, exit now.
+I2022-01-20 12:59:27.128860 addonmanager.cpp:297] Unloading addon imselector
+I2022-01-20 12:59:27.128892 addonmanager.cpp:297] Unloading addon wayland

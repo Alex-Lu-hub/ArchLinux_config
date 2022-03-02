@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill "$HOME/feh/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg"

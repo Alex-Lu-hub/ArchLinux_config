@@ -1,0 +1,685 @@
+2022年01月22日 02时50分03秒 - i3 4.20.1 (2021-11-03) starting
+2022年01月22日 02时50分03秒 - Parsing configfile /home/alex/.config/i3/config
+2022年01月22日 02时50分03秒 - Changing working directory to config file directory /home/alex/.config/i3
+2022年01月22日 02时50分03秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2022年01月22日 02时50分03秒 - [libi3] ../i3-4.20.1/libi3/font.c Using Pango font Input Nerd Font, size 9
+2022年01月22日 02时50分03秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分03秒 - focused now = 0x561545a1ef50 / 1
+2022年01月22日 02时50分03秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分03秒 - workspace visible? fs = 0x561545a1b3a0, ws = 0x561545a1b3a0
+2022年01月22日 02时50分03秒 - This is not an in-place restart, checking if a wallpaper is set.
+2022年01月22日 02时50分03秒 - A wallpaper is set, so no screenshot is necessary.
+2022年01月22日 02时50分03秒 - auto-starting xautolock -time 5 -locker '/usr/bin/betterlockscreen -l' -corners ---- -cornersize 30 &
+2022年01月22日 02时50分03秒 - executing: xautolock -time 5 -locker '/usr/bin/betterlockscreen -l' -corners ---- -cornersize 30 &
+2022年01月22日 02时50分03秒 - auto-starting fcitx5
+2022年01月22日 02时50分03秒 - executing: fcitx5
+2022年01月22日 02时50分03秒 - auto-starting dunst
+2022年01月22日 02时50分03秒 - executing: dunst
+2022年01月22日 02时50分03秒 - auto-starting '/home/alex/Downloads/Clash for Windows-0.19.5-x64-linux/cfw'
+2022年01月22日 02时50分03秒 - executing: '/home/alex/Downloads/Clash for Windows-0.19.5-x64-linux/cfw'
+2022年01月22日 02时50分03秒 - auto-starting feh --bg-fill feh/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+2022年01月22日 02时50分03秒 - executing: feh --bg-fill feh/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+2022年01月22日 02时50分03秒 - auto-starting picom -b
+2022年01月22日 02时50分03秒 - executing: picom -b
+2022年01月22日 02时50分03秒 - auto-starting $HOME/.config/i3/bin/i3bar
+2022年01月22日 02时50分03秒 - executing: $HOME/.config/i3/bin/i3bar
+[ 2022年01月22日 02:50:03.885 parse_config_libconfig WARN ] Invalid blur method dual_kawase, ignoring.
+WARNING: Setting geometry in section global doesn't exist
+WARNING: Setting notification_height in section global doesn't exist
+WARNING: Setting startup_notification in section global doesn't exist
+WARNING: Setting verbosity in section global doesn't exist
+WARNING: Section shortcuts is deprecated.
+Acting on notifications has been moved to its own utility. For more information, see the manual for dunstctl.
+Ignoring this section.
+I2022-01-22 02:50:03.892449 instance.cpp:1404] Override Enabled Addons: {}
+I2022-01-22 02:50:03.892512 instance.cpp:1405] Override Disabled Addons: {}
+I2022-01-22 02:50:03.901770 addonmanager.cpp:191] Loaded addon wayland
+I2022-01-22 02:50:03.903276 addonmanager.cpp:191] Loaded addon imselector
+I2022-01-22 02:50:03.906814 addonmanager.cpp:191] Loaded addon xcb
+I2022-01-22 02:50:03.910684 addonmanager.cpp:191] Loaded addon quickphrase
+I2022-01-22 02:50:03.912074 addonmanager.cpp:191] Loaded addon waylandim
+I2022-01-22 02:50:03.921161 addonmanager.cpp:191] Loaded addon keyboard
+I2022-01-22 02:50:03.923437 addonmanager.cpp:191] Loaded addon clipboard
+polybar|notice:  Parsing config file: /home/alex/.config/i3/polybar/config
+I2022-01-22 02:50:03.924720 addonmanager.cpp:191] Loaded addon unicode
+I2022-01-22 02:50:03.927226 addonmanager.cpp:191] Loaded addon dbus
+I2022-01-22 02:50:03.928615 addonmanager.cpp:191] Loaded addon dbusfrontend
+I2022-01-22 02:50:03.935304 addonmanager.cpp:191] Loaded addon fcitx4frontend
+polybar|warn:  The config parameter 'settings.throttle-input-for' is deprecated, it will be removed in the future. Please remove it from your config
+I2022-01-22 02:50:03.952321 addonmanager.cpp:191] Loaded addon ibusfrontend
+I2022-01-22 02:50:03.955089 addonmanager.cpp:191] Loaded addon xim
+polybar|error: module/mpd: Connection refused
+I2022-01-22 02:50:04.003768 inputmethodmanager.cpp:198] Found 704 input method(s) in addon keyboard
+I2022-01-22 02:50:04.020054 addonmanager.cpp:191] Loaded addon kimpanel
+I2022-01-22 02:50:04.055953 addonmanager.cpp:191] Loaded addon classicui
+I2022-01-22 02:50:04.057289 addonmanager.cpp:191] Loaded addon notificationitem
+I2022-01-22 02:50:04.059337 addonmanager.cpp:191] Loaded addon notifications
+I2022-01-22 02:50:04.151513 addonmanager.cpp:191] Loaded addon rime
+I2022-01-22 02:50:04.152434 kimpanel.cpp:117] Kimpanel new owner
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时50分04秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=13" (name=LiterationMono Nerd Font, offset=3, file=/usr/share/fonts/TTF/Literation Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=12" (name=LiterationMono Nerd Font, offset=3, file=/usr/share/fonts/TTF/Literation Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "NotoColorEmoji:pixelsize=8;1:fontformat=truetype:scale=10:antialias=true" (name=Noto Color Emoji, offset=3, file=/usr/share/fonts/noto/NotoColorEmoji.ttf)
+polybar|notice:  Loaded font "Weather Icons:style=Regular:size=10" (name=Weather Icons, offset=3, file=/usr/share/fonts/TTF/weathericons-regular-webfont.ttf)
+polybar|notice:  Loaded font "NotoSansCJK:size=12" (name=Noto Sans CJK SC, offset=2, file=/usr/share/fonts/noto-cjk/NotoSansCJK-Regular.ttc)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+2022年01月22日 02时50分04秒 - WM_CLASS changed to polybar (instance), Polybar (class)
+2022年01月22日 02时50分04秒 - WM_NAME changed to "i3"
+2022年01月22日 02时50分04秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月22日 02时50分04秒 - This window is of type dock
+2022年01月22日 02时50分04秒 - Checking window 0x01400001 (class Polybar)
+2022年01月22日 02时50分04秒 - dock status matches
+2022年01月22日 02时50分04秒 - Checking window 0x01400001 (class Polybar)
+2022年01月22日 02时50分04秒 - Regular expression ".*" matches "Polybar"
+2022年01月22日 02时50分04秒 - window class matches (Polybar)
+2022年01月22日 02时50分04秒 - dock status does not match
+2022年01月22日 02时50分04秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分04秒 - workspace visible? fs = 0x561545a1b3a0, ws = 0x561545a1b3a0
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时50分05秒 - ClientMessage for window 0x00000336
+2022年01月22日 02时50分05秒 - startup id = i3/rofi/730-0-alexarch_TIME43565
+2022年01月22日 02时50分05秒 - executing: rofi -show drun
+2022年01月22日 02时50分05秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+
+(process:834): XrmOptions-WARNING **: 02:50:06.040: Option: width is not found.
+
+(process:834): XrmOptions-WARNING **: 02:50:06.040: Option: lines is not found.
+
+(process:834): XrmOptions-WARNING **: 02:50:06.040: Option: columns is not found.
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+[925:0122/025008.079863:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+2022年01月22日 02时50分08秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: Failed to setup tray client removing... (XCB_WINDOW (3))
+[747:0122/025008.254758:ERROR:browser_main_loop.cc(269)] Gdk: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+2022年01月22日 02时50分08秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年01月22日 02时50分08秒 - WM_NAME changed to "Clash for Windows"
+2022年01月22日 02时50分08秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月22日 02时50分08秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年01月22日 02时50分08秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月22日 02时50分08秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月22日 02时50分08秒 - Checking window 0x01600003 (class Clash for Windows)
+2022年01月22日 02时50分08秒 - dock status does not match
+2022年01月22日 02时50分08秒 - Checking window 0x01600003 (class Clash for Windows)
+2022年01月22日 02时50分08秒 - dock status does not match
+2022年01月22日 02时50分08秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分08秒 - Checking window 0x01600003 (class Clash for Windows)
+2022年01月22日 02时50分08秒 - Regular expression ".*" matches "Clash for Windows"
+2022年01月22日 02时50分08秒 - window class matches (Clash for Windows)
+2022年01月22日 02时50分08秒 - dock status matches
+2022年01月22日 02时50分08秒 - Checking window 0x01400001 (class Polybar)
+2022年01月22日 02时50分08秒 - window id does not match
+2022年01月22日 02时50分08秒 - Checking window 0x01600003 (class Clash for Windows)
+2022年01月22日 02时50分08秒 - match made by window id (23068675)
+2022年01月22日 02时50分08秒 - dock status matches
+2022年01月22日 02时50分08秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分08秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分08秒 - workspace visible? fs = 0x561545a1b3a0, ws = 0x561545a1b3a0
+2022年01月22日 02时50分08秒 - ClientMessage for window 0x01600003
+2022年01月22日 02时50分08秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分08秒 - ClientMessage for window 0x01600003
+2022年01月22日 02时50分08秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时50分11秒 - Sending WM_DELETE to the client
+2022年01月22日 02时50分11秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时50分11秒 - expose event for unknown window, ignoring
+2022年01月22日 02时50分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时50分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时50分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时50分11秒 - executing: terminator
+2022年01月22日 02时50分12秒 - ClientMessage for window 0x00a00007
+2022年01月22日 02时50分12秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年01月22日 02时50分12秒 - WM_NAME changed to "None"
+2022年01月22日 02时50分12秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月22日 02时50分12秒 - _NET_WM_NAME changed to "None"
+2022年01月22日 02时50分12秒 - WM_HINTS.input changed to "1"
+2022年01月22日 02时50分12秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - dock status does not match
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - dock status does not match
+2022年01月22日 02时50分12秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - Regular expression ".*" matches "Terminator"
+2022年01月22日 02时50分12秒 - window class matches (Terminator)
+2022年01月22日 02时50分12秒 - dock status matches
+2022年01月22日 02时50分12秒 - Checking window 0x01400001 (class Polybar)
+2022年01月22日 02时50分12秒 - window id does not match
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - match made by window id (10485767)
+2022年01月22日 02时50分12秒 - dock status matches
+2022年01月22日 02时50分12秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分12秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分12秒 - workspace visible? fs = 0x561545a1b3a0, ws = 0x561545a1b3a0
+2022年01月22日 02时50分12秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - dock status does not match
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - dock status does not match
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - Regular expression ".*" matches "Terminator"
+2022年01月22日 02时50分12秒 - window class matches (Terminator)
+2022年01月22日 02时50分12秒 - dock status matches
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - dock status does not match
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - dock status does not match
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - Regular expression ".*" matches "Terminator"
+2022年01月22日 02时50分12秒 - window class matches (Terminator)
+2022年01月22日 02时50分12秒 - dock status matches
+2022年01月22日 02时50分12秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - dock status does not match
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - dock status does not match
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - Regular expression ".*" matches "Terminator"
+2022年01月22日 02时50分12秒 - window class matches (Terminator)
+2022年01月22日 02时50分12秒 - dock status matches
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - dock status does not match
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - dock status does not match
+2022年01月22日 02时50分12秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月22日 02时50分12秒 - Regular expression ".*" matches "Terminator"
+2022年01月22日 02时50分12秒 - window class matches (Terminator)
+2022年01月22日 02时50分12秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时50分13秒 - Sending WM_DELETE to the client
+2022年01月22日 02时50分13秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分13秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时50分13秒 - expose event for unknown window, ignoring
+2022年01月22日 02时50分13秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时50分13秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时50分13秒 - Not a managed window, ignoring UnmapNotify event
+<window.Window object at 0x7fc2a2b55d00 (terminatorlib+window+Window at 0x5580bc596260)> is not in registered window list
+2022年01月22日 02时50分14秒 - startup id = i3/rofi/730-1-alexarch_TIME52074
+2022年01月22日 02时50分14秒 - executing: rofi -show drun
+2022年01月22日 02时50分14秒 - Not a managed window, ignoring UnmapNotify event
+
+(process:1162): XrmOptions-WARNING **: 02:50:14.529: Option: width is not found.
+
+(process:1162): XrmOptions-WARNING **: 02:50:14.529: Option: lines is not found.
+
+(process:1162): XrmOptions-WARNING **: 02:50:14.529: Option: columns is not found.
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(process:1162): GLib-CRITICAL **: 02:50:18.272: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+2022年01月22日 02时50分18秒 - ClientMessage for window 0x00a00006
+2022年01月22日 02时50分18秒 - ClientMessage for window 0x00a00006
+2022年01月22日 02时50分18秒 - WM_CLASS changed to texstudio (instance), TeXstudio (class)
+2022年01月22日 02时50分18秒 - _NET_WM_NAME changed to "TeXstudio"
+2022年01月22日 02时50分18秒 - WM_HINTS.input changed to "1"
+2022年01月22日 02时50分18秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月22日 02时50分18秒 - Checking window 0x00a00006 (class TeXstudio)
+2022年01月22日 02时50分18秒 - dock status does not match
+2022年01月22日 02时50分18秒 - Checking window 0x00a00006 (class TeXstudio)
+2022年01月22日 02时50分18秒 - dock status does not match
+2022年01月22日 02时50分18秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分18秒 - This window is a dialog window, setting floating
+2022年01月22日 02时50分18秒 - This window is transient for another window, setting floating
+2022年01月22日 02时50分18秒 - Checking window 0x00a00006 (class TeXstudio)
+2022年01月22日 02时50分18秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时50分18秒 - window class matches (TeXstudio)
+2022年01月22日 02时50分18秒 - dock status matches
+2022年01月22日 02时50分18秒 - Checking window 0x01400001 (class Polybar)
+2022年01月22日 02时50分18秒 - window id does not match
+2022年01月22日 02时50分18秒 - Checking window 0x00a00006 (class TeXstudio)
+2022年01月22日 02时50分18秒 - match made by window id (10485766)
+2022年01月22日 02时50分18秒 - dock status matches
+2022年01月22日 02时50分18秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分18秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分18秒 - workspace visible? fs = 0x561545a1b3a0, ws = 0x561545a1b3a0
+2022年01月22日 02时50分18秒 - Checking window 0x00a00006 (class TeXstudio)
+2022年01月22日 02时50分18秒 - dock status does not match
+2022年01月22日 02时50分18秒 - Checking window 0x00a00006 (class TeXstudio)
+2022年01月22日 02时50分18秒 - dock status does not match
+2022年01月22日 02时50分18秒 - Checking window 0x00a00006 (class TeXstudio)
+2022年01月22日 02时50分18秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时50分18秒 - window class matches (TeXstudio)
+2022年01月22日 02时50分18秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时50分19秒 - ClientMessage for window 0x00a00102
+2022年01月22日 02时50分19秒 - ClientMessage for window 0x00a00102
+2022年01月22日 02时50分19秒 - WM_CLASS changed to texstudio (instance), TeXstudio (class)
+2022年01月22日 02时50分19秒 - WM_NAME changed to "TeXstudio"
+2022年01月22日 02时50分19秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月22日 02时50分19秒 - _NET_WM_NAME changed to "TeXstudio"
+2022年01月22日 02时50分19秒 - WM_HINTS.input changed to "1"
+2022年01月22日 02时50分19秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月22日 02时50分19秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分19秒 - dock status does not match
+2022年01月22日 02时50分19秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分19秒 - dock status does not match
+2022年01月22日 02时50分19秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分19秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分19秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时50分19秒 - window class matches (TeXstudio)
+2022年01月22日 02时50分19秒 - dock status matches
+2022年01月22日 02时50分19秒 - Checking window 0x01400001 (class Polybar)
+2022年01月22日 02时50分19秒 - window id does not match
+2022年01月22日 02时50分19秒 - Checking window 0x00a00006 (class TeXstudio)
+2022年01月22日 02时50分19秒 - window id does not match
+2022年01月22日 02时50分19秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分19秒 - match made by window id (10486018)
+2022年01月22日 02时50分19秒 - dock status matches
+2022年01月22日 02时50分19秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分19秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分19秒 - workspace visible? fs = 0x561545a1b3a0, ws = 0x561545a1b3a0
+2022年01月22日 02时50分20秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分20秒 - _NET_WM_NAME changed to "/home/alex/disk/WorkSpace/Experiments/信息论/report/main.tex - TeXstudio"
+2022年01月22日 02时50分20秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分20秒 - dock status does not match
+2022年01月22日 02时50分20秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分20秒 - dock status does not match
+2022年01月22日 02时50分20秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分20秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时50分20秒 - window class matches (TeXstudio)
+2022年01月22日 02时50分20秒 - dock status matches
+2022年01月22日 02时50分20秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分20秒 - dock status does not match
+2022年01月22日 02时50分20秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分20秒 - dock status does not match
+2022年01月22日 02时50分20秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分20秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时50分20秒 - window class matches (TeXstudio)
+2022年01月22日 02时50分20秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时50分21秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分21秒 - _NET_WM_NAME changed to "/home/alex/disk/WorkSpace/Experiments/信息论/report/frontpage.tex - TeXstudio"
+2022年01月22日 02时50分21秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分21秒 - dock status does not match
+2022年01月22日 02时50分21秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分21秒 - dock status does not match
+2022年01月22日 02时50分21秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分21秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时50分21秒 - window class matches (TeXstudio)
+2022年01月22日 02时50分21秒 - dock status matches
+2022年01月22日 02时50分21秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分21秒 - dock status does not match
+2022年01月22日 02时50分21秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分21秒 - dock status does not match
+2022年01月22日 02时50分21秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分21秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时50分21秒 - window class matches (TeXstudio)
+2022年01月22日 02时50分21秒 - dock status matches
+2022年01月22日 02时50分21秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分21秒 - _NET_WM_NAME changed to "/opt/texlive/2022/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def - TeXstudio"
+2022年01月22日 02时50分21秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分21秒 - dock status does not match
+2022年01月22日 02时50分21秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分21秒 - dock status does not match
+2022年01月22日 02时50分21秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分21秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时50分21秒 - window class matches (TeXstudio)
+2022年01月22日 02时50分21秒 - dock status matches
+2022年01月22日 02时50分21秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分21秒 - dock status does not match
+2022年01月22日 02时50分21秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分21秒 - dock status does not match
+2022年01月22日 02时50分21秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分21秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时50分21秒 - window class matches (TeXstudio)
+2022年01月22日 02时50分21秒 - dock status matches
+2022年01月22日 02时50分21秒 - ClientMessage for window 0x00a00006
+2022年01月22日 02时50分21秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时50分22秒 - expose event for unknown window, ignoring
+2022年01月22日 02时50分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时50分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时50分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时50分22秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时50分26秒 - _NET_WM_NAME changed to "/home/alex/disk/WorkSpace/Experiments/信息论/report/main.tex - TeXstudio"
+2022年01月22日 02时50分26秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分26秒 - dock status does not match
+2022年01月22日 02时50分26秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分26秒 - dock status does not match
+2022年01月22日 02时50分26秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分26秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时50分26秒 - window class matches (TeXstudio)
+2022年01月22日 02时50分26秒 - dock status matches
+2022年01月22日 02时50分26秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分26秒 - dock status does not match
+2022年01月22日 02时50分26秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分26秒 - dock status does not match
+2022年01月22日 02时50分26秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时50分26秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时50分26秒 - window class matches (TeXstudio)
+2022年01月22日 02时50分26秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时50分31秒 - ClientMessage for window 0x00a00102
+2022年01月22日 02时50分31秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时50分31秒 - ClientMessage for window 0x00a00102
+2022年01月22日 02时50分31秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时50分39秒 - ClientMessage for window 0x00a00145
+2022年01月22日 02时50分39秒 - ClientMessage for window 0x00a00145
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时50分48秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时50分50秒 - ClientMessage for window 0x00a0014d
+2022年01月22日 02时50分50秒 - ClientMessage for window 0x00a0014d
+2022年01月22日 02时50分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时50分50秒 - ClientMessage for window 0x00a00152
+2022年01月22日 02时50分50秒 - ClientMessage for window 0x00a00152
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时50分55秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时50分57秒 - ClientMessage for window 0x00a00157
+2022年01月22日 02时50分57秒 - ClientMessage for window 0x00a00157
+2022年01月22日 02时50分57秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时50分57秒 - ClientMessage for window 0x00a0015c
+2022年01月22日 02时50分57秒 - ClientMessage for window 0x00a0015c
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时51分02秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时51分03秒 - ClientMessage for window 0x00a00161
+2022年01月22日 02时51分03秒 - ClientMessage for window 0x00a00161
+2022年01月22日 02时51分03秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时51分03秒 - ClientMessage for window 0x00a00166
+2022年01月22日 02时51分03秒 - ClientMessage for window 0x00a00166
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时51分05秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时51分05秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时51分10秒 - ClientMessage for window 0x00a00183
+2022年01月22日 02时51分10秒 - ClientMessage for window 0x00a00183
+2022年01月22日 02时51分10秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时51分10秒 - ClientMessage for window 0x00a00188
+2022年01月22日 02时51分10秒 - ClientMessage for window 0x00a00188
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时51分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时51分11秒 - ClientMessage for window 0x00a0018d
+2022年01月22日 02时51分11秒 - ClientMessage for window 0x00a0018d
+2022年01月22日 02时51分11秒 - WM_CLASS changed to texstudio (instance), TeXstudio (class)
+2022年01月22日 02时51分11秒 - WM_NAME changed to "$(AIhVC(B TeXstudio"
+2022年01月22日 02时51分11秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月22日 02时51分11秒 - _NET_WM_NAME changed to "设置 TeXstudio"
+2022年01月22日 02时51分11秒 - WM_HINTS.input changed to "1"
+2022年01月22日 02时51分11秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月22日 02时51分11秒 - Checking window 0x00a0018d (class TeXstudio)
+2022年01月22日 02时51分11秒 - dock status does not match
+2022年01月22日 02时51分11秒 - Checking window 0x00a0018d (class TeXstudio)
+2022年01月22日 02时51分11秒 - dock status does not match
+2022年01月22日 02时51分11秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时51分11秒 - This window is a dialog window, setting floating
+2022年01月22日 02时51分11秒 - This window is transient for another window, setting floating
+2022年01月22日 02时51分11秒 - Checking window 0x00a0018d (class TeXstudio)
+2022年01月22日 02时51分11秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时51分11秒 - window class matches (TeXstudio)
+2022年01月22日 02时51分11秒 - dock status matches
+2022年01月22日 02时51分11秒 - Checking window 0x01400001 (class Polybar)
+2022年01月22日 02时51分11秒 - window id does not match
+2022年01月22日 02时51分11秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时51分11秒 - window id does not match
+2022年01月22日 02时51分11秒 - Checking window 0x00a0018d (class TeXstudio)
+2022年01月22日 02时51分11秒 - match made by window id (10486157)
+2022年01月22日 02时51分11秒 - dock status matches
+2022年01月22日 02时51分11秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时51分11秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时51分11秒 - workspace visible? fs = 0x561545a1b3a0, ws = 0x561545a1b3a0
+2022年01月22日 02时51分11秒 - Checking window 0x00a0018d (class TeXstudio)
+2022年01月22日 02时51分11秒 - dock status does not match
+2022年01月22日 02时51分11秒 - Checking window 0x00a0018d (class TeXstudio)
+2022年01月22日 02时51分11秒 - dock status does not match
+2022年01月22日 02时51分11秒 - Checking window 0x00a0018d (class TeXstudio)
+2022年01月22日 02时51分11秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时51分11秒 - window class matches (TeXstudio)
+2022年01月22日 02时51分11秒 - dock status matches
+2022年01月22日 02时51分12秒 - ClientMessage for window 0x00a0018d
+2022年01月22日 02时51分12秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时51分12秒 - ClientMessage for window 0x00a0018d
+2022年01月22日 02时51分12秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时51分14秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时51分16秒 - ClientMessage for window 0x00a00192
+2022年01月22日 02时51分16秒 - ClientMessage for window 0x00a00192
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时51分17秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时51分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时51分18秒 - expose event for unknown window, ignoring
+2022年01月22日 02时51分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时51分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时51分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时51分18秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时51分23秒 - ClientMessage for window 0x00a00102
+2022年01月22日 02时51分23秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时51分23秒 - ClientMessage for window 0x00a00102
+2022年01月22日 02时51分23秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时52分20秒 - ClientMessage for window 0x00a00102
+2022年01月22日 02时52分20秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时52分20秒 - ClientMessage for window 0x00a00102
+2022年01月22日 02时52分20秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时52分53秒 - _NET_WM_NAME changed to "/opt/texlive/2022/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def - TeXstudio"
+2022年01月22日 02时52分53秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时52分53秒 - dock status does not match
+2022年01月22日 02时52分53秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时52分53秒 - dock status does not match
+2022年01月22日 02时52分53秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时52分53秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时52分53秒 - window class matches (TeXstudio)
+2022年01月22日 02时52分53秒 - dock status matches
+2022年01月22日 02时52分53秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时52分53秒 - dock status does not match
+2022年01月22日 02时52分53秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时52分53秒 - dock status does not match
+2022年01月22日 02时52分53秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时52分53秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时52分53秒 - window class matches (TeXstudio)
+2022年01月22日 02时52分53秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时53分04秒 - _NET_WM_NAME changed to "/home/alex/disk/WorkSpace/Experiments/信息论/report/frontpage.tex - TeXstudio"
+2022年01月22日 02时53分04秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分04秒 - dock status does not match
+2022年01月22日 02时53分04秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分04秒 - dock status does not match
+2022年01月22日 02时53分04秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分04秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时53分04秒 - window class matches (TeXstudio)
+2022年01月22日 02时53分04秒 - dock status matches
+2022年01月22日 02时53分04秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分04秒 - dock status does not match
+2022年01月22日 02时53分04秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分04秒 - dock status does not match
+2022年01月22日 02时53分04秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分04秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时53分04秒 - window class matches (TeXstudio)
+2022年01月22日 02时53分04秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时53分09秒 - Sending WM_DELETE to the client
+2022年01月22日 02时53分10秒 - _NET_WM_NAME changed to "/opt/texlive/2022/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def - TeXstudio"
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - dock status does not match
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - dock status does not match
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时53分10秒 - window class matches (TeXstudio)
+2022年01月22日 02时53分10秒 - dock status matches
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - dock status does not match
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - dock status does not match
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时53分10秒 - window class matches (TeXstudio)
+2022年01月22日 02时53分10秒 - dock status matches
+2022年01月22日 02时53分10秒 - _NET_WM_NAME changed to "/home/alex/disk/WorkSpace/Experiments/信息论/report/main.tex - TeXstudio"
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - dock status does not match
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - dock status does not match
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时53分10秒 - window class matches (TeXstudio)
+2022年01月22日 02时53分10秒 - dock status matches
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - dock status does not match
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - dock status does not match
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时53分10秒 - window class matches (TeXstudio)
+2022年01月22日 02时53分10秒 - dock status matches
+2022年01月22日 02时53分10秒 - _NET_WM_NAME changed to "TeXstudio"
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - dock status does not match
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - dock status does not match
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时53分10秒 - window class matches (TeXstudio)
+2022年01月22日 02时53分10秒 - dock status matches
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - dock status does not match
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - dock status does not match
+2022年01月22日 02时53分10秒 - Checking window 0x00a00102 (class TeXstudio)
+2022年01月22日 02时53分10秒 - Regular expression ".*" matches "TeXstudio"
+2022年01月22日 02时53分10秒 - window class matches (TeXstudio)
+2022年01月22日 02时53分10秒 - dock status matches
+2022年01月22日 02时53分10秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+2022年01月22日 02时53分10秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时53分10秒 - expose event for unknown window, ignoring
+2022年01月22日 02时53分10秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时53分10秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月22日 02时53分10秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时53分12秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+polybar|error: module/mpd: Connection refused
+2022年01月22日 02时53分13秒 - executing: systemctl poweroff -i
+2022年01月22日 02时53分13秒 - workspace visible? fs = 0x561545a1ef50, ws = 0x561545a1ef50
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address (polkit-error-quark, 0)
+=========================
+Fcitx 5.0.13 -- Get Signal No.: 15
+Date: try "date -d @1642791193" if you are using GNU date ***
+ProcessID: polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+743
+fcitx5(+0xd158)[0x55f82a0d0158]
+/usr/lib/libc.so.6(+0x3cda0)[0x7f4d1e173da0]
+polybar|notice:  Termination signal received, shutting down...
+/usr/lib/libc.so.6(epoll_wait+0x5e)[0x7f4d1e23592e]
+=========================
+Fcitx 5.0.13 -- Get Signal No.: 1
+Date: try "date -d @1642791193" if you are using GNU date ***
+ProcessID: 743
+fcitx5(+0xd158)[0x55f82a0d0158]
+/usr/lib/libc.so.6(+0x3cda0)[0x7f4d1e173da0]
+/usr/lib/libc.so.6(_dl_addr+0xde)[0x7f4d1e26ed5e]
+/usr/lib/libc.so.6(backtrace_symbols_fd+0x229)[0x7f4d1e242979]
+fcitx5(+0xd16b)[0x55f82a0d016b]
+/usr/lib/libc.so.6(+0x3cda0)[0x7f4d1e173da0]
+/usr/lib/libc.so.6(epoll_wait+0x5e)[0x7f4d1e23592e]
+/usr/lib/libsystemd.so.0(sd_event_wait+0x172)[0x7f4d1e05ad02]
+/usr/lib/libsystemd.so.0(sd_event_run+0x1ac)[0x7f4d1e05c0bc]
+/usr/lib/libsystemd.so.0(sd_event_loop+0x60)[0x7f4d1e05c200]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx9EventLoop4execEv+0x16)[0x7f4d1e5b31d6]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4execEv+0x57)[0x7f4d1e66e847]
+fcitx5(+0xb7f8)[0x55f82a0ce7f8]
+/usr/lib/libc.so.6(__libc_start_main+0xd5)[0x7f4d1e15eb25]
+fcitx5(+0xc7fe)[0x55f82a0cf7fe]
+/usr/lib/libsystemd.so.0(sd_event_wait+0x172)[0x7f4d1e05ad02]
+/usr/lib/libsystemd.so.0(sd_event_run+0x1ac)[0x7f4d1e05c0bc]
+/usr/lib/libsystemd.so.0(sd_event_loop+0x60)[0x7f4d1e05c200]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx9EventLoop4execEv+0x16)[0x7f4d1e5b31d6]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4execEv+0x57)[0x7f4d1e66e847]
+fcitx5(+0xb7f8)[0x55f82a0ce7f8]
+/usr/lib/libc.so.6(__libc_start_main+0xd5)[0x7f4d1e15eb25]
+fcitx5(+0xc7fe)[0x55f82a0cf7fe]
+W2022-01-22 02:53:13.973195 xcbeventreader.cpp:39] XCB connection ":0" got error: 1
+I2022-01-22 02:53:13.982299 addonmanager.cpp:297] Unloading addon rime
+I2022-01-22 02:53:13.982612 addonmanager.cpp:297] Unloading addon notifications
+I2022-01-22 02:53:13.982661 addonmanager.cpp:297] Unloading addon notificationitem
+I2022-01-22 02:53:13.982715 addonmanager.cpp:297] Unloading addon classicui
+I2022-01-22 02:53:13.983602 addonmanager.cpp:297] Unloading addon kimpanel
+I2022-01-22 02:53:13.983641 addonmanager.cpp:297] Unloading addon xim
+I2022-01-22 02:53:13.983675 addonmanager.cpp:297] Unloading addon ibusfrontend
+I2022-01-22 02:53:13.998973 addonmanager.cpp:297] Unloading addon fcitx4frontend
+I2022-01-22 02:53:13.999054 addonmanager.cpp:297] Unloading addon dbusfrontend
+I2022-01-22 02:53:13.999099 addonmanager.cpp:297] Unloading addon dbus
+I2022-01-22 02:53:13.999163 addonmanager.cpp:297] Unloading addon unicode
+I2022-01-22 02:53:13.999198 addonmanager.cpp:297] Unloading addon clipboard
+I2022-01-22 02:53:13.999239 addonmanager.cpp:297] Unloading addon keyboard
+I2022-01-22 02:53:13.999419 addonmanager.cpp:297] Unloading addon waylandim
+I2022-01-22 02:53:13.999453 addonmanager.cpp:297] Unloading addon quickphrase
+I2022-01-22 02:53:13.999667 addonmanager.cpp:297] Unloading addon xcb
+I2022-01-22 02:53:13.999706 inputcontextmanager.cpp:318] All display connections are gone, exit now.
+I2022-01-22 02:53:13.999858 addonmanager.cpp:297] Unloading addon imselector
+I2022-01-22 02:53:13.999904 addonmanager.cpp:297] Unloading addon wayland

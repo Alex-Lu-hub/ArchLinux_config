@@ -1,0 +1,388 @@
+01/17/2022 05:38:09 PM - i3 4.20.1 (2021-11-03) starting
+01/17/2022 05:38:09 PM - Parsing configfile /home/alex/.config/i3/config
+01/17/2022 05:38:09 PM - Changing working directory to config file directory /home/alex/.config/i3
+01/17/2022 05:38:09 PM - deciding for version 4 due to this line: # i3 config file (v4)
+01/17/2022 05:38:09 PM - [libi3] ../i3-4.20.1/libi3/font.c Using Pango font monospace, size 8
+01/17/2022 05:38:09 PM - workspace visible? fs = 0x55783a4cd780, ws = 0x55783a4cd780
+01/17/2022 05:38:09 PM - focused now = 0x55783a4cd780 / 1
+01/17/2022 05:38:09 PM - workspace visible? fs = 0x55783a4cd780, ws = 0x55783a4cd780
+01/17/2022 05:38:09 PM - workspace visible? fs = 0x55783a4c9c50, ws = 0x55783a4c9c50
+01/17/2022 05:38:09 PM - This is not an in-place restart, checking if a wallpaper is set.
+01/17/2022 05:38:09 PM - A wallpaper is set, so no screenshot is necessary.
+01/17/2022 05:38:09 PM - auto-starting dex --autostart --environment i3
+01/17/2022 05:38:09 PM - executing: dex --autostart --environment i3
+01/17/2022 05:38:09 PM - auto-starting xss-lock --transfer-sleep-lock -- i3lock --nofork
+01/17/2022 05:38:09 PM - executing: xss-lock --transfer-sleep-lock -- i3lock --nofork
+01/17/2022 05:38:09 PM - auto-starting nm-applet
+01/17/2022 05:38:09 PM - executing: nm-applet
+01/17/2022 05:38:09 PM - Starting bar process: exec i3bar  --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.590"
+01/17/2022 05:38:09 PM - executing: exec i3bar  --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.590"
+/bin/sh: line 1: dex: command not found
+/bin/sh: line 1: xss-lock: command not found
+/bin/sh: line 1: nm-applet: command not found
+01/17/2022 05:38:09 PM - IPC: looking for config for bar ID "bar-0"
+01/17/2022 05:38:09 PM - workspace visible? fs = 0x55783a4cd780, ws = 0x55783a4cd780
+01/17/2022 05:38:09 PM - workspace visible? fs = 0x55783a4cd780, ws = 0x55783a4cd780
+01/17/2022 05:38:09 PM - WM_CLASS changed to bar-0 (instance), i3bar (class)
+01/17/2022 05:38:09 PM - WM_NAME changed to "i3bar for output eDP1"
+01/17/2022 05:38:09 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/17/2022 05:38:09 PM - This window is of type dock
+01/17/2022 05:38:09 PM - Checking window 0x00800006 (class i3bar)
+01/17/2022 05:38:09 PM - dock status does not match
+01/17/2022 05:38:09 PM - Checking window 0x00800006 (class i3bar)
+01/17/2022 05:38:09 PM - dock status matches
+01/17/2022 05:38:09 PM - workspace visible? fs = 0x55783a4cd780, ws = 0x55783a4cd780
+01/17/2022 05:38:09 PM - workspace visible? fs = 0x55783a4c9c50, ws = 0x55783a4c9c50
+01/17/2022 05:38:09 PM - ClientMessage for window 0x000001cd
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+01/17/2022 05:38:11 PM - Not a managed window, ignoring UnmapNotify event
+01/17/2022 05:38:11 PM - expose event for unknown window, ignoring
+01/17/2022 05:38:11 PM - Not a managed window, ignoring UnmapNotify event
+01/17/2022 05:38:11 PM - Not a managed window, ignoring UnmapNotify event
+01/17/2022 05:38:11 PM - Not a managed window, ignoring UnmapNotify event
+01/17/2022 05:38:11 PM - Not a managed window, ignoring UnmapNotify event
+01/17/2022 05:38:11 PM - WM_CLASS changed to bar-0 (instance), i3bar (class)
+01/17/2022 05:38:11 PM - WM_NAME changed to "i3bar for output eDP1"
+01/17/2022 05:38:11 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/17/2022 05:38:11 PM - This window is of type dock
+01/17/2022 05:38:11 PM - Checking window 0x00800014 (class i3bar)
+01/17/2022 05:38:11 PM - dock status does not match
+01/17/2022 05:38:11 PM - Checking window 0x00800014 (class i3bar)
+01/17/2022 05:38:11 PM - dock status matches
+01/17/2022 05:38:11 PM - workspace visible? fs = 0x55783a4cd780, ws = 0x55783a4cd780
+01/17/2022 05:38:11 PM - workspace visible? fs = 0x55783a4c9c50, ws = 0x55783a4c9c50
+01/17/2022 05:38:11 PM - workspace visible? fs = 0x55783a4cd780, ws = 0x55783a4cd780
+01/17/2022 05:38:11 PM - Not a managed window, ignoring UnmapNotify event
+01/17/2022 05:38:11 PM - expose event for unknown window, ignoring
+01/17/2022 05:38:11 PM - Not a managed window, ignoring UnmapNotify event
+01/17/2022 05:38:11 PM - Not a managed window, ignoring UnmapNotify event
+01/17/2022 05:38:11 PM - Not a managed window, ignoring UnmapNotify event
+01/17/2022 05:38:11 PM - Not a managed window, ignoring UnmapNotify event
+01/17/2022 05:38:11 PM - workspace visible? fs = 0x55783a4cd780, ws = 0x55783a4cd780
+01/17/2022 05:38:11 PM - WM_CLASS changed to bar-0 (instance), i3bar (class)
+01/17/2022 05:38:11 PM - WM_NAME changed to "i3bar for output eDP1"
+01/17/2022 05:38:11 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/17/2022 05:38:11 PM - This window is of type dock
+01/17/2022 05:38:11 PM - Checking window 0x0080001a (class i3bar)
+01/17/2022 05:38:11 PM - dock status does not match
+01/17/2022 05:38:11 PM - Checking window 0x0080001a (class i3bar)
+01/17/2022 05:38:11 PM - dock status matches
+01/17/2022 05:38:11 PM - workspace visible? fs = 0x55783a4cd780, ws = 0x55783a4cd780
+01/17/2022 05:38:11 PM - workspace visible? fs = 0x55783a4c9c50, ws = 0x55783a4c9c50
+01/17/2022 05:38:12 PM - executing: kitty
+01/17/2022 05:38:12 PM - WM_CLASS changed to kitty (instance), kitty (class)
+01/17/2022 05:38:12 PM - WM_NAME changed to "kitty"
+01/17/2022 05:38:12 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/17/2022 05:38:12 PM - _NET_WM_NAME changed to "kitty"
+01/17/2022 05:38:12 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - workspace visible? fs = 0x55783a4cd780, ws = 0x55783a4cd780
+01/17/2022 05:38:12 PM - workspace visible? fs = 0x55783a4cd780, ws = 0x55783a4cd780
+01/17/2022 05:38:12 PM - workspace visible? fs = 0x55783a4cd780, ws = 0x55783a4cd780
+01/17/2022 05:38:12 PM - workspace visible? fs = 0x55783a4c9c50, ws = 0x55783a4c9c50
+01/17/2022 05:38:12 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:12 PM - workspace visible? fs = 0x55783a4cd780, ws = 0x55783a4cd780
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - _NET_WM_NAME changed to "bash"
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - _NET_WM_NAME changed to "~"
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - _NET_WM_NAME changed to "~"
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:12 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:12 PM - dock status does not match
+01/17/2022 05:38:15 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:15 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:15 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:16 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:17 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:18 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:19 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:20 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:27 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:27 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:27 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:27 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:27 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:28 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:28 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:28 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:28 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:28 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:28 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:35 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - _NET_WM_NAME changed to "/home"
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - _NET_WM_NAME changed to "/home"
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - _NET_WM_NAME changed to "/home"
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - _NET_WM_NAME changed to "/home"
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - _NET_WM_NAME changed to "/home"
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - _NET_WM_NAME changed to "/home"
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:36 PM - dock status does not match
+01/17/2022 05:38:38 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:39 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - _NET_WM_NAME changed to "~"
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - _NET_WM_NAME changed to "~"
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - _NET_WM_NAME changed to "~"
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - _NET_WM_NAME changed to "~"
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - _NET_WM_NAME changed to "~"
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - _NET_WM_NAME changed to "~"
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:38:40 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:38:40 PM - dock status does not match
+01/17/2022 05:39:03 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:39:03 PM - dock status does not match
+01/17/2022 05:39:03 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:39:03 PM - dock status does not match
+01/17/2022 05:39:03 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:39:03 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:39:03 PM - dock status does not match
+01/17/2022 05:39:03 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:39:03 PM - dock status does not match
+01/17/2022 05:39:03 PM - _NET_WM_NAME changed to "sudo vim ~/.xinitrc "
+01/17/2022 05:39:03 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:39:03 PM - dock status does not match
+01/17/2022 05:39:03 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:39:03 PM - dock status does not match
+[017 17:39:06.078505] [PARSE ERROR] The application is trying to use XTerm's modifyOtherKeys. This is superseded by the kitty keyboard protocol: https://sw.kovidgoyal.net/kitty/keyboard-protocol/ the application should be updated to use that
+[017 17:39:06.086562] [PARSE ERROR] Unrecognized DCS code: 0x7a
+[017 17:39:06.086586] [PARSE ERROR] Unknown CSI code: 'm' with start_modifier: ' ' and end_modifier: '%' and parameters: '0'
+01/17/2022 05:39:26 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:40:21 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:40:24 PM - ClientMessage for window 0x00a0000f
+01/17/2022 05:40:27 PM - ClientMessage for window 0x00a0000f
+[017 17:40:34.736430] [PARSE ERROR] The application is trying to use XTerm's modifyOtherKeys. This is superseded by the kitty keyboard protocol: https://sw.kovidgoyal.net/kitty/keyboard-protocol/ the application should be updated to use that
+[017 17:40:34.739799] [PARSE ERROR] The application is trying to use XTerm's modifyOtherKeys. This is superseded by the kitty keyboard protocol: https://sw.kovidgoyal.net/kitty/keyboard-protocol/ the application should be updated to use that
+01/17/2022 05:40:34 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:34 PM - dock status does not match
+01/17/2022 05:40:34 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:34 PM - dock status does not match
+01/17/2022 05:40:34 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:40:34 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:34 PM - dock status does not match
+01/17/2022 05:40:34 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:34 PM - dock status does not match
+01/17/2022 05:40:34 PM - _NET_WM_NAME changed to "~"
+01/17/2022 05:40:34 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:34 PM - dock status does not match
+01/17/2022 05:40:34 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:34 PM - dock status does not match
+01/17/2022 05:40:34 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:34 PM - dock status does not match
+01/17/2022 05:40:34 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:34 PM - dock status does not match
+01/17/2022 05:40:34 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:40:34 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:34 PM - dock status does not match
+01/17/2022 05:40:34 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:34 PM - dock status does not match
+01/17/2022 05:40:34 PM - _NET_WM_NAME changed to "~"
+01/17/2022 05:40:34 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:34 PM - dock status does not match
+01/17/2022 05:40:34 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:34 PM - dock status does not match
+01/17/2022 05:40:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:36 PM - dock status does not match
+01/17/2022 05:40:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:36 PM - dock status does not match
+01/17/2022 05:40:36 PM - WM_CLIENT_MACHINE changed to "alexarch"
+01/17/2022 05:40:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:36 PM - dock status does not match
+01/17/2022 05:40:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:36 PM - dock status does not match
+01/17/2022 05:40:36 PM - _NET_WM_NAME changed to "sudo reboot"
+01/17/2022 05:40:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:36 PM - dock status does not match
+01/17/2022 05:40:36 PM - Checking window 0x00a0000f (class kitty)
+01/17/2022 05:40:36 PM - dock status does not match
+i3status: exiting due to signal.
+[libi3] ../i3-4.20.1/i3bar/src/main.c i3bar version 4.20.1 (2021-11-03)
+[libi3] ../i3-4.20.1/libi3/font.c Using Pango font monospace, size 8

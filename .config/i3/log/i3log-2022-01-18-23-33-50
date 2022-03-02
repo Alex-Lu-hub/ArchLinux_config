@@ -1,0 +1,547 @@
+2022年01月18日 23时33分50秒 - i3 4.20.1 (2021-11-03) starting
+2022年01月18日 23时33分50秒 - Parsing configfile /home/alex/.config/i3/config
+2022年01月18日 23时33分50秒 - Changing working directory to config file directory /home/alex/.config/i3
+2022年01月18日 23时33分50秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2022年01月18日 23时33分50秒 - [libi3] ../i3-4.20.1/libi3/font.c Using Pango font monospace, size 8
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分50秒 - focused now = 0x563ea326b750 / 1
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea3267ba0, ws = 0x563ea3267ba0
+2022年01月18日 23时33分50秒 - This is not an in-place restart, checking if a wallpaper is set.
+2022年01月18日 23时33分50秒 - A wallpaper is set, so no screenshot is necessary.
+2022年01月18日 23时33分50秒 - auto-starting dex --autostart --environment i3
+2022年01月18日 23时33分50秒 - executing: dex --autostart --environment i3
+2022年01月18日 23时33分50秒 - auto-starting xss-lock --transfer-sleep-lock -- i3lock --nofork
+2022年01月18日 23时33分50秒 - executing: xss-lock --transfer-sleep-lock -- i3lock --nofork
+2022年01月18日 23时33分50秒 - auto-starting nm-applet
+2022年01月18日 23时33分50秒 - executing: nm-applet
+2022年01月18日 23时33分50秒 - auto-starting $HOME/.config/i3/bin/i3bar
+2022年01月18日 23时33分50秒 - executing: $HOME/.config/i3/bin/i3bar
+2022年01月18日 23时33分50秒 - Starting bar process: exec i3bar  --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.625"
+2022年01月18日 23时33分50秒 - executing: exec i3bar  --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.625"
+/bin/sh:行1: xss-lock：未找到命令
+/bin/sh:行1: dex：未找到命令
+/bin/sh:行1: nm-applet：未找到命令
+2022年01月18日 23时33分50秒 - IPC: looking for config for bar ID "bar-0"
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分50秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 23时33分50秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 23时33分50秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时33分50秒 - This window is of type dock
+2022年01月18日 23时33分50秒 - Checking window 0x00800006 (class i3bar)
+2022年01月18日 23时33分50秒 - dock status does not match
+2022年01月18日 23时33分50秒 - Checking window 0x00800006 (class i3bar)
+2022年01月18日 23时33分50秒 - dock status matches
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea3267ba0, ws = 0x563ea3267ba0
+2022年01月18日 23时33分50秒 - ClientMessage for window 0x000001cd
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+polybar|notice:  Parsing config file: /home/alex/.config/i3/polybar/config
+2022年01月18日 23时33分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时33分50秒 - expose event for unknown window, ignoring
+2022年01月18日 23时33分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时33分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时33分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时33分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时33分50秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 23时33分50秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 23时33分50秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时33分50秒 - This window is of type dock
+2022年01月18日 23时33分50秒 - Checking window 0x00800015 (class i3bar)
+2022年01月18日 23时33分50秒 - dock status does not match
+2022年01月18日 23时33分50秒 - Checking window 0x00800015 (class i3bar)
+2022年01月18日 23时33分50秒 - dock status matches
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea3267ba0, ws = 0x563ea3267ba0
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时33分50秒 - expose event for unknown window, ignoring
+2022年01月18日 23时33分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时33分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时33分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时33分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时33分50秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 23时33分50秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 23时33分50秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时33分50秒 - This window is of type dock
+2022年01月18日 23时33分50秒 - Checking window 0x0080001b (class i3bar)
+2022年01月18日 23时33分50秒 - dock status does not match
+2022年01月18日 23时33分50秒 - Checking window 0x0080001b (class i3bar)
+2022年01月18日 23时33分50秒 - dock status matches
+polybar|warn:  The config parameter 'settings.throttle-input-for' is deprecated, it will be removed in the future. Please remove it from your config
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea3267ba0, ws = 0x563ea3267ba0
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+polybar|error: Disabling module "network" (reason: Invalid network interface "wlan0")
+polybar|error: module/mpd: Connection refused
+polybar|error: Disabling module "volume" (reason: Could not connect pulseaudio context.)
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|error: module/mpd: Connection refused
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=13" (name=文泉驿微米黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-microhei/wqy-microhei.ttc)
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=12" (name=文泉驿微米黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-microhei/wqy-microhei.ttc)
+polybar|notice:  Loaded font "NotoColorEmoji:pixelsize=8;1:fontformat=truetype:scale=10:antialias=true" (name=文泉驿微米黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-microhei/wqy-microhei.ttc)
+polybar|notice:  Loaded font "Weather Icons:style=Regular:size=10" (name=文泉驿微米黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-microhei/wqy-microhei.ttc)
+polybar|notice:  Loaded font "NotoSansCJK:size=12" (name=文泉驿微米黑, offset=2, file=/usr/share/fonts/wenquanyi/wqy-microhei/wqy-microhei.ttc)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分50秒 - WM_CLASS changed to polybar (instance), Polybar (class)
+2022年01月18日 23时33分50秒 - WM_NAME changed to "i3"
+2022年01月18日 23时33分50秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时33分50秒 - This window is of type dock
+2022年01月18日 23时33分50秒 - Checking window 0x00a00001 (class Polybar)
+polybar|warn:  Systray selection already managed (window=0x080000c)
+2022年01月18日 23时33分50秒 - dock status matches
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分50秒 - workspace visible? fs = 0x563ea3267ba0, ws = 0x563ea3267ba0
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+2022年01月18日 23时33分52秒 - executing: rofi -show drun
+
+(process:686): XrmOptions-WARNING **: 23:33:52.202: Option: width is not found.
+
+(process:686): XrmOptions-WARNING **: 23:33:52.202: Option: lines is not found.
+
+(process:686): XrmOptions-WARNING **: 23:33:52.202: Option: columns is not found.
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+Gtk-Message: 23:33:53.963: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:33:53.963: Failed to load module "window-decorations-gtk-module"
+[778:0118/233354.111367:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时33分54秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年01月18日 23时33分54秒 - WM_NAME changed to "Clash for Windows"
+2022年01月18日 23时33分54秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时33分54秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年01月18日 23时33分54秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月18日 23时33分54秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 23时33分54秒 - Checking window 0x00c00002 (class Clash for Windows)
+2022年01月18日 23时33分54秒 - dock status does not match
+2022年01月18日 23时33分54秒 - Checking window 0x00c00002 (class Clash for Windows)
+2022年01月18日 23时33分54秒 - dock status does not match
+2022年01月18日 23时33分54秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分54秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分54秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分54秒 - workspace visible? fs = 0x563ea3267ba0, ws = 0x563ea3267ba0
+2022年01月18日 23时33分54秒 - ClientMessage for window 0x00c00002
+2022年01月18日 23时33分54秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分54秒 - ClientMessage for window 0x00c00002
+2022年01月18日 23时33分54秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时33分59秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时33分59秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时33分59秒 - expose event for unknown window, ignoring
+2022年01月18日 23时33分59秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时33分59秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时33分59秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时34分01秒 - ClientMessage for window 0x00e00016
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时34分02秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时34分03秒 - executing: rofi -show drun
+
+(process:882): XrmOptions-WARNING **: 23:34:03.796: Option: width is not found.
+
+(process:882): XrmOptions-WARNING **: 23:34:03.796: Option: lines is not found.
+
+(process:882): XrmOptions-WARNING **: 23:34:03.796: Option: columns is not found.
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时34分07秒 - executing: rofi -show drun
+
+(process:909): XrmOptions-WARNING **: 23:34:07.866: Option: width is not found.
+
+(process:909): XrmOptions-WARNING **: 23:34:07.866: Option: lines is not found.
+
+(process:909): XrmOptions-WARNING **: 23:34:07.866: Option: columns is not found.
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+2022年01月18日 23时34分10秒 - executing: terminator
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+Gtk-Message: 23:34:10.711: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:34:10.711: Failed to load module "window-decorations-gtk-module"
+2022年01月18日 23时34分10秒 - ClientMessage for window 0x00c00007
+2022年01月18日 23时34分10秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年01月18日 23时34分10秒 - WM_NAME changed to "None"
+2022年01月18日 23时34分10秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时34分10秒 - _NET_WM_NAME changed to "None"
+2022年01月18日 23时34分10秒 - WM_HINTS.input changed to "1"
+2022年01月18日 23时34分10秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 23时34分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分10秒 - dock status does not match
+2022年01月18日 23时34分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分10秒 - dock status does not match
+2022年01月18日 23时34分10秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时34分10秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时34分10秒 - workspace visible? fs = 0x563ea326b750, ws = 0x563ea326b750
+2022年01月18日 23时34分10秒 - workspace visible? fs = 0x563ea3267ba0, ws = 0x563ea3267ba0
+2022年01月18日 23时34分10秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年01月18日 23时34分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分10秒 - dock status does not match
+2022年01月18日 23时34分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分10秒 - dock status does not match
+2022年01月18日 23时34分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分10秒 - dock status does not match
+2022年01月18日 23时34分10秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分10秒 - dock status does not match
+2022年01月18日 23时34分11秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 23时34分11秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分11秒 - dock status does not match
+2022年01月18日 23时34分11秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分11秒 - dock status does not match
+2022年01月18日 23时34分11秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分11秒 - dock status does not match
+2022年01月18日 23时34分11秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分11秒 - dock status does not match
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时34分17秒 - _NET_WM_NAME changed to "vim ~/.config/i3/config"
+2022年01月18日 23时34分17秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分17秒 - dock status does not match
+2022年01月18日 23时34分17秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分17秒 - dock status does not match
+2022年01月18日 23时34分17秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分17秒 - dock status does not match
+2022年01月18日 23时34分17秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分17秒 - dock status does not match
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+2022年01月18日 23时34分26秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 23时34分26秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分26秒 - dock status does not match
+2022年01月18日 23时34分26秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分26秒 - dock status does not match
+2022年01月18日 23时34分26秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分26秒 - dock status does not match
+2022年01月18日 23时34分26秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分26秒 - dock status does not match
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+2022年01月18日 23时34分30秒 - _NET_WM_NAME changed to "alex@alexarch:~/.config"
+2022年01月18日 23时34分30秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分30秒 - dock status does not match
+2022年01月18日 23时34分30秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分30秒 - dock status does not match
+2022年01月18日 23时34分30秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分30秒 - dock status does not match
+2022年01月18日 23时34分30秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分30秒 - dock status does not match
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时34分31秒 - _NET_WM_NAME changed to "alex@alexarch:~/.config/i3"
+2022年01月18日 23时34分31秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分31秒 - dock status does not match
+2022年01月18日 23时34分31秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分31秒 - dock status does not match
+2022年01月18日 23时34分31秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分31秒 - dock status does not match
+2022年01月18日 23时34分31秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分31秒 - dock status does not match
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时34分47秒 - _NET_WM_NAME changed to "alex@alexarch:~/.config"
+2022年01月18日 23时34分47秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分47秒 - dock status does not match
+2022年01月18日 23时34分47秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分47秒 - dock status does not match
+2022年01月18日 23时34分47秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分47秒 - dock status does not match
+2022年01月18日 23时34分47秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分47秒 - dock status does not match
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+2022年01月18日 23时34分48秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 23时34分48秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分48秒 - dock status does not match
+2022年01月18日 23时34分48秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分48秒 - dock status does not match
+2022年01月18日 23时34分48秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分48秒 - dock status does not match
+2022年01月18日 23时34分48秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分48秒 - dock status does not match
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+2022年01月18日 23时34分52秒 - _NET_WM_NAME changed to "sudo reboot"
+2022年01月18日 23时34分52秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分52秒 - dock status does not match
+2022年01月18日 23时34分52秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分52秒 - dock status does not match
+2022年01月18日 23时34分52秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分52秒 - dock status does not match
+2022年01月18日 23时34分52秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时34分52秒 - dock status does not match
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+i3status: exiting due to signal.
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+[libi3] ../i3-4.20.1/i3bar/src/main.c i3bar version 4.20.1 (2021-11-03)
+[libi3] ../i3-4.20.1/libi3/font.c Using Pango font monospace, size 8

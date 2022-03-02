@@ -1,0 +1,156 @@
+2022年01月18日 23时35分49秒 - i3 4.20.1 (2021-11-03) starting
+2022年01月18日 23时35分49秒 - Parsing configfile /home/alex/.config/i3/config
+2022年01月18日 23时35分49秒 - Changing working directory to config file directory /home/alex/.config/i3
+2022年01月18日 23时35分49秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2022年01月18日 23时35分49秒 - [libi3] ../i3-4.20.1/libi3/font.c Using Pango font monospace, size 8
+2022年01月18日 23时35分49秒 - workspace visible? fs = 0x55b78d3985f0, ws = 0x55b78d3985f0
+2022年01月18日 23时35分49秒 - focused now = 0x55b78d3985f0 / 1
+2022年01月18日 23时35分49秒 - workspace visible? fs = 0x55b78d3985f0, ws = 0x55b78d3985f0
+2022年01月18日 23时35分49秒 - workspace visible? fs = 0x55b78d394ac0, ws = 0x55b78d394ac0
+2022年01月18日 23时35分49秒 - This is not an in-place restart, checking if a wallpaper is set.
+2022年01月18日 23时35分49秒 - A wallpaper is set, so no screenshot is necessary.
+2022年01月18日 23时35分49秒 - auto-starting dex --autostart --environment i3
+2022年01月18日 23时35分49秒 - executing: dex --autostart --environment i3
+2022年01月18日 23时35分49秒 - auto-starting xss-lock --transfer-sleep-lock -- i3lock --nofork
+2022年01月18日 23时35分49秒 - executing: xss-lock --transfer-sleep-lock -- i3lock --nofork
+2022年01月18日 23时35分49秒 - auto-starting nm-applet
+2022年01月18日 23时35分49秒 - executing: nm-applet
+2022年01月18日 23时35分49秒 - Starting bar process: exec i3bar  --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.647"
+2022年01月18日 23时35分49秒 - executing: exec i3bar  --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.647"
+/bin/sh:行1: dex：未找到命令
+/bin/sh:行1: xss-lock：未找到命令
+/bin/sh:行1: nm-applet：未找到命令
+2022年01月18日 23时35分49秒 - IPC: looking for config for bar ID "bar-0"
+2022年01月18日 23时35分49秒 - workspace visible? fs = 0x55b78d3985f0, ws = 0x55b78d3985f0
+2022年01月18日 23时35分49秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 23时35分49秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 23时35分49秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时35分49秒 - This window is of type dock
+2022年01月18日 23时35分49秒 - Checking window 0x00800006 (class i3bar)
+2022年01月18日 23时35分49秒 - dock status does not match
+2022年01月18日 23时35分49秒 - Checking window 0x00800006 (class i3bar)
+2022年01月18日 23时35分49秒 - dock status matches
+2022年01月18日 23时35分49秒 - workspace visible? fs = 0x55b78d3985f0, ws = 0x55b78d3985f0
+2022年01月18日 23时35分49秒 - workspace visible? fs = 0x55b78d394ac0, ws = 0x55b78d394ac0
+2022年01月18日 23时35分49秒 - ClientMessage for window 0x000001cd
+2022年01月18日 23时35分49秒 - workspace visible? fs = 0x55b78d3985f0, ws = 0x55b78d3985f0
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+2022年01月18日 23时35分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时35分51秒 - expose event for unknown window, ignoring
+2022年01月18日 23时35分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时35分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时35分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时35分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时35分51秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 23时35分51秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 23时35分51秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时35分51秒 - This window is of type dock
+2022年01月18日 23时35分51秒 - Checking window 0x00800015 (class i3bar)
+2022年01月18日 23时35分51秒 - dock status does not match
+2022年01月18日 23时35分51秒 - Checking window 0x00800015 (class i3bar)
+2022年01月18日 23时35分51秒 - dock status matches
+2022年01月18日 23时35分51秒 - workspace visible? fs = 0x55b78d3985f0, ws = 0x55b78d3985f0
+2022年01月18日 23时35分51秒 - workspace visible? fs = 0x55b78d394ac0, ws = 0x55b78d394ac0
+2022年01月18日 23时35分51秒 - workspace visible? fs = 0x55b78d3985f0, ws = 0x55b78d3985f0
+2022年01月18日 23时35分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时35分51秒 - expose event for unknown window, ignoring
+2022年01月18日 23时35分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时35分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时35分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时35分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时35分51秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 23时35分51秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 23时35分51秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时35分51秒 - This window is of type dock
+2022年01月18日 23时35分51秒 - Checking window 0x0080001b (class i3bar)
+2022年01月18日 23时35分51秒 - dock status does not match
+2022年01月18日 23时35分51秒 - Checking window 0x0080001b (class i3bar)
+2022年01月18日 23时35分51秒 - dock status matches
+2022年01月18日 23时35分51秒 - workspace visible? fs = 0x55b78d3985f0, ws = 0x55b78d3985f0
+2022年01月18日 23时35分51秒 - workspace visible? fs = 0x55b78d394ac0, ws = 0x55b78d394ac0
+2022年01月18日 23时35分51秒 - workspace visible? fs = 0x55b78d3985f0, ws = 0x55b78d3985f0
+2022年01月18日 23时36分30秒 - executing: rofi -show drun
+
+(process:681): XrmOptions-WARNING **: 23:36:30.973: Option: width is not found.
+
+(process:681): XrmOptions-WARNING **: 23:36:30.973: Option: lines is not found.
+
+(process:681): XrmOptions-WARNING **: 23:36:30.973: Option: columns is not found.
+
+(process:681): Helpers.IconFetcher-WARNING **: 23:36:35.964: Failed to load image: 打开文件“2to3-3.10”失败：没有那个文件或目录
+
+(process:681): Helpers.IconFetcher-WARNING **: 23:36:35.964: Failed to load image: 打开文件“aclocal-1.16”失败：没有那个文件或目录
+2022年01月18日 23时36分52秒 - executing: rofi -show drun
+
+(process:757): XrmOptions-WARNING **: 23:36:52.716: Option: width is not found.
+
+(process:757): XrmOptions-WARNING **: 23:36:52.716: Option: lines is not found.
+
+(process:757): XrmOptions-WARNING **: 23:36:52.716: Option: columns is not found.
+2022年01月18日 23时36分55秒 - executing: terminator
+Gtk-Message: 23:36:55.320: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:36:55.320: Failed to load module "window-decorations-gtk-module"
+2022年01月18日 23时36分55秒 - ClientMessage for window 0x00a00007
+2022年01月18日 23时36分55秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年01月18日 23时36分55秒 - WM_NAME changed to "None"
+2022年01月18日 23时36分55秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时36分55秒 - _NET_WM_NAME changed to "None"
+2022年01月18日 23时36分55秒 - WM_HINTS.input changed to "1"
+2022年01月18日 23时36分55秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 23时36分55秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时36分55秒 - dock status does not match
+2022年01月18日 23时36分55秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时36分55秒 - dock status does not match
+2022年01月18日 23时36分55秒 - workspace visible? fs = 0x55b78d3985f0, ws = 0x55b78d3985f0
+2022年01月18日 23时36分55秒 - workspace visible? fs = 0x55b78d3985f0, ws = 0x55b78d3985f0
+2022年01月18日 23时36分55秒 - workspace visible? fs = 0x55b78d3985f0, ws = 0x55b78d3985f0
+2022年01月18日 23时36分55秒 - workspace visible? fs = 0x55b78d394ac0, ws = 0x55b78d394ac0
+2022年01月18日 23时36分55秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年01月18日 23时36分55秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时36分55秒 - dock status does not match
+2022年01月18日 23时36分55秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时36分55秒 - dock status does not match
+2022年01月18日 23时36分55秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时36分55秒 - dock status does not match
+2022年01月18日 23时36分55秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时36分55秒 - dock status does not match
+2022年01月18日 23时36分55秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 23时36分55秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时36分55秒 - dock status does not match
+2022年01月18日 23时36分55秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时36分55秒 - dock status does not match
+2022年01月18日 23时36分55秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时36分55秒 - dock status does not match
+2022年01月18日 23时36分55秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时36分55秒 - dock status does not match
+2022年01月18日 23时37分03秒 - _NET_WM_NAME changed to "vim ~/.config/i3/config"
+2022年01月18日 23时37分03秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时37分03秒 - dock status does not match
+2022年01月18日 23时37分03秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时37分03秒 - dock status does not match
+2022年01月18日 23时37分03秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时37分03秒 - dock status does not match
+2022年01月18日 23时37分03秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时37分03秒 - dock status does not match
+2022年01月18日 23时37分27秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 23时37分27秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时37分27秒 - dock status does not match
+2022年01月18日 23时37分27秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时37分27秒 - dock status does not match
+2022年01月18日 23时37分27秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时37分27秒 - dock status does not match
+2022年01月18日 23时37分27秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时37分27秒 - dock status does not match
+2022年01月18日 23时37分29秒 - _NET_WM_NAME changed to "reboot"
+2022年01月18日 23时37分29秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时37分29秒 - dock status does not match
+2022年01月18日 23时37分29秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时37分29秒 - dock status does not match
+2022年01月18日 23时37分29秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时37分29秒 - dock status does not match
+2022年01月18日 23时37分29秒 - Checking window 0x00a00007 (class Terminator)
+2022年01月18日 23时37分29秒 - dock status does not match
+i3status: exiting due to signal.
+[libi3] ../i3-4.20.1/i3bar/src/main.c i3bar version 4.20.1 (2021-11-03)
+[libi3] ../i3-4.20.1/libi3/font.c Using Pango font monospace, size 8

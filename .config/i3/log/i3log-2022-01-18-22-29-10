@@ -1,0 +1,2227 @@
+2022年01月18日 22时29分10秒 - i3 4.20.1 (2021-11-03) starting
+2022年01月18日 22时29分10秒 - Parsing configfile /home/alex/.config/i3/config
+2022年01月18日 22时29分10秒 - Changing working directory to config file directory /home/alex/.config/i3
+2022年01月18日 22时29分10秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2022年01月18日 22时29分10秒 - [libi3] ../i3-4.20.1/libi3/font.c Using Pango font monospace, size 8
+2022年01月18日 22时29分10秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分10秒 - focused now = 0x5596f2a60910 / 1
+2022年01月18日 22时29分10秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分10秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时29分10秒 - This is not an in-place restart, checking if a wallpaper is set.
+2022年01月18日 22时29分10秒 - A wallpaper is set, so no screenshot is necessary.
+2022年01月18日 22时29分10秒 - auto-starting dex --autostart --environment i3
+2022年01月18日 22时29分10秒 - executing: dex --autostart --environment i3
+2022年01月18日 22时29分10秒 - auto-starting xss-lock --transfer-sleep-lock -- i3lock --nofork
+2022年01月18日 22时29分10秒 - executing: xss-lock --transfer-sleep-lock -- i3lock --nofork
+2022年01月18日 22时29分10秒 - auto-starting nm-applet
+2022年01月18日 22时29分10秒 - executing: nm-applet
+2022年01月18日 22时29分10秒 - Starting bar process: exec i3bar  --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.576"
+2022年01月18日 22时29分10秒 - executing: exec i3bar  --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.576"
+/bin/sh:行1: dex：未找到命令
+/bin/sh:行1: xss-lock：未找到命令
+/bin/sh:行1: nm-applet：未找到命令
+2022年01月18日 22时29分10秒 - IPC: looking for config for bar ID "bar-0"
+2022年01月18日 22时29分10秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分10秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 22时29分10秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 22时29分10秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时29分10秒 - This window is of type dock
+2022年01月18日 22时29分10秒 - Checking window 0x00800006 (class i3bar)
+2022年01月18日 22时29分10秒 - dock status does not match
+2022年01月18日 22时29分10秒 - Checking window 0x00800006 (class i3bar)
+2022年01月18日 22时29分10秒 - dock status matches
+2022年01月18日 22时29分10秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分10秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时29分10秒 - ClientMessage for window 0x000001cd
+2022年01月18日 22时29分10秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+2022年01月18日 22时29分12秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时29分12秒 - expose event for unknown window, ignoring
+2022年01月18日 22时29分12秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时29分12秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时29分12秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时29分12秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时29分12秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 22时29分12秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 22时29分12秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时29分12秒 - This window is of type dock
+2022年01月18日 22时29分12秒 - Checking window 0x00800014 (class i3bar)
+2022年01月18日 22时29分12秒 - dock status does not match
+2022年01月18日 22时29分12秒 - Checking window 0x00800014 (class i3bar)
+2022年01月18日 22时29分12秒 - dock status matches
+2022年01月18日 22时29分12秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分12秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时29分12秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分12秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时29分12秒 - expose event for unknown window, ignoring
+2022年01月18日 22时29分12秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时29分12秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时29分12秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时29分12秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时29分12秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 22时29分12秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 22时29分12秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时29分12秒 - This window is of type dock
+2022年01月18日 22时29分12秒 - Checking window 0x0080001a (class i3bar)
+2022年01月18日 22时29分12秒 - dock status does not match
+2022年01月18日 22时29分12秒 - Checking window 0x0080001a (class i3bar)
+2022年01月18日 22时29分12秒 - dock status matches
+2022年01月18日 22时29分12秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分12秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时29分12秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分13秒 - executing: rofi -modi drun,run -show drun
+
+(process:623): GLib-CRITICAL **: 22:29:16.080: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+[Init] High DPI scaling is enabled. 
+[BaseApplication] Qv2ray 2.7.0 on Arch Linux x86_64 
+[BaseApplication] Qv2ray Start Time:  80956241 
+[BaseApplication] QV2RAY_BUILD_INFO Qv2ray for Arch Linux CN 
+[BaseApplication] QV2RAY_BUILD_EXTRA_INFO (Official Build) 5.13.4-arch1-1 x86_64 
+[BaseApplication] QV2RAY_BUILD_NUMBER 7000 
+[BaseApplication] This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it
+under certain conditions.
+Copyright (c) 2019-2021 Qv2ray Development Group.
+Third-party libraries that have been used in this program can be found in the About page. 
+[PlatformApplication] Startup Options: parser.isSet(noAPIOption): 0 
+[PlatformApplication] Startup Options: parser.isSet(debugLogOption): 0 
+[PlatformApplication] Startup Options: parser.isSet(noAutoConnectionOption): 0 [PlatformApplication] Startup Options: parser.isSet(noPluginsOption): 0 [PlatformApplication] Command line: errorMessage:  
+[PlatformApplication] Non-fatal error, continue starting up. 
+[Translator] Found translations: en_US ja_JP yue zh_CN zh_TW [Translator] Found zh_CN in folder: /usr/share/qv2ray/lang [Translator] Successfully installed a translator for zh_CN 
+[SettingsBackend] Application exec path: /usr/bin 
+[SettingsBackend] Path: /usr/bin/config/ does not contain a valid config file. 
+[SettingsBackend] Found a config file, conf["config_version"].toString():  path: /home/alex/.config/qv2ray/ 
+[SettingsBackend] Path: /home/alex/.config/qv2ray  is valid. [SettingsBackend] Using  /home/alex/.config/qv2ray/  as the config path. 
+[Translator] Found zh_CN in folder: /usr/share/qv2ray/lang [Translator] Removed translations 
+[Translator] Successfully installed a translator for zh_CN 
+[PluginHost] Reloading plugin list 
+[PluginHost] Loading plugin: libQvPlugin-BuiltinProtocolSupport.so from: /usr/share/qv2ray/plugins [PluginHost] Loaded plugin: "Builtin Protocol Support" made by: "Qv2ray Core Workgroup" 
+[PluginHost] Loading plugin: libQvPlugin-BuiltinSubscriptionSupport.so from: /usr/share/qv2ray/plugins [PluginHost] Loaded plugin: "Builtin Subscription Support" made by: "Qv2ray Core Workgroup" 
+[ConfigHandler] ConnectionHandler Constructor. [ConfigHandler] Loaded connection id: bcjyjsktjxyn into cache. [ConfigHandler] Loaded connection id: dkioyuigihax into cache. [ConfigHandler] Loaded connection id: srcsvhgpcqbx into cache. [ConfigHandler] Loaded connection id: ofsiixrktocd into cache. [ConfigHandler] Loaded connection id: xmlxrgnzlyyp into cache. [ConfigHandler] Loaded connection id: lkjvtdmwvxyv into cache. [ConfigHandler] Loaded connection id: rmlfdptvkdfs into cache. [ConfigHandler] Loaded connection id: gwjkjljjvjtj into cache. [ConfigHandler] Loaded connection id: vclrjpzvephv into cache. [ConfigHandler] Loaded connection id: eguivwndpfwg into cache. [ConfigHandler] Loaded connection id: rvwhqqofbrck into cache. [gRPCBackend] API Worker initialised. [gRPCBackend] API Worker started. [StyleManager] Found factory style: Windows 
+[StyleManager] Found factory style: Fusion 
+[StyleManager] Found QSS style at: ":/uistyles/flatwhite.css" 
+[StyleManager] Found QSS style at: ":/uistyles/psblack.css" 
+[StyleManager] Applying UI style: Fusion 
+2022年01月18日 22时29分16秒 - ClientMessage for window 0x00a00006
+2022年01月18日 22时29分16秒 - ClientMessage for window 0x00a00006
+2022年01月18日 22时29分16秒 - ClientMessage for window 0x00a0000f
+2022年01月18日 22时29分16秒 - ClientMessage for window 0x00a0000f
+2022年01月18日 22时29分16秒 - WM_CLASS changed to qv2ray (instance), qv2ray (class)
+2022年01月18日 22时29分16秒 - WM_NAME changed to "Qv2ray"
+2022年01月18日 22时29分16秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时29分16秒 - _NET_WM_NAME changed to "Qv2ray"
+2022年01月18日 22时29分16秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时29分16秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时29分16秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时29分16秒 - dock status does not match
+2022年01月18日 22时29分16秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时29分16秒 - dock status does not match
+2022年01月18日 22时29分16秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分16秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分16秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分16秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时29分19秒 - ClientMessage for window 0x00a0001d
+2022年01月18日 22时29分19秒 - ClientMessage for window 0x00a0001d
+2022年01月18日 22时29分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时29分22秒 - ClientMessage for window 0x00a00022
+2022年01月18日 22时29分22秒 - ClientMessage for window 0x00a00022
+2022年01月18日 22时29分26秒 - Not a managed window, ignoring UnmapNotify event
+[TCPingWorker] error connecting to host: hk-bgp.jsqpro.in:556 connection timed out 
+[TCPingWorker] error connecting to host: hk-bgp.jsqpro.in:556 connection timed out 
+[TCPingWorker] error connecting to host: hk-bgp.jsqpro.in:556 connection timed out 
+[RouteHandler] Processing a simple connection config 
+[RouteHandler] Added global DNS config 
+[InboundGenerator] Allocation is not used here, Not Implemented [InboundGenerator] Allocation is not used here, Not Implemented [RouteHandler] Added global inbound config [InboundGenerator] Allocation is not used here, Not Implemented [KernelHandler] Cannot disconnect when there's nothing connected. 
+[KernelHandler] Outbound protocol vmess is not a registered plugin outbound. 
+[KernelHandler] Outbound protocol freedom is not a registered plugin outbound. 
+[KernelHandler] Outbound protocol blackhole is not a registered plugin outbound. 
+[KernelHandler] Applying new outbound settings. 
+[KernelHandler] Starting kernels with V2RayIntegration. 
+[V2RayInteraction] V2Ray output: V2Ray 4.44.0 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.17.5 linux/amd64);A unified platform for anti-censorship. 
+2022年01月18日 22时29分29秒 - ClientMessage for window 0x00a00027
+2022年01月18日 22时29分29秒 - ClientMessage for window 0x00a00027
+[V2RayInteraction] V2Ray version: V2Ray 4.44.0 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.17.5 linux/amd64) [V2RayInteraction] Starting V2Ray core with test options [V2RayInteraction] Config file check passed. [V2RayInteraction] V2Ray kernel process status changed: Starting [V2RayInteraction] V2Ray kernel process status changed: Running [V2RayInteraction] Starting API [ConnectionItemWidget] ConnectionItemWidgetOnConnected signal received for: ofsiixrktocd [MainWindowExtra] ProxyAddress: 127.0.0.1 
+[MainWindowExtra] HTTP Port: 8889 
+[MainWindowExtra] SOCKS Port: 1089 
+[SystemProxy] Setting up System Proxy 
+[SystemProxy] Qv2ray will set system proxy to use HTTP 
+[SystemProxy] Qv2ray will set system proxy to use SOCKS 
+2022年01月18日 22时29分29秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时29分29秒 - ClientMessage for window 0x00a00029
+2022年01月18日 22时29分29秒 - ClientMessage for window 0x00a00029
+[SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy;mode;manual [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.http;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.http;port;8889 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.ftp;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.ftp;port;8889 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.https;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.https;port;8889 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.socks;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.socks;port;1089 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy;mode;manual [gRPCBackend] gRPC Version: 1.43.0 
+2022年01月18日 22时29分33秒 - executing: rofi -modi drun,run -show drun
+
+(process:787): GLib-CRITICAL **: 22:29:34.770: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+Gtk-Message: 22:29:35.224: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:29:35.224: Failed to load module "window-decorations-gtk-module"
+[807:807:0118/222935.390192:ERROR:assistance_home_client.cc(23)] File path /home/alex/.config/microsoft-edge/Default
+2022年01月18日 22时29分35秒 - WM_CLASS changed to microsoft-edge (instance), Microsoft-edge (class)
+2022年01月18日 22时29分35秒 - WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时29分35秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时29分35秒 - _NET_WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时29分35秒 - WM_WINDOW_ROLE changed to "browser"
+2022年01月18日 22时29分35秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时29分35秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时29分35秒 - dock status does not match
+2022年01月18日 22时29分35秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时29分35秒 - dock status does not match
+2022年01月18日 22时29分35秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分35秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分35秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分35秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时29分35秒 - ClientMessage for window 0x00c00002
+2022年01月18日 22时29分35秒 - ClientMessage for window 0x00c00002
+2022年01月18日 22时29分35秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时29分35秒 - ClientMessage for window 0x00c00002
+2022年01月18日 22时29分35秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+[807:1033:0118/222935.565370:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[807:1033:0118/222935.565496:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[807:1033:0118/222935.565646:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[924:924:0118/222937.108347:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[807:832:0118/222937.809196:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[807:832:0118/222938.026069:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+2022年01月18日 22时29分39秒 - Not a managed window, ignoring UnmapNotify event
+[807:807:0118/222950.539433:ERROR:smartscreen_dns_resolver.cc(103)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: http://www.google.com/
+[807:807:0118/222952.541535:ERROR:smartscreen_dns_resolver.cc(103)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://www.google.com/
+Fontconfig error: Cannot load default config file: No such file: (null)
+2022年01月18日 22时30分13秒 - _NET_WM_NAME changed to "www.google.com - 个人 - Microsoft​ Edge"
+2022年01月18日 22时30分13秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分13秒 - dock status does not match
+2022年01月18日 22时30分13秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分13秒 - dock status does not match
+2022年01月18日 22时30分13秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分13秒 - dock status does not match
+2022年01月18日 22时30分13秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分13秒 - dock status does not match
+2022年01月18日 22时30分36秒 - _NET_WM_NAME changed to "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时30分36秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分36秒 - dock status does not match
+2022年01月18日 22时30分36秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分36秒 - dock status does not match
+2022年01月18日 22时30分36秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分36秒 - dock status does not match
+2022年01月18日 22时30分36秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分36秒 - dock status does not match
+2022年01月18日 22时30分39秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时30分40秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时30分40秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时30分40秒 - ClientMessage for window 0x00c00002
+2022年01月18日 22时30分40秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+[807:807:0118/223041.994175:ERROR:smartscreen_dns_resolver.cc(103)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://ntp.msn.cn/edge/ntp?locale=zh-CN&title=%E6%96%B0%E5%BB%BA%E6%A0%87%E7%AD%BE%E9%A1%B5&dsp=1&sp=Bing&prerender=1
+2022年01月18日 22时30分45秒 - _NET_WM_NAME changed to "www.google.com 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时30分45秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分45秒 - dock status does not match
+2022年01月18日 22时30分45秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分45秒 - dock status does not match
+2022年01月18日 22时30分45秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分45秒 - dock status does not match
+2022年01月18日 22时30分45秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分45秒 - dock status does not match
+2022年01月18日 22时30分51秒 - _NET_WM_NAME changed to "Google 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时30分51秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分51秒 - dock status does not match
+2022年01月18日 22时30分51秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分51秒 - dock status does not match
+2022年01月18日 22时30分51秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分51秒 - dock status does not match
+2022年01月18日 22时30分51秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分51秒 - dock status does not match
+2022年01月18日 22时30分53秒 - _NET_WM_NAME changed to "Just a moment... 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时30分53秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分53秒 - dock status does not match
+2022年01月18日 22时30分53秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分53秒 - dock status does not match
+2022年01月18日 22时30分53秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分53秒 - dock status does not match
+2022年01月18日 22时30分53秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分53秒 - dock status does not match
+2022年01月18日 22时30分58秒 - _NET_WM_NAME changed to "Google 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时30分58秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分58秒 - dock status does not match
+2022年01月18日 22时30分58秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分58秒 - dock status does not match
+2022年01月18日 22时30分58秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分58秒 - dock status does not match
+2022年01月18日 22时30分58秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时30分58秒 - dock status does not match
+2022年01月18日 22时31分05秒 - _NET_WM_NAME changed to "Just a moment... 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时31分05秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时31分05秒 - dock status does not match
+2022年01月18日 22时31分05秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时31分05秒 - dock status does not match
+2022年01月18日 22时31分05秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时31分05秒 - dock status does not match
+2022年01月18日 22时31分05秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时31分05秒 - dock status does not match
+[GeositeReader] Reading geosites from: /usr/share/v2ray/geosite.dat 
+[GeositeReader] Loaded 963 geosite entries from data file. 
+[GeositeReader] Reading geosites from: /usr/share/v2ray/geoip.dat 
+[GeositeReader] Loaded 252 geosite entries from data file. 
+2022年01月18日 22时31分12秒 - ClientMessage for window 0x00a004f7
+2022年01月18日 22时31分12秒 - ClientMessage for window 0x00a004f7
+2022年01月18日 22时31分12秒 - WM_CLASS changed to qv2ray (instance), qv2ray (class)
+2022年01月18日 22时31分12秒 - WM_NAME changed to "$(AJWQ!On"
+2022年01月18日 22时31分12秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时31分12秒 - _NET_WM_NAME changed to "首选项 — Qv2ray"
+2022年01月18日 22时31分12秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时31分12秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时31分12秒 - Checking window 0x00a004f7 (class qv2ray)
+2022年01月18日 22时31分12秒 - dock status does not match
+2022年01月18日 22时31分12秒 - Checking window 0x00a004f7 (class qv2ray)
+2022年01月18日 22时31分12秒 - dock status does not match
+2022年01月18日 22时31分12秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时31分12秒 - This window is a dialog window, setting floating
+2022年01月18日 22时31分12秒 - This window is transient for another window, setting floating
+2022年01月18日 22时31分12秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时31分12秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时31分12秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时31分12秒 - Checking window 0x00a004f7 (class qv2ray)
+2022年01月18日 22时31分12秒 - dock status does not match
+2022年01月18日 22时31分12秒 - Checking window 0x00a004f7 (class qv2ray)
+2022年01月18日 22时31分12秒 - dock status does not match
+2022年01月18日 22时31分12秒 - ClientMessage for window 0x00a004f7
+2022年01月18日 22时31分12秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时31分12秒 - ClientMessage for window 0x00a004f7
+2022年01月18日 22时31分12秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时31分17秒 - ClientMessage for window 0x00a004fc
+2022年01月18日 22时31分17秒 - ClientMessage for window 0x00a004fc
+2022年01月18日 22时31分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分20秒 - ClientMessage for window 0x00a00501
+2022年01月18日 22时31分20秒 - ClientMessage for window 0x00a00501
+2022年01月18日 22时31分20秒 - WM_CLASS changed to qv2ray (instance), qv2ray (class)
+2022年01月18日 22时31分20秒 - WM_NAME changed to "$(APhR*VXA,"
+2022年01月18日 22时31分20秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时31分20秒 - _NET_WM_NAME changed to "需要重连 — Qv2ray"
+2022年01月18日 22时31分20秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时31分20秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时31分20秒 - Checking window 0x00a00501 (class qv2ray)
+2022年01月18日 22时31分20秒 - dock status does not match
+2022年01月18日 22时31分20秒 - Checking window 0x00a00501 (class qv2ray)
+2022年01月18日 22时31分20秒 - dock status does not match
+2022年01月18日 22时31分20秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时31分20秒 - This window is a dialog window, setting floating
+2022年01月18日 22时31分20秒 - This window is transient for another window, setting floating
+2022年01月18日 22时31分20秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时31分20秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时31分20秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时31分20秒 - Checking window 0x00a00501 (class qv2ray)
+2022年01月18日 22时31分20秒 - dock status does not match
+2022年01月18日 22时31分20秒 - Checking window 0x00a00501 (class qv2ray)
+2022年01月18日 22时31分20秒 - dock status does not match
+2022年01月18日 22时31分20秒 - ClientMessage for window 0x00a00501
+2022年01月18日 22时31分20秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时31分20秒 - ClientMessage for window 0x00a00501
+2022年01月18日 22时31分20秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时31分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分21秒 - expose event for unknown window, ignoring
+2022年01月18日 22时31分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分21秒 - ClientMessage for window 0x00a00506
+2022年01月18日 22时31分21秒 - ClientMessage for window 0x00a00506
+[V2RayInteraction] V2Ray kernel process status changed: NotRunning [SystemProxy] Clearing System Proxy 
+2022年01月18日 22时31分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分21秒 - ClientMessage for window 0x00a00508
+2022年01月18日 22时31分21秒 - ClientMessage for window 0x00a00508
+[SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy;mode;none [RouteHandler] Processing a simple connection config 
+[RouteHandler] Added global DNS config 
+[InboundGenerator] Allocation is not used here, Not Implemented [InboundGenerator] Allocation is not used here, Not Implemented [RouteHandler] Added global inbound config [InboundGenerator] Allocation is not used here, Not Implemented [KernelHandler] Cannot disconnect when there's nothing connected. 
+[KernelHandler] Outbound protocol vmess is not a registered plugin outbound. 
+[KernelHandler] Outbound protocol freedom is not a registered plugin outbound. 
+[KernelHandler] Outbound protocol blackhole is not a registered plugin outbound. 
+[KernelHandler] Applying new outbound settings. 
+[KernelHandler] Starting kernels with V2RayIntegration. 
+[V2RayInteraction] V2Ray output: V2Ray 4.44.0 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.17.5 linux/amd64);A unified platform for anti-censorship. 
+2022年01月18日 22时31分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分22秒 - ClientMessage for window 0x00a0050a
+2022年01月18日 22时31分22秒 - ClientMessage for window 0x00a0050a
+[V2RayInteraction] V2Ray version: V2Ray 4.44.0 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.17.5 linux/amd64) [V2RayInteraction] Starting V2Ray core with test options [V2RayInteraction] Config file check passed. [V2RayInteraction] V2Ray kernel process status changed: Starting [V2RayInteraction] V2Ray kernel process status changed: Running [V2RayInteraction] Starting API [ConnectionItemWidget] ConnectionItemWidgetOnConnected signal received for: ofsiixrktocd [MainWindowExtra] ProxyAddress: 127.0.0.1 
+[MainWindowExtra] HTTP Port: 8889 
+[MainWindowExtra] SOCKS Port: 1089 
+[SystemProxy] Setting up System Proxy 
+[SystemProxy] Qv2ray will set system proxy to use HTTP 
+[SystemProxy] Qv2ray will set system proxy to use SOCKS 
+2022年01月18日 22时31分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分22秒 - ClientMessage for window 0x00a0050c
+2022年01月18日 22时31分22秒 - ClientMessage for window 0x00a0050c
+2022年01月18日 22时31分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分22秒 - expose event for unknown window, ignoring
+2022年01月18日 22时31分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分22秒 - Not a managed window, ignoring UnmapNotify event
+[SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy;mode;manual [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.http;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.http;port;8889 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.ftp;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.ftp;port;8889 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.https;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.https;port;8889 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.socks;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.socks;port;1089 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy;mode;manual [gRPCBackend] gRPC Version: 1.43.0 
+2022年01月18日 22时31分26秒 - _NET_WM_NAME changed to "Google 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时31分26秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时31分26秒 - dock status does not match
+2022年01月18日 22时31分26秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时31分26秒 - dock status does not match
+2022年01月18日 22时31分26秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时31分26秒 - dock status does not match
+2022年01月18日 22时31分26秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时31分26秒 - dock status does not match
+2022年01月18日 22时31分28秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分31秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分33秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分33秒 - _NET_WM_NAME changed to "Just a moment... - 个人 - Microsoft​ Edge"
+2022年01月18日 22时31分33秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时31分33秒 - dock status does not match
+2022年01月18日 22时31分33秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时31分33秒 - dock status does not match
+2022年01月18日 22时31分33秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时31分33秒 - dock status does not match
+2022年01月18日 22时31分33秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时31分33秒 - dock status does not match
+2022年01月18日 22时31分41秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时31分47秒 - executing: terminator
+Gtk-Message: 22:31:47.293: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:31:47.293: Failed to load module "window-decorations-gtk-module"
+2022年01月18日 22时31分47秒 - ClientMessage for window 0x01a00007
+2022年01月18日 22时31分47秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年01月18日 22时31分47秒 - WM_NAME changed to "None"
+2022年01月18日 22时31分47秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时31分47秒 - _NET_WM_NAME changed to "None"
+2022年01月18日 22时31分47秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时31分47秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时31分47秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分47秒 - dock status does not match
+2022年01月18日 22时31分47秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分47秒 - dock status does not match
+2022年01月18日 22时31分47秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时31分47秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时31分47秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时31分47秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时31分47秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年01月18日 22时31分47秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分47秒 - dock status does not match
+2022年01月18日 22时31分47秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分47秒 - dock status does not match
+2022年01月18日 22时31分47秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分47秒 - dock status does not match
+2022年01月18日 22时31分47秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分47秒 - dock status does not match
+2022年01月18日 22时31分47秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 22时31分47秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分47秒 - dock status does not match
+2022年01月18日 22时31分47秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分47秒 - dock status does not match
+2022年01月18日 22时31分47秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分47秒 - dock status does not match
+2022年01月18日 22时31分47秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分47秒 - dock status does not match
+2022年01月18日 22时31分56秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk/WorkSpace/GitProject"
+2022年01月18日 22时31分56秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分56秒 - dock status does not match
+2022年01月18日 22时31分56秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分56秒 - dock status does not match
+2022年01月18日 22时31分56秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分56秒 - dock status does not match
+2022年01月18日 22时31分56秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时31分56秒 - dock status does not match
+2022年01月18日 22时32分01秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时32分01秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分01秒 - dock status does not match
+2022年01月18日 22时32分01秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分01秒 - dock status does not match
+2022年01月18日 22时32分01秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分01秒 - dock status does not match
+2022年01月18日 22时32分01秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分01秒 - dock status does not match
+[TCPingWorker] error connecting to host: hkt6.jsqpro.in:556 connection timed out 
+[TCPingWorker] error connecting to host: ddns2.jsqpro.in:556 connection timed out 
+2022年01月18日 22时32分05秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时32分05秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分05秒 - dock status does not match
+2022年01月18日 22时32分05秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分05秒 - dock status does not match
+2022年01月18日 22时32分05秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分05秒 - dock status does not match
+2022年01月18日 22时32分05秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分05秒 - dock status does not match
+[TCPingWorker] error connecting to host: hk-bgp.jsqpro.in:556 connection timed out 
+[TCPingWorker] error connecting to host: hk-bgp.jsqpro.in:556 connection timed out 
+[TCPingWorker] error connecting to host: hk-bgp.jsqpro.in:556 connection timed out 
+2022年01月18日 22时32分08秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时32分08秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分08秒 - dock status does not match
+2022年01月18日 22时32分08秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分08秒 - dock status does not match
+2022年01月18日 22时32分08秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分08秒 - dock status does not match
+2022年01月18日 22时32分08秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分08秒 - dock status does not match
+2022年01月18日 22时32分09秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时32分09秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分09秒 - dock status does not match
+2022年01月18日 22时32分09秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分09秒 - dock status does not match
+2022年01月18日 22时32分09秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分09秒 - dock status does not match
+2022年01月18日 22时32分09秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分09秒 - dock status does not match
+[RouteHandler] Processing a simple connection config 
+[RouteHandler] Added global DNS config 
+2022年01月18日 22时32分12秒 - ClientMessage for window 0x00a00513
+2022年01月18日 22时32分12秒 - ClientMessage for window 0x00a00513
+[InboundGenerator] Allocation is not used here, Not Implemented [InboundGenerator] Allocation is not used here, Not Implemented [RouteHandler] Added global inbound config [InboundGenerator] Allocation is not used here, Not Implemented [V2RayInteraction] V2Ray kernel process status changed: NotRunning [SystemProxy] Clearing System Proxy 
+2022年01月18日 22时32分12秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时32分12秒 - ClientMessage for window 0x00a00515
+2022年01月18日 22时32分12秒 - ClientMessage for window 0x00a00515
+[SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy;mode;none [KernelHandler] Outbound protocol vmess is not a registered plugin outbound. 
+[KernelHandler] Outbound protocol freedom is not a registered plugin outbound. 
+[KernelHandler] Outbound protocol blackhole is not a registered plugin outbound. 
+[KernelHandler] Applying new outbound settings. 
+[KernelHandler] Starting kernels with V2RayIntegration. 
+[V2RayInteraction] V2Ray output: V2Ray 4.44.0 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.17.5 linux/amd64);A unified platform for anti-censorship. 
+2022年01月18日 22时32分12秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时32分12秒 - ClientMessage for window 0x00a00517
+2022年01月18日 22时32分12秒 - ClientMessage for window 0x00a00517
+[V2RayInteraction] V2Ray version: V2Ray 4.44.0 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.17.5 linux/amd64) [V2RayInteraction] Starting V2Ray core with test options [V2RayInteraction] Config file check passed. [V2RayInteraction] V2Ray kernel process status changed: Starting [V2RayInteraction] V2Ray kernel process status changed: Running [V2RayInteraction] Starting API [ConnectionItemWidget] ConnectionItemWidgetOnConnected signal received for: vclrjpzvephv [MainWindowExtra] ProxyAddress: 127.0.0.1 
+[MainWindowExtra] HTTP Port: 8889 
+[MainWindowExtra] SOCKS Port: 1089 
+[SystemProxy] Setting up System Proxy 
+[SystemProxy] Qv2ray will set system proxy to use HTTP 
+[SystemProxy] Qv2ray will set system proxy to use SOCKS 
+2022年01月18日 22时32分12秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时32分12秒 - ClientMessage for window 0x00a00519
+2022年01月18日 22时32分12秒 - ClientMessage for window 0x00a00519
+[SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy;mode;manual [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.http;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.http;port;8889 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.ftp;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.ftp;port;8889 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.https;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.https;port;8889 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.socks;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.socks;port;1089 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy;mode;manual [gRPCBackend] API call returns: 14 (Socket closed) 
+2022年01月18日 22时32分14秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时32分14秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分14秒 - dock status does not match
+2022年01月18日 22时32分14秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分14秒 - dock status does not match
+2022年01月18日 22时32分14秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分14秒 - dock status does not match
+2022年01月18日 22时32分14秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分14秒 - dock status does not match
+2022年01月18日 22时32分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时32分20秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时32分20秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分20秒 - dock status does not match
+2022年01月18日 22时32分20秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分20秒 - dock status does not match
+2022年01月18日 22时32分20秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分20秒 - dock status does not match
+2022年01月18日 22时32分20秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分20秒 - dock status does not match
+2022年01月18日 22时32分22秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时32分25秒 - _NET_WM_NAME changed to "Humanity Research Institute - 个人 - Microsoft​ Edge"
+2022年01月18日 22时32分25秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分25秒 - dock status does not match
+2022年01月18日 22时32分25秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分25秒 - dock status does not match
+2022年01月18日 22时32分25秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分25秒 - dock status does not match
+2022年01月18日 22时32分25秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分25秒 - dock status does not match
+2022年01月18日 22时32分28秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时32分28秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分28秒 - dock status does not match
+2022年01月18日 22时32分28秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分28秒 - dock status does not match
+2022年01月18日 22时32分28秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分28秒 - dock status does not match
+2022年01月18日 22时32分28秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分28秒 - dock status does not match
+2022年01月18日 22时32分33秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时32分34秒 - _NET_WM_NAME changed to "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时32分34秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分34秒 - dock status does not match
+2022年01月18日 22时32分34秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分34秒 - dock status does not match
+2022年01月18日 22时32分34秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分34秒 - dock status does not match
+2022年01月18日 22时32分34秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分34秒 - dock status does not match
+2022年01月18日 22时32分34秒 - ClientMessage for window 0x00c00002
+2022年01月18日 22时32分34秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时32分34秒 - _NET_WM_NAME changed to "设置 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时32分34秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分34秒 - dock status does not match
+2022年01月18日 22时32分34秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分34秒 - dock status does not match
+2022年01月18日 22时32分34秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分34秒 - dock status does not match
+2022年01月18日 22时32分34秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分34秒 - dock status does not match
+[807:807:0118/223235.266427:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Autofill data unavailable.", source: edge://settings/personalinfo (0)
+2022年01月18日 22时32分35秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时32分36秒 - _NET_WM_NAME changed to "Humanity Research Institute - 个人 - Microsoft​ Edge"
+2022年01月18日 22时32分36秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分36秒 - dock status does not match
+2022年01月18日 22时32分36秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分36秒 - dock status does not match
+2022年01月18日 22时32分36秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分36秒 - dock status does not match
+2022年01月18日 22时32分36秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分36秒 - dock status does not match
+2022年01月18日 22时32分55秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时32分55秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分55秒 - dock status does not match
+2022年01月18日 22时32分55秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分55秒 - dock status does not match
+2022年01月18日 22时32分55秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分55秒 - dock status does not match
+2022年01月18日 22时32分55秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分55秒 - dock status does not match
+2022年01月18日 22时32分56秒 - _NET_WM_NAME changed to "MySSR - 个人 - Microsoft​ Edge"
+2022年01月18日 22时32分56秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分56秒 - dock status does not match
+2022年01月18日 22时32分56秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分56秒 - dock status does not match
+2022年01月18日 22时32分56秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分56秒 - dock status does not match
+2022年01月18日 22时32分56秒 - Checking window 0x00c00002 (class Microsoft-edge)
+2022年01月18日 22时32分56秒 - dock status does not match
+2022年01月18日 22时32分59秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时32分59秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分59秒 - dock status does not match
+2022年01月18日 22时32分59秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分59秒 - dock status does not match
+2022年01月18日 22时32分59秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分59秒 - dock status does not match
+2022年01月18日 22时32分59秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时32分59秒 - dock status does not match
+2022年01月18日 22时33分00秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时33分00秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分00秒 - dock status does not match
+2022年01月18日 22时33分00秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分00秒 - dock status does not match
+2022年01月18日 22时33分00秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分00秒 - dock status does not match
+2022年01月18日 22时33分00秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分00秒 - dock status does not match
+2022年01月18日 22时33分01秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时33分01秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分01秒 - dock status does not match
+2022年01月18日 22时33分01秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分01秒 - dock status does not match
+2022年01月18日 22时33分01秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分01秒 - dock status does not match
+2022年01月18日 22时33分01秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分01秒 - dock status does not match
+2022年01月18日 22时33分31秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时33分31秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分31秒 - dock status does not match
+2022年01月18日 22时33分31秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分31秒 - dock status does not match
+2022年01月18日 22时33分31秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分31秒 - dock status does not match
+2022年01月18日 22时33分31秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分31秒 - dock status does not match
+2022年01月18日 22时33分32秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时33分32秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分32秒 - dock status does not match
+2022年01月18日 22时33分32秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分32秒 - dock status does not match
+2022年01月18日 22时33分32秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分32秒 - dock status does not match
+2022年01月18日 22时33分32秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分32秒 - dock status does not match
+2022年01月18日 22时33分37秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时33分37秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分37秒 - dock status does not match
+2022年01月18日 22时33分37秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分37秒 - dock status does not match
+2022年01月18日 22时33分37秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分37秒 - dock status does not match
+2022年01月18日 22时33分37秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分37秒 - dock status does not match
+2022年01月18日 22时33分38秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时33分38秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分38秒 - dock status does not match
+2022年01月18日 22时33分38秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分38秒 - dock status does not match
+2022年01月18日 22时33分38秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分38秒 - dock status does not match
+2022年01月18日 22时33分38秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分38秒 - dock status does not match
+2022年01月18日 22时33分39秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk/WorkSpace/GitProject"
+2022年01月18日 22时33分39秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分39秒 - dock status does not match
+2022年01月18日 22时33分39秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分39秒 - dock status does not match
+2022年01月18日 22时33分39秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分39秒 - dock status does not match
+2022年01月18日 22时33分39秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时33分39秒 - dock status does not match
+2022年01月18日 22时34分42秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时34分42秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时34分42秒 - dock status does not match
+2022年01月18日 22时34分42秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时34分42秒 - dock status does not match
+2022年01月18日 22时34分42秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时34分42秒 - dock status does not match
+2022年01月18日 22时34分42秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时34分42秒 - dock status does not match
+[928:932:0118/223511.347216:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+2022年01月18日 22时36分04秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时36分04秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分04秒 - dock status does not match
+2022年01月18日 22时36分04秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分04秒 - dock status does not match
+2022年01月18日 22时36分04秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分04秒 - dock status does not match
+2022年01月18日 22时36分04秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分04秒 - dock status does not match
+2022年01月18日 22时36分07秒 - Sending WM_DELETE to the client
+2022年01月18日 22时36分07秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分07秒 - expose event for unknown window, ignoring
+2022年01月18日 22时36分07秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分07秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分07秒 - Not a managed window, ignoring UnmapNotify event
+[924:924:0118/223607.276030:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+2022年01月18日 22时36分07秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时36分07秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分07秒 - dock status does not match
+2022年01月18日 22时36分07秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分07秒 - dock status does not match
+2022年01月18日 22时36分07秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分07秒 - dock status does not match
+2022年01月18日 22时36分07秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分07秒 - dock status does not match
+2022年01月18日 22时36分08秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时36分08秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分08秒 - dock status does not match
+2022年01月18日 22时36分08秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分08秒 - dock status does not match
+2022年01月18日 22时36分08秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分08秒 - dock status does not match
+2022年01月18日 22时36分08秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分08秒 - dock status does not match
+2022年01月18日 22时36分09秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk/WorkSpace/GitProject"
+2022年01月18日 22时36分09秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分09秒 - dock status does not match
+2022年01月18日 22时36分09秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分09秒 - dock status does not match
+2022年01月18日 22时36分09秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分09秒 - dock status does not match
+2022年01月18日 22时36分09秒 - Checking window 0x01a00007 (class Terminator)
+2022年01月18日 22时36分09秒 - dock status does not match
+2022年01月18日 22时36分20秒 - Sending WM_DELETE to the client
+<window.Window object at 0x7f4fba93e180 (terminatorlib+window+Window at 0x55fbb1bfa260)> is not in registered window list
+2022年01月18日 22时36分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分20秒 - expose event for unknown window, ignoring
+2022年01月18日 22时36分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分26秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时36分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分26秒 - expose event for unknown window, ignoring
+2022年01月18日 22时36分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分28秒 - WM_CLASS changed to qv2ray (instance), qv2ray (class)
+2022年01月18日 22时36分28秒 - WM_NAME changed to "Qv2ray"
+2022年01月18日 22时36分28秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时36分28秒 - _NET_WM_NAME changed to "Qv2ray"
+2022年01月18日 22时36分28秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时36分28秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时36分28秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时36分28秒 - dock status does not match
+2022年01月18日 22时36分28秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时36分28秒 - dock status does not match
+2022年01月18日 22时36分28秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时36分28秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时36分28秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时36分28秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时36分30秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时36分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分30秒 - expose event for unknown window, ignoring
+2022年01月18日 22时36分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分30秒 - WM_CLASS changed to qv2ray (instance), qv2ray (class)
+2022年01月18日 22时36分30秒 - WM_NAME changed to "Qv2ray"
+2022年01月18日 22时36分30秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时36分30秒 - _NET_WM_NAME changed to "Qv2ray"
+2022年01月18日 22时36分30秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时36分30秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时36分30秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时36分30秒 - dock status does not match
+2022年01月18日 22时36分30秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时36分30秒 - dock status does not match
+2022年01月18日 22时36分30秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时36分30秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时36分30秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时36分30秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时36分34秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时36分34秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分34秒 - expose event for unknown window, ignoring
+2022年01月18日 22时36分34秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分34秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分34秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时36分35秒 - WM_CLASS changed to qv2ray (instance), qv2ray (class)
+2022年01月18日 22时36分35秒 - WM_NAME changed to "Qv2ray"
+2022年01月18日 22时36分35秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时36分35秒 - _NET_WM_NAME changed to "Qv2ray"
+2022年01月18日 22时36分35秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时36分35秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时36分35秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时36分35秒 - dock status does not match
+2022年01月18日 22时36分35秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时36分35秒 - dock status does not match
+2022年01月18日 22时36分35秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时36分35秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时36分35秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时36分35秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时39分17秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时39分17秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分17秒 - expose event for unknown window, ignoring
+2022年01月18日 22时39分17秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分17秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分17秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分19秒 - WM_CLASS changed to qv2ray (instance), qv2ray (class)
+2022年01月18日 22时39分19秒 - WM_NAME changed to "Qv2ray"
+2022年01月18日 22时39分19秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时39分19秒 - _NET_WM_NAME changed to "Qv2ray"
+2022年01月18日 22时39分19秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时39分19秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时39分19秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时39分19秒 - dock status does not match
+2022年01月18日 22时39分19秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时39分19秒 - dock status does not match
+2022年01月18日 22时39分19秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时39分19秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时39分19秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时39分19秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时39分21秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时39分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分21秒 - expose event for unknown window, ignoring
+2022年01月18日 22时39分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分22秒 - WM_CLASS changed to qv2ray (instance), qv2ray (class)
+2022年01月18日 22时39分22秒 - WM_NAME changed to "Qv2ray"
+2022年01月18日 22时39分22秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时39分22秒 - _NET_WM_NAME changed to "Qv2ray"
+2022年01月18日 22时39分22秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时39分22秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时39分22秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时39分22秒 - dock status does not match
+2022年01月18日 22时39分22秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时39分22秒 - dock status does not match
+2022年01月18日 22时39分22秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时39分22秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时39分22秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时39分22秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时39分23秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时39分23秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分23秒 - expose event for unknown window, ignoring
+2022年01月18日 22时39分23秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分23秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分23秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分24秒 - WM_CLASS changed to qv2ray (instance), qv2ray (class)
+2022年01月18日 22时39分24秒 - WM_NAME changed to "Qv2ray"
+2022年01月18日 22时39分24秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时39分24秒 - _NET_WM_NAME changed to "Qv2ray"
+2022年01月18日 22时39分24秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时39分24秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时39分24秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时39分24秒 - dock status does not match
+2022年01月18日 22时39分24秒 - Checking window 0x00a0000f (class qv2ray)
+2022年01月18日 22时39分24秒 - dock status does not match
+2022年01月18日 22时39分24秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时39分24秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时39分24秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时39分24秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时39分24秒 - ClientMessage for window 0x00a005bb
+2022年01月18日 22时39分24秒 - ClientMessage for window 0x00a005bb
+2022年01月18日 22时39分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分26秒 - ClientMessage for window 0x00a005c0
+2022年01月18日 22时39分26秒 - ClientMessage for window 0x00a005c0
+[V2RayInteraction] V2Ray kernel process status changed: NotRunning [SystemProxy] Clearing System Proxy 
+2022年01月18日 22时39分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分26秒 - ClientMessage for window 0x00a005c2
+2022年01月18日 22时39分26秒 - ClientMessage for window 0x00a005c2
+[SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy;mode;none [KernelHandler] Cannot disconnect when there's nothing connected. 
+[PluginHost] Saving plugin settings for: "qvplugin_builtin_protocol" 
+[PluginHost] Saving plugin settings for: "builtin_subscription_support" 
+2022年01月18日 22时39分26秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时39分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分26秒 - expose event for unknown window, ignoring
+2022年01月18日 22时39分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分26秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时39分26秒 - Not a managed window, ignoring UnmapNotify event
+[ConfigHandler] Triggering save settings from destructor 
+[KernelHandler] Cannot disconnect when there's nothing connected. 
+[gRPCBackend] API thread stopped 
+[PluginHost] Saving plugin settings for: "qvplugin_builtin_protocol" 
+[PluginHost] Saving plugin settings for: "builtin_subscription_support" 
+2022年01月18日 22时39分28秒 - executing: rofi -modi drun,run -show drun
+
+(process:2421): GLib-CRITICAL **: 22:40:11.636: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+Gtk-Message: 22:40:11.742: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:40:11.742: Failed to load module "window-decorations-gtk-module"
+[2442:2442:0118/224011.783877:ERROR:assistance_home_client.cc(23)] File path /home/alex/.config/microsoft-edge/Default
+2022年01月18日 22时40分11秒 - WM_CLASS changed to microsoft-edge (instance), Microsoft-edge (class)
+2022年01月18日 22时40分11秒 - WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时40分11秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时40分11秒 - _NET_WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时40分11秒 - WM_WINDOW_ROLE changed to "browser"
+2022年01月18日 22时40分11秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时40分11秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分11秒 - dock status does not match
+2022年01月18日 22时40分11秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分11秒 - dock status does not match
+2022年01月18日 22时40分11秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时40分11秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时40分11秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时40分11秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时40分11秒 - ClientMessage for window 0x00a00002
+2022年01月18日 22时40分11秒 - ClientMessage for window 0x00a00002
+2022年01月18日 22时40分11秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+[2442:2619:0118/224011.861187:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[2442:2619:0118/224011.861398:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[2442:2619:0118/224011.861575:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+2022年01月18日 22时40分12秒 - executing: rofi -modi drun,run -show drun
+[2542:2556:0118/224013.207189:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2542:2556:0118/224013.207345:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2540:2540:0118/224013.469865:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2442:2442:0118/224013.828277:ERROR:smartscreen_dns_resolver.cc(103)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://ntp.msn.cn/edge/ntp?locale=zh-CN&title=%E6%96%B0%E5%BB%BA%E6%A0%87%E7%AD%BE%E9%A1%B5&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531
+[2542:2556:0118/224013.922090:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2442:2468:0118/224013.965762:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[2442:2468:0118/224014.188905:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+[2542:2556:0118/224014.842047:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2542:2556:0118/224014.917742:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2542:2556:0118/224015.367054:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+(process:2825): GLib-CRITICAL **: 22:40:15.432: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+[Init] High DPI scaling is enabled. 
+[BaseApplication] Qv2ray 2.7.0 on Arch Linux x86_64 
+[BaseApplication] Qv2ray Start Time:  81615519 
+[BaseApplication] QV2RAY_BUILD_INFO Qv2ray for Arch Linux CN 
+[BaseApplication] QV2RAY_BUILD_EXTRA_INFO (Official Build) 5.13.4-arch1-1 x86_64 
+[BaseApplication] QV2RAY_BUILD_NUMBER 7000 
+[BaseApplication] This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it
+under certain conditions.
+Copyright (c) 2019-2021 Qv2ray Development Group.
+Third-party libraries that have been used in this program can be found in the About page. 
+[PlatformApplication] Startup Options: parser.isSet(noAPIOption): 0 
+[PlatformApplication] Startup Options: parser.isSet(debugLogOption): 0 
+[PlatformApplication] Startup Options: parser.isSet(noAutoConnectionOption): 0 [PlatformApplication] Startup Options: parser.isSet(noPluginsOption): 0 [PlatformApplication] Command line: errorMessage:  
+[PlatformApplication] Non-fatal error, continue starting up. 
+[Translator] Found translations: en_US ja_JP yue zh_CN zh_TW [Translator] Found zh_CN in folder: /usr/share/qv2ray/lang [Translator] Successfully installed a translator for zh_CN 
+[SettingsBackend] Application exec path: /usr/bin 
+[SettingsBackend] Path: /usr/bin/config/ does not contain a valid config file. 
+[SettingsBackend] Found a config file, conf["config_version"].toString():  path: /home/alex/.config/qv2ray/ 
+[SettingsBackend] Path: /home/alex/.config/qv2ray  is valid. [SettingsBackend] Using  /home/alex/.config/qv2ray/  as the config path. 
+[Translator] Found zh_CN in folder: /usr/share/qv2ray/lang [Translator] Removed translations 
+[Translator] Successfully installed a translator for zh_CN 
+[PluginHost] Reloading plugin list 
+[PluginHost] Loading plugin: libQvPlugin-BuiltinProtocolSupport.so from: /usr/share/qv2ray/plugins [PluginHost] Loaded plugin: "Builtin Protocol Support" made by: "Qv2ray Core Workgroup" 
+[PluginHost] Loading plugin: libQvPlugin-BuiltinSubscriptionSupport.so from: /usr/share/qv2ray/plugins [PluginHost] Loaded plugin: "Builtin Subscription Support" made by: "Qv2ray Core Workgroup" 
+[ConfigHandler] ConnectionHandler Constructor. [ConfigHandler] Loaded connection id: rvwhqqofbrck into cache. [ConfigHandler] Loaded connection id: dkioyuigihax into cache. [ConfigHandler] Loaded connection id: bcjyjsktjxyn into cache. [ConfigHandler] Loaded connection id: ofsiixrktocd into cache. [ConfigHandler] Loaded connection id: rmlfdptvkdfs into cache. [ConfigHandler] Loaded connection id: srcsvhgpcqbx into cache. [ConfigHandler] Loaded connection id: xmlxrgnzlyyp into cache. [ConfigHandler] Loaded connection id: eguivwndpfwg into cache. [ConfigHandler] Loaded connection id: lkjvtdmwvxyv into cache. [ConfigHandler] Loaded connection id: gwjkjljjvjtj into cache. [ConfigHandler] Loaded connection id: vclrjpzvephv into cache. [gRPCBackend] API Worker initialised. [gRPCBackend] API Worker started. [StyleManager] Found factory style: Windows 
+[StyleManager] Found factory style: Fusion 
+[StyleManager] Found QSS style at: ":/uistyles/flatwhite.css" 
+[StyleManager] Found QSS style at: ":/uistyles/psblack.css" 
+[StyleManager] Applying UI style: Fusion 
+2022年01月18日 22时40分15秒 - ClientMessage for window 0x00e00006
+2022年01月18日 22时40分15秒 - ClientMessage for window 0x00e00006
+2022年01月18日 22时40分15秒 - ClientMessage for window 0x00e0000f
+2022年01月18日 22时40分15秒 - ClientMessage for window 0x00e0000f
+2022年01月18日 22时40分15秒 - WM_CLASS changed to qv2ray (instance), qv2ray (class)
+2022年01月18日 22时40分15秒 - WM_NAME changed to "Qv2ray"
+2022年01月18日 22时40分15秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时40分15秒 - _NET_WM_NAME changed to "Qv2ray"
+2022年01月18日 22时40分15秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时40分15秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时40分15秒 - Checking window 0x00e0000f (class qv2ray)
+2022年01月18日 22时40分15秒 - dock status does not match
+2022年01月18日 22时40分15秒 - Checking window 0x00e0000f (class qv2ray)
+2022年01月18日 22时40分15秒 - dock status does not match
+2022年01月18日 22时40分15秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时40分15秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时40分15秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时40分15秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+[2542:2556:0118/224015.812858:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2542:2556:0118/224016.333469:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2542:2556:0118/224017.317288:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+2022年01月18日 22时40分18秒 - ClientMessage for window 0x00e0001d
+2022年01月18日 22时40分18秒 - ClientMessage for window 0x00e0001d
+[2542:2556:0118/224019.335126:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2542:2556:0118/224019.588710:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+2022年01月18日 22时40分20秒 - Not a managed window, ignoring UnmapNotify event
+[2542:2556:0118/224020.070368:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2542:2556:0118/224020.508678:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[RouteHandler] Processing a simple connection config 
+[RouteHandler] Added global DNS config 
+[InboundGenerator] Allocation is not used here, Not Implemented [InboundGenerator] Allocation is not used here, Not Implemented [RouteHandler] Added global inbound config [InboundGenerator] Allocation is not used here, Not Implemented [KernelHandler] Cannot disconnect when there's nothing connected. 
+[KernelHandler] Outbound protocol vmess is not a registered plugin outbound. 
+[KernelHandler] Outbound protocol freedom is not a registered plugin outbound. 
+[KernelHandler] Outbound protocol blackhole is not a registered plugin outbound. 
+[KernelHandler] Applying new outbound settings. 
+[KernelHandler] Starting kernels with V2RayIntegration. 
+[V2RayInteraction] V2Ray output: V2Ray 4.44.0 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.17.5 linux/amd64);A unified platform for anti-censorship. 
+2022年01月18日 22时40分24秒 - ClientMessage for window 0x00e00022
+2022年01月18日 22时40分24秒 - ClientMessage for window 0x00e00022
+[V2RayInteraction] V2Ray version: V2Ray 4.44.0 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.17.5 linux/amd64) [V2RayInteraction] Starting V2Ray core with test options [V2RayInteraction] Config file check passed. [V2RayInteraction] V2Ray kernel process status changed: Starting [V2RayInteraction] V2Ray kernel process status changed: Running [V2RayInteraction] Starting API [ConnectionItemWidget] ConnectionItemWidgetOnConnected signal received for: lkjvtdmwvxyv [MainWindowExtra] ProxyAddress: 127.0.0.1 
+[MainWindowExtra] HTTP Port: 8889 
+[MainWindowExtra] SOCKS Port: 1089 
+[SystemProxy] Setting up System Proxy 
+[SystemProxy] Qv2ray will set system proxy to use HTTP 
+[SystemProxy] Qv2ray will set system proxy to use SOCKS 
+2022年01月18日 22时40分24秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时40分24秒 - ClientMessage for window 0x00e00024
+2022年01月18日 22时40分24秒 - ClientMessage for window 0x00e00024
+[SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy;mode;manual [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.http;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.http;port;8889 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.ftp;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.ftp;port;8889 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.https;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.https;port;8889 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.socks;host;127.0.0.1 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy.socks;port;1089 [SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy;mode;manual [gRPCBackend] gRPC Version: 1.43.0 
+[TCPingWorker] error connecting to host: hkt3.jsqpro.in:556 connection timed out 
+2022年01月18日 22时40分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时40分30秒 - ClientMessage for window 0x00a00002
+2022年01月18日 22时40分30秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时40分31秒 - _NET_WM_NAME changed to "GitHub: Where the world builds software · GitHub - 个人 - Microsoft​ Edge"
+2022年01月18日 22时40分31秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分31秒 - dock status does not match
+2022年01月18日 22时40分31秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分31秒 - dock status does not match
+2022年01月18日 22时40分31秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分31秒 - dock status does not match
+2022年01月18日 22时40分31秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分31秒 - dock status does not match
+2022年01月18日 22时40分34秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时40分36秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时40分41秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时40分45秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时40分47秒 - ClientMessage for window 0x00a00002
+2022年01月18日 22时40分47秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时40分47秒 - _NET_WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时40分47秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分47秒 - dock status does not match
+2022年01月18日 22时40分47秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分47秒 - dock status does not match
+2022年01月18日 22时40分47秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分47秒 - dock status does not match
+2022年01月18日 22时40分47秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分47秒 - dock status does not match
+[2442:2442:0118/224052.538384:ERROR:interface_endpoint_client.cc(658)] Message 2 rejected by interface blink.mojom.WidgetHost
+[2442:2442:0118/224052.538434:ERROR:interface_endpoint_client.cc(658)] Message 2 rejected by interface blink.mojom.WidgetHost
+2022年01月18日 22时40分52秒 - _NET_WM_NAME changed to "https://jsqpro.online/user - 个人 - Microsoft​ Edge"
+2022年01月18日 22时40分52秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分52秒 - dock status does not match
+2022年01月18日 22时40分52秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分52秒 - dock status does not match
+2022年01月18日 22时40分52秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分52秒 - dock status does not match
+2022年01月18日 22时40分52秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分52秒 - dock status does not match
+2022年01月18日 22时40分52秒 - _NET_WM_NAME changed to "Just a moment... - 个人 - Microsoft​ Edge"
+2022年01月18日 22时40分52秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分52秒 - dock status does not match
+2022年01月18日 22时40分52秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分52秒 - dock status does not match
+2022年01月18日 22时40分52秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分52秒 - dock status does not match
+2022年01月18日 22时40分52秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时40分52秒 - dock status does not match
+2022年01月18日 22时41分02秒 - _NET_WM_NAME changed to "MySSR - 个人 - Microsoft​ Edge"
+2022年01月18日 22时41分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时41分02秒 - dock status does not match
+2022年01月18日 22时41分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时41分02秒 - dock status does not match
+2022年01月18日 22时41分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时41分02秒 - dock status does not match
+2022年01月18日 22时41分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时41分02秒 - dock status does not match
+2022年01月18日 22时41分44秒 - _NET_WM_NAME changed to "使用文档 丨 MySSR - 个人 - Microsoft​ Edge"
+2022年01月18日 22时41分44秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时41分44秒 - dock status does not match
+2022年01月18日 22时41分44秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时41分44秒 - dock status does not match
+2022年01月18日 22时41分44秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时41分44秒 - dock status does not match
+2022年01月18日 22时41分44秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时41分44秒 - dock status does not match
+2022年01月18日 22时42分02秒 - _NET_WM_NAME changed to "全平台APP下载 | APP - 个人 - Microsoft​ Edge"
+2022年01月18日 22时42分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时42分02秒 - dock status does not match
+2022年01月18日 22时42分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时42分02秒 - dock status does not match
+2022年01月18日 22时42分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时42分02秒 - dock status does not match
+2022年01月18日 22时42分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时42分02秒 - dock status does not match
+2022年01月18日 22时42分04秒 - _NET_WM_NAME changed to "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时42分04秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时42分04秒 - dock status does not match
+2022年01月18日 22时42分04秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时42分04秒 - dock status does not match
+2022年01月18日 22时42分04秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时42分04秒 - dock status does not match
+2022年01月18日 22时42分04秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时42分04秒 - dock status does not match
+2022年01月18日 22时42分04秒 - ClientMessage for window 0x00a00002
+2022年01月18日 22时42分04秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+[2442:2442:0118/224206.272564:ERROR:smartscreen_dns_resolver.cc(103)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://jsqpro.online/
+2022年01月18日 22时42分06秒 - _NET_WM_NAME changed to "Releases · Fndroid/clash_for_windows_pkg · GitHub 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时42分06秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时42分06秒 - dock status does not match
+2022年01月18日 22时42分06秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时42分06秒 - dock status does not match
+2022年01月18日 22时42分06秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时42分06秒 - dock status does not match
+2022年01月18日 22时42分06秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时42分06秒 - dock status does not match
+2022年01月18日 22时42分45秒 - ClientMessage for window 0x00c0000d
+2022年01月18日 22时42分45秒 - WM_CLASS changed to microsoft-edge (instance), Microsoft-edge (class)
+2022年01月18日 22时42分45秒 - WM_NAME changed to "$(A1#4fND<~"
+2022年01月18日 22时42分45秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时42分45秒 - _NET_WM_NAME changed to "保存文件"
+2022年01月18日 22时42分45秒 - WM_WINDOW_ROLE changed to "GtkFileChooserDialog"
+2022年01月18日 22时42分45秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时42分45秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时42分45秒 - Checking window 0x00c0000d (class Microsoft-edge)
+2022年01月18日 22时42分45秒 - dock status does not match
+2022年01月18日 22时42分45秒 - Checking window 0x00c0000d (class Microsoft-edge)
+2022年01月18日 22时42分45秒 - dock status does not match
+2022年01月18日 22时42分45秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时42分45秒 - This window is a dialog window, setting floating
+2022年01月18日 22时42分45秒 - This window is transient for another window, setting floating
+2022年01月18日 22时42分45秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时42分45秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时42分45秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时42分45秒 - ClientMessage for window 0x00c0000d
+2022年01月18日 22时42分45秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时42分45秒 - Checking window 0x00c0000d (class Microsoft-edge)
+2022年01月18日 22时42分45秒 - dock status does not match
+2022年01月18日 22时42分45秒 - Checking window 0x00c0000d (class Microsoft-edge)
+2022年01月18日 22时42分45秒 - dock status does not match
+2022年01月18日 22时42分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时42分48秒 - expose event for unknown window, ignoring
+2022年01月18日 22时42分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时42分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时42分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时42分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时42分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时43分32秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时43分45秒 - _NET_WM_NAME changed to "全平台APP下载 | APP - 个人 - Microsoft​ Edge"
+2022年01月18日 22时43分45秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时43分45秒 - dock status does not match
+2022年01月18日 22时43分45秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时43分45秒 - dock status does not match
+2022年01月18日 22时43分45秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时43分45秒 - dock status does not match
+2022年01月18日 22时43分45秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时43分45秒 - dock status does not match
+2022年01月18日 22时44分57秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时45分01秒 - executing: rofi -modi drun,run -show drun
+
+(process:3794): GLib-CRITICAL **: 22:45:02.372: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+Gtk-Message: 22:45:02.427: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:45:02.427: Failed to load module "window-decorations-gtk-module"
+
+** (nemo:3814): WARNING **: 22:45:02.437: Current gtk theme is not known to have nemo support (Breeze) - checking...
+
+** (nemo:3814): WARNING **: 22:45:02.472: The theme appears to have no nemo support.  Adding some...
+2022年01月18日 22时45分02秒 - ClientMessage for window 0x01a00028
+2022年01月18日 22时45分02秒 - WM_CLASS changed to nemo (instance), Nemo (class)
+2022年01月18日 22时45分02秒 - WM_NAME changed to "Home"
+2022年01月18日 22时45分02秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时45分02秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 22时45分02秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时45分02秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时45分02秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分02秒 - dock status does not match
+2022年01月18日 22时45分02秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分02秒 - dock status does not match
+2022年01月18日 22时45分02秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时45分02秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时45分02秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时45分02秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时45分02秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 22时45分02秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分02秒 - dock status does not match
+2022年01月18日 22时45分02秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分02秒 - dock status does not match
+2022年01月18日 22时45分02秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分02秒 - dock status does not match
+2022年01月18日 22时45分02秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分02秒 - dock status does not match
+2022年01月18日 22时45分02秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 22时45分02秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分02秒 - dock status does not match
+2022年01月18日 22时45分02秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分02秒 - dock status does not match
+2022年01月18日 22时45分02秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分02秒 - dock status does not match
+2022年01月18日 22时45分02秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分02秒 - dock status does not match
+2022年01月18日 22时45分05秒 - _NET_WM_NAME changed to "ARCH_202201"
+2022年01月18日 22时45分05秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分05秒 - dock status does not match
+2022年01月18日 22时45分05秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分05秒 - dock status does not match
+2022年01月18日 22时45分05秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分05秒 - dock status does not match
+2022年01月18日 22时45分05秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分05秒 - dock status does not match
+2022年01月18日 22时45分05秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时45分05秒 - _NET_WM_NAME changed to "ARCH_202201"
+2022年01月18日 22时45分05秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分05秒 - dock status does not match
+2022年01月18日 22时45分05秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分05秒 - dock status does not match
+2022年01月18日 22时45分05秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分05秒 - dock status does not match
+2022年01月18日 22时45分05秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分05秒 - dock status does not match
+2022年01月18日 22时45分05秒 - _NET_WM_NAME changed to "ARCH_202201"
+2022年01月18日 22时45分05秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分05秒 - dock status does not match
+2022年01月18日 22时45分05秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分05秒 - dock status does not match
+2022年01月18日 22时45分05秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分05秒 - dock status does not match
+2022年01月18日 22时45分05秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分05秒 - dock status does not match
+2022年01月18日 22时45分08秒 - ClientMessage for window 0x01a006ed
+2022年01月18日 22时45分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时45分13秒 - _NET_WM_NAME changed to "Desktop"
+2022年01月18日 22时45分13秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分13秒 - dock status does not match
+2022年01月18日 22时45分13秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分13秒 - dock status does not match
+2022年01月18日 22时45分13秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分13秒 - dock status does not match
+2022年01月18日 22时45分13秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分13秒 - dock status does not match
+2022年01月18日 22时45分13秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时45分13秒 - _NET_WM_NAME changed to "Desktop"
+2022年01月18日 22时45分13秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分13秒 - dock status does not match
+2022年01月18日 22时45分13秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分13秒 - dock status does not match
+2022年01月18日 22时45分13秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分13秒 - dock status does not match
+2022年01月18日 22时45分13秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分13秒 - dock status does not match
+2022年01月18日 22时45分14秒 - _NET_WM_NAME changed to "Desktop"
+2022年01月18日 22时45分14秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分14秒 - dock status does not match
+2022年01月18日 22时45分14秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分14秒 - dock status does not match
+2022年01月18日 22时45分14秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分14秒 - dock status does not match
+2022年01月18日 22时45分14秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分14秒 - dock status does not match
+2022年01月18日 22时45分15秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 22时45分15秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分15秒 - dock status does not match
+2022年01月18日 22时45分15秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分15秒 - dock status does not match
+2022年01月18日 22时45分15秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分15秒 - dock status does not match
+2022年01月18日 22时45分15秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分15秒 - dock status does not match
+2022年01月18日 22时45分15秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时45分15秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 22时45分15秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分15秒 - dock status does not match
+2022年01月18日 22时45分15秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分15秒 - dock status does not match
+2022年01月18日 22时45分15秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分15秒 - dock status does not match
+2022年01月18日 22时45分15秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分15秒 - dock status does not match
+2022年01月18日 22时45分15秒 - _NET_WM_NAME changed to "Home"
+2022年01月18日 22时45分15秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分15秒 - dock status does not match
+2022年01月18日 22时45分15秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分15秒 - dock status does not match
+2022年01月18日 22时45分15秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分15秒 - dock status does not match
+2022年01月18日 22时45分15秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分15秒 - dock status does not match
+2022年01月18日 22时45分19秒 - _NET_WM_NAME changed to "Downloads"
+2022年01月18日 22时45分19秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分19秒 - dock status does not match
+2022年01月18日 22时45分19秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分19秒 - dock status does not match
+2022年01月18日 22时45分19秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分19秒 - dock status does not match
+2022年01月18日 22时45分19秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分19秒 - dock status does not match
+2022年01月18日 22时45分19秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时45分19秒 - _NET_WM_NAME changed to "Downloads"
+2022年01月18日 22时45分19秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分19秒 - dock status does not match
+2022年01月18日 22时45分19秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分19秒 - dock status does not match
+2022年01月18日 22时45分19秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分19秒 - dock status does not match
+2022年01月18日 22时45分19秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分19秒 - dock status does not match
+2022年01月18日 22时45分19秒 - _NET_WM_NAME changed to "Downloads"
+2022年01月18日 22时45分19秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分19秒 - dock status does not match
+2022年01月18日 22时45分19秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分19秒 - dock status does not match
+2022年01月18日 22时45分19秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分19秒 - dock status does not match
+2022年01月18日 22时45分19秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时45分19秒 - dock status does not match
+2022年01月18日 22时45分20秒 - ClientMessage for window 0x01a01774
+2022年01月18日 22时45分22秒 - Not a managed window, ignoring UnmapNotify event
+
+** (nemo:3814): WARNING **: 22:45:22.606: Could not inhibit power management: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Name "org.gnome.SessionManager" does not exist
+2022年01月18日 22时45分49秒 - ClientMessage for window 0x00e0006d
+2022年01月18日 22时45分49秒 - ClientMessage for window 0x00e0006d
+2022年01月18日 22时45分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时45分50秒 - ClientMessage for window 0x00e00072
+2022年01月18日 22时45分50秒 - ClientMessage for window 0x00e00072
+[V2RayInteraction] V2Ray kernel process status changed: NotRunning [SystemProxy] Clearing System Proxy 
+2022年01月18日 22时45分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时45分50秒 - ClientMessage for window 0x00e00074
+2022年01月18日 22时45分50秒 - ClientMessage for window 0x00e00074
+[SystemProxy] [0] Program: gsettings, Args: set;org.gnome.system.proxy;mode;none [KernelHandler] Cannot disconnect when there's nothing connected. 
+[PluginHost] Saving plugin settings for: "builtin_subscription_support" 
+[PluginHost] Saving plugin settings for: "qvplugin_builtin_protocol" 
+2022年01月18日 22时45分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时45分50秒 - expose event for unknown window, ignoring
+2022年01月18日 22时45分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时45分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时45分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时45分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时45分50秒 - Not a managed window, ignoring UnmapNotify event
+[ConfigHandler] Triggering save settings from destructor 
+[KernelHandler] Cannot disconnect when there's nothing connected. 
+[gRPCBackend] API thread stopped 
+[PluginHost] Saving plugin settings for: "builtin_subscription_support" 
+[PluginHost] Saving plugin settings for: "qvplugin_builtin_protocol" 
+2022年01月18日 22时45分51秒 - ClientMessage for window 0x01a01774
+2022年01月18日 22时45分52秒 - Not a managed window, ignoring UnmapNotify event
+Gtk-Message: 22:45:53.067: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:45:53.067: Failed to load module "window-decorations-gtk-module"
+2022年01月18日 22时45分53秒 - ClientMessage for window 0x00e00007
+2022年01月18日 22时45分53秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年01月18日 22时45分53秒 - WM_NAME changed to "None"
+2022年01月18日 22时45分53秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时45分53秒 - _NET_WM_NAME changed to "None"
+2022年01月18日 22时45分53秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时45分53秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时45分53秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时45分53秒 - dock status does not match
+2022年01月18日 22时45分53秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时45分53秒 - dock status does not match
+2022年01月18日 22时45分53秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时45分53秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时45分53秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时45分53秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时45分53秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年01月18日 22时45分53秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时45分53秒 - dock status does not match
+2022年01月18日 22时45分53秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时45分53秒 - dock status does not match
+2022年01月18日 22时45分53秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时45分53秒 - dock status does not match
+2022年01月18日 22时45分53秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时45分53秒 - dock status does not match
+2022年01月18日 22时45分53秒 - _NET_WM_NAME changed to "alex@alexarch:~/Downloads"
+2022年01月18日 22时45分53秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时45分53秒 - dock status does not match
+2022年01月18日 22时45分53秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时45分53秒 - dock status does not match
+2022年01月18日 22时45分53秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时45分53秒 - dock status does not match
+2022年01月18日 22时45分53秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时45分53秒 - dock status does not match
+2022年01月18日 22时46分12秒 - _NET_WM_NAME changed to "tar zxvf Clash.for.Windows-0.19.5-x64-linux.tar.gz"
+2022年01月18日 22时46分12秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分12秒 - dock status does not match
+2022年01月18日 22时46分12秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分12秒 - dock status does not match
+2022年01月18日 22时46分12秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分12秒 - dock status does not match
+2022年01月18日 22时46分12秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分12秒 - dock status does not match
+2022年01月18日 22时46分12秒 - _NET_WM_NAME changed to "Downloads"
+2022年01月18日 22时46分12秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分12秒 - dock status does not match
+2022年01月18日 22时46分12秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分12秒 - dock status does not match
+2022年01月18日 22时46分12秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分12秒 - dock status does not match
+2022年01月18日 22时46分12秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分12秒 - dock status does not match
+2022年01月18日 22时46分15秒 - _NET_WM_NAME changed to "alex@alexarch:~/Downloads"
+2022年01月18日 22时46分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分15秒 - dock status does not match
+2022年01月18日 22时46分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分15秒 - dock status does not match
+2022年01月18日 22时46分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分15秒 - dock status does not match
+2022年01月18日 22时46分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分15秒 - dock status does not match
+2022年01月18日 22时46分17秒 - _NET_WM_NAME changed to "Downloads"
+2022年01月18日 22时46分17秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分17秒 - dock status does not match
+2022年01月18日 22时46分17秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分17秒 - dock status does not match
+2022年01月18日 22时46分17秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分17秒 - dock status does not match
+2022年01月18日 22时46分17秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分17秒 - dock status does not match
+2022年01月18日 22时46分18秒 - ClientMessage for window 0x01a04122
+2022年01月18日 22时46分18秒 - ClientMessage for window 0x01a0412b
+2022年01月18日 22时46分18秒 - ClientMessage for window 0x01a0413a
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+
+** (nemo:3814): WARNING **: 22:46:19.735: Could not inhibit power management: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Name "org.gnome.SessionManager" does not exist
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分19秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - _NET_WM_NAME changed to "Downloads"
+2022年01月18日 22时46分20秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分20秒 - dock status does not match
+2022年01月18日 22时46分20秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分20秒 - dock status does not match
+2022年01月18日 22时46分20秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分20秒 - dock status does not match
+2022年01月18日 22时46分20秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分20秒 - dock status does not match
+2022年01月18日 22时46分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分20秒 - _NET_WM_NAME changed to "alex@alexarch:~/Downloads"
+2022年01月18日 22时46分20秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分20秒 - dock status does not match
+2022年01月18日 22时46分20秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分20秒 - dock status does not match
+2022年01月18日 22时46分20秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分20秒 - dock status does not match
+2022年01月18日 22时46分20秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分20秒 - dock status does not match
+2022年01月18日 22时46分20秒 - _NET_WM_NAME changed to "alex@alexarch:~/Downloads"
+2022年01月18日 22时46分20秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分20秒 - dock status does not match
+2022年01月18日 22时46分20秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分20秒 - dock status does not match
+2022年01月18日 22时46分20秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分20秒 - dock status does not match
+2022年01月18日 22时46分20秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月18日 22时46分20秒 - dock status does not match
+2022年01月18日 22时46分21秒 - Sending WM_DELETE to the client
+<window.Window object at 0x7fee471ba140 (terminatorlib+window+Window at 0x55cc2285c260)> is not in registered window list
+2022年01月18日 22时46分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分21秒 - expose event for unknown window, ignoring
+2022年01月18日 22时46分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分21秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分23秒 - _NET_WM_NAME changed to "Clash for Windows-0.19.5-x64-linux"
+2022年01月18日 22时46分23秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分23秒 - dock status does not match
+2022年01月18日 22时46分23秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分23秒 - dock status does not match
+2022年01月18日 22时46分23秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分23秒 - dock status does not match
+2022年01月18日 22时46分23秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分23秒 - dock status does not match
+2022年01月18日 22时46分23秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时46分23秒 - _NET_WM_NAME changed to "Clash for Windows-0.19.5-x64-linux"
+2022年01月18日 22时46分23秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分23秒 - dock status does not match
+2022年01月18日 22时46分23秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分23秒 - dock status does not match
+2022年01月18日 22时46分23秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分23秒 - dock status does not match
+2022年01月18日 22时46分23秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分23秒 - dock status does not match
+2022年01月18日 22时46分23秒 - _NET_WM_NAME changed to "Clash for Windows-0.19.5-x64-linux"
+2022年01月18日 22时46分23秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分23秒 - dock status does not match
+2022年01月18日 22时46分23秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分23秒 - dock status does not match
+2022年01月18日 22时46分23秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分23秒 - dock status does not match
+2022年01月18日 22时46分23秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时46分23秒 - dock status does not match
+Gtk-Message: 22:46:25.078: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:46:25.078: Failed to load module "window-decorations-gtk-module"
+[4049:0118/224625.183600:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+2022年01月18日 22时46分25秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年01月18日 22时46分25秒 - WM_NAME changed to "Clash for Windows"
+2022年01月18日 22时46分25秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时46分25秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年01月18日 22时46分25秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月18日 22时46分25秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时46分25秒 - Checking window 0x00e00002 (class Clash for Windows)
+2022年01月18日 22时46分25秒 - dock status does not match
+2022年01月18日 22时46分25秒 - Checking window 0x00e00002 (class Clash for Windows)
+2022年01月18日 22时46分25秒 - dock status does not match
+2022年01月18日 22时46分25秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时46分25秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时46分25秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时46分25秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时46分25秒 - ClientMessage for window 0x00e00002
+2022年01月18日 22时46分25秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时46分25秒 - ClientMessage for window 0x00e00002
+2022年01月18日 22时46分25秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时46分49秒 - Sending WM_DELETE to the client
+2022年01月18日 22时46分49秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分49秒 - expose event for unknown window, ignoring
+2022年01月18日 22时46分49秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分49秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分49秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时46分55秒 - _NET_WM_NAME changed to "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时46分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时46分55秒 - dock status does not match
+2022年01月18日 22时46分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时46分55秒 - dock status does not match
+2022年01月18日 22时46分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时46分55秒 - dock status does not match
+2022年01月18日 22时46分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时46分55秒 - dock status does not match
+2022年01月18日 22时46分55秒 - _NET_WM_NAME changed to "SwitchyOmega Options 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时46分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时46分55秒 - dock status does not match
+2022年01月18日 22时46分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时46分55秒 - dock status does not match
+2022年01月18日 22时46分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时46分55秒 - dock status does not match
+2022年01月18日 22时46分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时46分55秒 - dock status does not match
+2022年01月18日 22时46分55秒 - _NET_WM_NAME changed to "SwitchyOmega 选项 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时46分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时46分55秒 - dock status does not match
+2022年01月18日 22时46分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时46分55秒 - dock status does not match
+2022年01月18日 22时46分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时46分55秒 - dock status does not match
+2022年01月18日 22时46分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时46分55秒 - dock status does not match
+2022年01月18日 22时47分02秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时47分06秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时47分16秒 - _NET_WM_NAME changed to "Google 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时47分16秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时47分16秒 - dock status does not match
+2022年01月18日 22时47分16秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时47分16秒 - dock status does not match
+2022年01月18日 22时47分16秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时47分16秒 - dock status does not match
+2022年01月18日 22时47分16秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时47分16秒 - dock status does not match
+2022年01月18日 22时47分37秒 - executing: terminator
+Gtk-Message: 22:47:37.905: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:47:37.905: Failed to load module "window-decorations-gtk-module"
+2022年01月18日 22时47分38秒 - ClientMessage for window 0x02800007
+2022年01月18日 22时47分38秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年01月18日 22时47分38秒 - WM_NAME changed to "None"
+2022年01月18日 22时47分38秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时47分38秒 - _NET_WM_NAME changed to "None"
+2022年01月18日 22时47分38秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时47分38秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时47分38秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分38秒 - dock status does not match
+2022年01月18日 22时47分38秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分38秒 - dock status does not match
+2022年01月18日 22时47分38秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时47分38秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时47分38秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时47分38秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时47分38秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年01月18日 22时47分38秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分38秒 - dock status does not match
+2022年01月18日 22时47分38秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分38秒 - dock status does not match
+2022年01月18日 22时47分38秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分38秒 - dock status does not match
+2022年01月18日 22时47分38秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分38秒 - dock status does not match
+2022年01月18日 22时47分38秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 22时47分38秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分38秒 - dock status does not match
+2022年01月18日 22时47分38秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分38秒 - dock status does not match
+2022年01月18日 22时47分38秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分38秒 - dock status does not match
+2022年01月18日 22时47分38秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分38秒 - dock status does not match
+2022年01月18日 22时47分57秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk/WorkSpace/GitProject"
+2022年01月18日 22时47分57秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分57秒 - dock status does not match
+2022年01月18日 22时47分57秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分57秒 - dock status does not match
+2022年01月18日 22时47分57秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分57秒 - dock status does not match
+2022年01月18日 22时47分57秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时47分57秒 - dock status does not match
+2022年01月18日 22时48分02秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时48分02秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分02秒 - dock status does not match
+2022年01月18日 22时48分02秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分02秒 - dock status does not match
+2022年01月18日 22时48分02秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分02秒 - dock status does not match
+2022年01月18日 22时48分02秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分02秒 - dock status does not match
+2022年01月18日 22时48分41秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk/WorkSpace/GitProject"
+2022年01月18日 22时48分41秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分41秒 - dock status does not match
+2022年01月18日 22时48分41秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分41秒 - dock status does not match
+2022年01月18日 22时48分41秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分41秒 - dock status does not match
+2022年01月18日 22时48分41秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分41秒 - dock status does not match
+2022年01月18日 22时48分42秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk/WorkSpace/GitProject"
+2022年01月18日 22时48分42秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分42秒 - dock status does not match
+2022年01月18日 22时48分42秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分42秒 - dock status does not match
+2022年01月18日 22时48分42秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分42秒 - dock status does not match
+2022年01月18日 22时48分42秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分42秒 - dock status does not match
+2022年01月18日 22时48分44秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时48分44秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分44秒 - dock status does not match
+2022年01月18日 22时48分44秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分44秒 - dock status does not match
+2022年01月18日 22时48分44秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分44秒 - dock status does not match
+2022年01月18日 22时48分44秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分44秒 - dock status does not match
+2022年01月18日 22时48分48秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年01月18日 22时48分48秒 - WM_NAME changed to "Clash for Windows"
+2022年01月18日 22时48分48秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时48分48秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年01月18日 22时48分48秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月18日 22时48分48秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时48分48秒 - Checking window 0x00e00002 (class Clash for Windows)
+2022年01月18日 22时48分48秒 - dock status does not match
+2022年01月18日 22时48分48秒 - Checking window 0x00e00002 (class Clash for Windows)
+2022年01月18日 22时48分48秒 - dock status does not match
+2022年01月18日 22时48分48秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时48分48秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时48分48秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时48分48秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时48分48秒 - ClientMessage for window 0x00e00002
+2022年01月18日 22时48分48秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时48分48秒 - ClientMessage for window 0x00e00002
+2022年01月18日 22时48分48秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时48分52秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时48分52秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分52秒 - dock status does not match
+2022年01月18日 22时48分52秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分52秒 - dock status does not match
+2022年01月18日 22时48分52秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分52秒 - dock status does not match
+2022年01月18日 22时48分52秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时48分52秒 - dock status does not match
+2022年01月18日 22时49分23秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时49分23秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分23秒 - dock status does not match
+2022年01月18日 22时49分23秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分23秒 - dock status does not match
+2022年01月18日 22时49分23秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分23秒 - dock status does not match
+2022年01月18日 22时49分23秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分23秒 - dock status does not match
+2022年01月18日 22时49分25秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk/WorkSpace/GitProject"
+2022年01月18日 22时49分25秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分25秒 - dock status does not match
+2022年01月18日 22时49分25秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分25秒 - dock status does not match
+2022年01月18日 22时49分25秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分25秒 - dock status does not match
+2022年01月18日 22时49分25秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分25秒 - dock status does not match
+2022年01月18日 22时49分27秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时49分27秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分27秒 - dock status does not match
+2022年01月18日 22时49分27秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分27秒 - dock status does not match
+2022年01月18日 22时49分27秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分27秒 - dock status does not match
+2022年01月18日 22时49分27秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分27秒 - dock status does not match
+2022年01月18日 22时49分35秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时49分35秒 - _NET_WM_NAME changed to "git clone http://github.com/ayamir/i3-dotfiles.git"
+2022年01月18日 22时49分35秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分35秒 - dock status does not match
+2022年01月18日 22时49分35秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分35秒 - dock status does not match
+2022年01月18日 22时49分35秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分35秒 - dock status does not match
+2022年01月18日 22时49分35秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时49分35秒 - dock status does not match
+2022年01月18日 22时49分46秒 - Sending WM_DELETE to the client
+2022年01月18日 22时49分46秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时49分46秒 - expose event for unknown window, ignoring
+2022年01月18日 22时49分46秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时49分46秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时49分46秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时50分42秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk/WorkSpace/GitProject"
+2022年01月18日 22时50分42秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时50分42秒 - dock status does not match
+2022年01月18日 22时50分42秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时50分42秒 - dock status does not match
+2022年01月18日 22时50分42秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时50分42秒 - dock status does not match
+2022年01月18日 22时50分42秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时50分42秒 - dock status does not match
+2022年01月18日 22时51分47秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk/WorkSpace/GitProject"
+2022年01月18日 22时51分47秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分47秒 - dock status does not match
+2022年01月18日 22时51分47秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分47秒 - dock status does not match
+2022年01月18日 22时51分47秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分47秒 - dock status does not match
+2022年01月18日 22时51分47秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分47秒 - dock status does not match
+2022年01月18日 22时51分50秒 - _NET_WM_NAME changed to "全平台APP下载 | APP 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时51分50秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时51分50秒 - dock status does not match
+2022年01月18日 22时51分50秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时51分50秒 - dock status does not match
+2022年01月18日 22时51分50秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时51分50秒 - dock status does not match
+2022年01月18日 22时51分50秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时51分50秒 - dock status does not match
+2022年01月18日 22时51分51秒 - Sending WM_DELETE to the client
+2022年01月18日 22时51分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时51分51秒 - expose event for unknown window, ignoring
+2022年01月18日 22时51分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时51分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时51分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时51分51秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk/WorkSpace/GitProject"
+2022年01月18日 22时51分51秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分51秒 - dock status does not match
+2022年01月18日 22时51分51秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分51秒 - dock status does not match
+2022年01月18日 22时51分51秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分51秒 - dock status does not match
+2022年01月18日 22时51分51秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分51秒 - dock status does not match
+2022年01月18日 22时51分52秒 - _NET_WM_NAME changed to "Clash for Windows-0.19.5-x64-linux"
+2022年01月18日 22时51分52秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时51分52秒 - dock status does not match
+2022年01月18日 22时51分52秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时51分52秒 - dock status does not match
+2022年01月18日 22时51分53秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时51分53秒 - dock status does not match
+2022年01月18日 22时51分53秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时51分53秒 - dock status does not match
+2022年01月18日 22时51分53秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk/WorkSpace/GitProject"
+2022年01月18日 22时51分53秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分53秒 - dock status does not match
+2022年01月18日 22时51分53秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分53秒 - dock status does not match
+2022年01月18日 22时51分53秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分53秒 - dock status does not match
+2022年01月18日 22时51分53秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分53秒 - dock status does not match
+2022年01月18日 22时51分54秒 - _NET_WM_NAME changed to "alex@alexarch:~/disk/WorkSpace/GitProject"
+2022年01月18日 22时51分54秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分54秒 - dock status does not match
+2022年01月18日 22时51分54秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分54秒 - dock status does not match
+2022年01月18日 22时51分54秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分54秒 - dock status does not match
+2022年01月18日 22时51分54秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时51分54秒 - dock status does not match
+2022年01月18日 22时54分15秒 - _NET_WM_NAME changed to "alex@alexarch:~/.local/share/applications"
+2022年01月18日 22时54分15秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时54分15秒 - dock status does not match
+2022年01月18日 22时54分15秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时54分15秒 - dock status does not match
+2022年01月18日 22时54分15秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时54分15秒 - dock status does not match
+2022年01月18日 22时54分15秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时54分15秒 - dock status does not match
+2022年01月18日 22时54分29秒 - _NET_WM_NAME changed to "vim clash.desktop"
+2022年01月18日 22时54分29秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时54分29秒 - dock status does not match
+2022年01月18日 22时54分29秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时54分29秒 - dock status does not match
+2022年01月18日 22时54分29秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时54分29秒 - dock status does not match
+2022年01月18日 22时54分29秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时54分29秒 - dock status does not match
+2022年01月18日 22时55分11秒 - ClientMessage for window 0x01a01774
+2022年01月18日 22时55分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时55分12秒 - ClientMessage for window 0x01a006ed
+2022年01月18日 22时55分12秒 - _NET_WM_NAME changed to "Clash for Windows-0.19.5-x64-linux"
+2022年01月18日 22时55分12秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时55分12秒 - dock status does not match
+2022年01月18日 22时55分12秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时55分12秒 - dock status does not match
+2022年01月18日 22时55分12秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时55分12秒 - dock status does not match
+2022年01月18日 22时55分12秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时55分12秒 - dock status does not match
+2022年01月18日 22时55分13秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时55分13秒 - ClientMessage for window 0x01a1495d
+2022年01月18日 22时55分13秒 - WM_CLASS changed to file_properties (instance), Nemo (class)
+2022年01月18日 22时55分13秒 - WM_NAME changed to "cfw Properties"
+2022年01月18日 22时55分13秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时55分13秒 - _NET_WM_NAME changed to "cfw Properties"
+2022年01月18日 22时55分13秒 - WM_HINTS.input changed to "1"
+2022年01月18日 22时55分13秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时55分13秒 - Checking window 0x01a1495d (class Nemo)
+2022年01月18日 22时55分13秒 - dock status does not match
+2022年01月18日 22时55分13秒 - Checking window 0x01a1495d (class Nemo)
+2022年01月18日 22时55分13秒 - dock status does not match
+2022年01月18日 22时55分13秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时55分13秒 - This window is a dialog window, setting floating
+2022年01月18日 22时55分13秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时55分13秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时55分13秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时55分13秒 - Checking window 0x01a1495d (class Nemo)
+2022年01月18日 22时55分13秒 - dock status does not match
+2022年01月18日 22时55分13秒 - Checking window 0x01a1495d (class Nemo)
+2022年01月18日 22时55分13秒 - dock status does not match
+2022年01月18日 22时55分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时55分18秒 - expose event for unknown window, ignoring
+2022年01月18日 22时55分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时55分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时55分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时55分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时55分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时55分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时55分18秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时55分18秒 - _NET_WM_NAME changed to "vim clash.desktop"
+2022年01月18日 22时55分18秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分18秒 - dock status does not match
+2022年01月18日 22时55分18秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分18秒 - dock status does not match
+2022年01月18日 22时55分18秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分18秒 - dock status does not match
+2022年01月18日 22时55分18秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分18秒 - dock status does not match
+2022年01月18日 22时55分18秒 - _NET_WM_NAME changed to "vim clash.desktop"
+2022年01月18日 22时55分18秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分18秒 - dock status does not match
+2022年01月18日 22时55分18秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分18秒 - dock status does not match
+2022年01月18日 22时55分18秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分18秒 - dock status does not match
+2022年01月18日 22时55分18秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分18秒 - dock status does not match
+2022年01月18日 22时55分19秒 - _NET_WM_NAME changed to "vim clash.desktop"
+2022年01月18日 22时55分19秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分19秒 - dock status does not match
+2022年01月18日 22时55分19秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分19秒 - dock status does not match
+2022年01月18日 22时55分19秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分19秒 - dock status does not match
+2022年01月18日 22时55分19秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分19秒 - dock status does not match
+2022年01月18日 22时55分43秒 - _NET_WM_NAME changed to "vim clash.desktop"
+2022年01月18日 22时55分43秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分43秒 - dock status does not match
+2022年01月18日 22时55分43秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分43秒 - dock status does not match
+2022年01月18日 22时55分43秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分43秒 - dock status does not match
+2022年01月18日 22时55分43秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时55分43秒 - dock status does not match
+2022年01月18日 22时56分00秒 - ClientMessage for window 0x01a18cc6
+2022年01月18日 22时56分00秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时56分00秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时56分00秒 - executing: rofi -modi drun,run -show drun
+
+(process:4509): GLib-CRITICAL **: 22:56:01.974: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+Gtk-Message: 22:56:02.081: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:56:02.081: Failed to load module "window-decorations-gtk-module"
+[4529:4529:0118/225602.124102:ERROR:assistance_home_client.cc(23)] File path /home/alex/.config/microsoft-edge/Default
+2022年01月18日 22时56分02秒 - WM_CLASS changed to microsoft-edge (instance), Microsoft-edge (class)
+2022年01月18日 22时56分02秒 - WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时56分02秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 22时56分02秒 - _NET_WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时56分02秒 - WM_WINDOW_ROLE changed to "browser"
+2022年01月18日 22时56分02秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 22时56分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分02秒 - dock status does not match
+2022年01月18日 22时56分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分02秒 - dock status does not match
+2022年01月18日 22时56分02秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时56分02秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时56分02秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时56分02秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时56分02秒 - ClientMessage for window 0x00a00002
+2022年01月18日 22时56分02秒 - ClientMessage for window 0x00a00002
+2022年01月18日 22时56分02秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+[4529:4725:0118/225602.222449:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[4529:4725:0118/225602.222578:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[4529:4725:0118/225602.222680:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[4626:4626:0118/225603.813034:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[4529:4557:0118/225604.481699:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[4529:4557:0118/225604.703610:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+2022年01月18日 22时56分06秒 - _NET_WM_NAME changed to "clash - Bing - 个人 - Microsoft​ Edge"
+2022年01月18日 22时56分06秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分06秒 - dock status does not match
+2022年01月18日 22时56分06秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分06秒 - dock status does not match
+2022年01月18日 22时56分06秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分06秒 - dock status does not match
+2022年01月18日 22时56分06秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分06秒 - dock status does not match
+2022年01月18日 22时56分11秒 - _NET_WM_NAME changed to "clash - Bing images - 个人 - Microsoft​ Edge"
+2022年01月18日 22时56分11秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分11秒 - dock status does not match
+2022年01月18日 22时56分11秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分11秒 - dock status does not match
+2022年01月18日 22时56分11秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分11秒 - dock status does not match
+2022年01月18日 22时56分11秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分11秒 - dock status does not match
+2022年01月18日 22时56分14秒 - _NET_WM_NAME changed to "vim clash.desktop"
+2022年01月18日 22时56分14秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时56分14秒 - dock status does not match
+2022年01月18日 22时56分14秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时56分14秒 - dock status does not match
+2022年01月18日 22时56分14秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时56分14秒 - dock status does not match
+2022年01月18日 22时56分14秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时56分14秒 - dock status does not match
+2022年01月18日 22时56分15秒 - should move window to workspace 2
+2022年01月18日 22时56分15秒 - Creating new workspace "2"
+2022年01月18日 22时56分15秒 - focused now = 0x5596f2a51f30 / (null)
+2022年01月18日 22时56分15秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时56分15秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时56分15秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时56分15秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a895e0
+2022年01月18日 22时56分15秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时56分15秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a895e0
+2022年01月18日 22时56分16秒 - ClientMessage for window 0x01a18cc6
+2022年01月18日 22时56分16秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时56分16秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时56分16秒 - focused now = 0x5596f2a69660 / (null)
+2022年01月18日 22时56分16秒 - workspace visible? fs = 0x5596f2a895e0, ws = 0x5596f2a60910
+2022年01月18日 22时56分16秒 - workspace visible? fs = 0x5596f2a895e0, ws = 0x5596f2a895e0
+2022年01月18日 22时56分16秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时56分16秒 - workspace visible? fs = 0x5596f2a895e0, ws = 0x5596f2a60910
+2022年01月18日 22时56分16秒 - workspace visible? fs = 0x5596f2a895e0, ws = 0x5596f2a895e0
+2022年01月18日 22时56分20秒 - _NET_WM_NAME changed to "clash - 国内版 Bing images - 个人 - Microsoft​ Edge"
+2022年01月18日 22时56分20秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分20秒 - dock status does not match
+2022年01月18日 22时56分20秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分20秒 - dock status does not match
+2022年01月18日 22时56分20秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分20秒 - dock status does not match
+2022年01月18日 22时56分20秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分20秒 - dock status does not match
+2022年01月18日 22时56分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时56分41秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时56分50秒 - ClientMessage for window 0x00a00002
+2022年01月18日 22时56分50秒 - workspace visible? fs = 0x5596f2a895e0, ws = 0x5596f2a895e0
+2022年01月18日 22时56分50秒 - _NET_WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时56分50秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分50秒 - dock status does not match
+2022年01月18日 22时56分50秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分50秒 - dock status does not match
+2022年01月18日 22时56分50秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分50秒 - dock status does not match
+2022年01月18日 22时56分50秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时56分50秒 - dock status does not match
+2022年01月18日 22时57分02秒 - _NET_WM_NAME changed to "clash for windows - 国内版 Bing - 个人 - Microsoft​ Edge"
+2022年01月18日 22时57分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时57分02秒 - dock status does not match
+2022年01月18日 22时57分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时57分02秒 - dock status does not match
+2022年01月18日 22时57分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时57分02秒 - dock status does not match
+2022年01月18日 22时57分02秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时57分02秒 - dock status does not match
+2022年01月18日 22时57分14秒 - _NET_WM_NAME changed to "clash for windows - 国内版 Bing images - 个人 - Microsoft​ Edge"
+2022年01月18日 22时57分14秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时57分14秒 - dock status does not match
+2022年01月18日 22时57分14秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时57分14秒 - dock status does not match
+2022年01月18日 22时57分14秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时57分14秒 - dock status does not match
+2022年01月18日 22时57分14秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时57分14秒 - dock status does not match
+2022年01月18日 22时57分25秒 - focused now = 0x5596f2a51f30 / (null)
+2022年01月18日 22时57分25秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时57分25秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时57分25秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a60910
+2022年01月18日 22时57分25秒 - workspace visible? fs = 0x5596f2a60910, ws = 0x5596f2a895e0
+2022年01月18日 22时57分25秒 - _NET_WM_NAME changed to "vim clash.desktop"
+2022年01月18日 22时57分25秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时57分25秒 - dock status does not match
+2022年01月18日 22时57分25秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时57分25秒 - dock status does not match
+2022年01月18日 22时57分25秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时57分25秒 - dock status does not match
+2022年01月18日 22时57分25秒 - Checking window 0x02800007 (class Terminator)
+2022年01月18日 22时57分25秒 - dock status does not match
+2022年01月18日 22时57分26秒 - _NET_WM_NAME changed to "Clash for Windows-0.19.5-x64-linux"
+2022年01月18日 22时57分26秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时57分26秒 - dock status does not match
+2022年01月18日 22时57分26秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时57分26秒 - dock status does not match
+2022年01月18日 22时57分26秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时57分26秒 - dock status does not match
+2022年01月18日 22时57分26秒 - Checking window 0x01a00028 (class Nemo)
+2022年01月18日 22时57分26秒 - dock status does not match
+2022年01月18日 22时57分30秒 - ClientMessage for window 0x01a18cc6
+2022年01月18日 22时57分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时57分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时57分30秒 - focused now = 0x5596f2a69660 / (null)
+2022年01月18日 22时57分30秒 - workspace visible? fs = 0x5596f2a895e0, ws = 0x5596f2a60910
+2022年01月18日 22时57分30秒 - workspace visible? fs = 0x5596f2a895e0, ws = 0x5596f2a895e0
+2022年01月18日 22时57分30秒 - workspace visible? fs = 0x5596f2a5ccd0, ws = 0x5596f2a5ccd0
+2022年01月18日 22时57分30秒 - workspace visible? fs = 0x5596f2a895e0, ws = 0x5596f2a60910
+2022年01月18日 22时57分30秒 - workspace visible? fs = 0x5596f2a895e0, ws = 0x5596f2a895e0
+2022年01月18日 22时57分33秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时57分38秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时57分41秒 - _NET_WM_NAME changed to "clash for windows - Bing images - 个人 - Microsoft​ Edge"
+2022年01月18日 22时57分41秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时57分41秒 - dock status does not match
+2022年01月18日 22时57分41秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时57分41秒 - dock status does not match
+2022年01月18日 22时57分41秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时57分41秒 - dock status does not match
+2022年01月18日 22时57分41秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时57分41秒 - dock status does not match
+2022年01月18日 22时57分42秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时58分07秒 - _NET_WM_NAME changed to "clash for windows - 国内版 Bing images - 个人 - Microsoft​ Edge"
+2022年01月18日 22时58分07秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分07秒 - dock status does not match
+2022年01月18日 22时58分07秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分07秒 - dock status does not match
+2022年01月18日 22时58分07秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分07秒 - dock status does not match
+2022年01月18日 22时58分07秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分07秒 - dock status does not match
+2022年01月18日 22时58分08秒 - _NET_WM_NAME changed to "百度一下，你就知道 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时58分08秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分08秒 - dock status does not match
+2022年01月18日 22时58分08秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分08秒 - dock status does not match
+2022年01月18日 22时58分08秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分08秒 - dock status does not match
+2022年01月18日 22时58分08秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分08秒 - dock status does not match
+2022年01月18日 22时58分16秒 - _NET_WM_NAME changed to "clash for windows_百度搜索 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时58分16秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分16秒 - dock status does not match
+2022年01月18日 22时58分16秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分16秒 - dock status does not match
+2022年01月18日 22时58分16秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分16秒 - dock status does not match
+2022年01月18日 22时58分16秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分16秒 - dock status does not match
+2022年01月18日 22时58分19秒 - _NET_WM_NAME changed to "clash for windows_百度图片搜索 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时58分19秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分19秒 - dock status does not match
+2022年01月18日 22时58分19秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分19秒 - dock status does not match
+2022年01月18日 22时58分19秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分19秒 - dock status does not match
+2022年01月18日 22时58分19秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分19秒 - dock status does not match
+[5603:26:0118/225828.697254:ERROR:sdp_offer_answer.cc(3122)] The order of m-lines in subsequent offer doesn't match order from previous offer/answer. (INVALID_PARAMETER)
+[5603:26:0118/225828.697435:ERROR:sdp_offer_answer.cc(1924)] Failed to set local offer sdp: The order of m-lines in subsequent offer doesn't match order from previous offer/answer.
+2022年01月18日 22时58分37秒 - _NET_WM_NAME changed to "clash_百度图片搜索 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时58分37秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分37秒 - dock status does not match
+2022年01月18日 22时58分37秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分37秒 - dock status does not match
+2022年01月18日 22时58分37秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分37秒 - dock status does not match
+2022年01月18日 22时58分37秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分37秒 - dock status does not match
+[5603:26:0118/225839.825359:ERROR:sdp_offer_answer.cc(3122)] The order of m-lines in subsequent offer doesn't match order from previous offer/answer. (INVALID_PARAMETER)
+[5603:26:0118/225839.825442:ERROR:sdp_offer_answer.cc(1924)] Failed to set local offer sdp: The order of m-lines in subsequent offer doesn't match order from previous offer/answer.
+2022年01月18日 22时58分43秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时58分44秒 - _NET_WM_NAME changed to "clash for windows_百度图片搜索 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时58分44秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分44秒 - dock status does not match
+2022年01月18日 22时58分44秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分44秒 - dock status does not match
+2022年01月18日 22时58分44秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分44秒 - dock status does not match
+2022年01月18日 22时58分44秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分44秒 - dock status does not match
+[5603:26:0118/225844.539292:ERROR:sdp_offer_answer.cc(3122)] The order of m-lines in subsequent offer doesn't match order from previous offer/answer. (INVALID_PARAMETER)
+[5603:26:0118/225844.539500:ERROR:sdp_offer_answer.cc(1924)] Failed to set local offer sdp: The order of m-lines in subsequent offer doesn't match order from previous offer/answer.
+2022年01月18日 22时58分45秒 - _NET_WM_NAME changed to "clash for windows_百度搜索 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时58分45秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分45秒 - dock status does not match
+2022年01月18日 22时58分45秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分45秒 - dock status does not match
+2022年01月18日 22时58分45秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分45秒 - dock status does not match
+2022年01月18日 22时58分45秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分45秒 - dock status does not match
+2022年01月18日 22时58分49秒 - _NET_WM_NAME changed to "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时58分49秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分49秒 - dock status does not match
+2022年01月18日 22时58分49秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分49秒 - dock status does not match
+2022年01月18日 22时58分49秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分49秒 - dock status does not match
+2022年01月18日 22时58分49秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分49秒 - dock status does not match
+2022年01月18日 22时58分49秒 - ClientMessage for window 0x00a00002
+2022年01月18日 22时58分49秒 - workspace visible? fs = 0x5596f2a895e0, ws = 0x5596f2a895e0
+2022年01月18日 22时58分51秒 - _NET_WM_NAME changed to "clash for windows_百度搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时58分51秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分51秒 - dock status does not match
+2022年01月18日 22时58分51秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分51秒 - dock status does not match
+2022年01月18日 22时58分51秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分51秒 - dock status does not match
+2022年01月18日 22时58分51秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分51秒 - dock status does not match
+2022年01月18日 22时58分54秒 - _NET_WM_NAME changed to "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时58分54秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分54秒 - dock status does not match
+2022年01月18日 22时58分54秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分54秒 - dock status does not match
+2022年01月18日 22时58分54秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分54秒 - dock status does not match
+2022年01月18日 22时58分54秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分54秒 - dock status does not match
+2022年01月18日 22时58分55秒 - _NET_WM_NAME changed to "clash for windows_百度搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时58分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分55秒 - dock status does not match
+2022年01月18日 22时58分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分55秒 - dock status does not match
+2022年01月18日 22时58分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分55秒 - dock status does not match
+2022年01月18日 22时58分55秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分55秒 - dock status does not match
+2022年01月18日 22时58分58秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时58分58秒 - _NET_WM_NAME changed to "clash for windows_百度搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时58分58秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分58秒 - dock status does not match
+2022年01月18日 22时58分58秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分58秒 - dock status does not match
+2022年01月18日 22时58分58秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分58秒 - dock status does not match
+2022年01月18日 22时58分58秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时58分58秒 - dock status does not match
+2022年01月18日 22时58分58秒 - ClientMessage for window 0x00a00002
+2022年01月18日 22时58分58秒 - workspace visible? fs = 0x5596f2a895e0, ws = 0x5596f2a895e0
+2022年01月18日 22时59分00秒 - _NET_WM_NAME changed to "https://www.baidu.com/link?url=Ddo-SitKJk_hiJwlOYBxNTwh_a_UJi48vnlkopu_i_FRLcnZO-adSCw1itgAw3ye4k7HyWe38BeaFyMe6MJ6eq&wd=&eqid=9cf52ad30000371f0000000361e6d5a4 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时59分00秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分00秒 - dock status does not match
+2022年01月18日 22时59分00秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分00秒 - dock status does not match
+2022年01月18日 22时59分00秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分00秒 - dock status does not match
+2022年01月18日 22时59分00秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分00秒 - dock status does not match
+2022年01月18日 22时59分01秒 - _NET_WM_NAME changed to "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时59分01秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分01秒 - dock status does not match
+2022年01月18日 22时59分01秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分01秒 - dock status does not match
+2022年01月18日 22时59分01秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分01秒 - dock status does not match
+2022年01月18日 22时59分01秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分01秒 - dock status does not match
+[4628:4641:0118/225901.576907:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+2022年01月18日 22时59分03秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时59分05秒 - _NET_WM_NAME changed to "clash for windows_百度搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时59分05秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分05秒 - dock status does not match
+2022年01月18日 22时59分05秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分05秒 - dock status does not match
+2022年01月18日 22时59分05秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分05秒 - dock status does not match
+2022年01月18日 22时59分05秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分05秒 - dock status does not match
+2022年01月18日 22时59分08秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时59分08秒 - _NET_WM_NAME changed to "clash for windows_百度搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时59分08秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分08秒 - dock status does not match
+2022年01月18日 22时59分08秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分08秒 - dock status does not match
+2022年01月18日 22时59分08秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分08秒 - dock status does not match
+2022年01月18日 22时59分08秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分08秒 - dock status does not match
+2022年01月18日 22时59分08秒 - ClientMessage for window 0x00a00002
+2022年01月18日 22时59分08秒 - workspace visible? fs = 0x5596f2a895e0, ws = 0x5596f2a895e0
+2022年01月18日 22时59分10秒 - _NET_WM_NAME changed to "https://www.baidu.com/link?url=Ddo-SitKJk_hiJwlOYBxNTwh_a_UJi48vnlkopu_i_FRLcnZO-adSCw1itgAw3ye4k7HyWe38BeaFyMe6MJ6eq&wd=&eqid=9cf52ad30000371f0000000361e6d5a4 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时59分10秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分10秒 - dock status does not match
+2022年01月18日 22时59分10秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分10秒 - dock status does not match
+2022年01月18日 22时59分10秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分10秒 - dock status does not match
+2022年01月18日 22时59分10秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分10秒 - dock status does not match
+2022年01月18日 22时59分10秒 - _NET_WM_NAME changed to "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时59分10秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分10秒 - dock status does not match
+2022年01月18日 22时59分10秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分10秒 - dock status does not match
+2022年01月18日 22时59分10秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分10秒 - dock status does not match
+2022年01月18日 22时59分10秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分10秒 - dock status does not match
+[4529:4529:0118/225910.909910:ERROR:smartscreen_dns_resolver.cc(103)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://www.baidu.com/link?url=q-T3VpTz-82fknVwwBpIjqttg01oECYQ6QJQ7bGGL7RPudSYtNuN8dtGOG9PtYOhbUfr9POlctIdlI5tg3ZvdobVzPc0Q00DbU4x9u5VRTC&wd=&eqid=9cf52ad30000371f0000000361e6d5a4
+[4529:4529:0118/225910.910173:ERROR:smartscreen_dns_resolver.cc(103)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=clash%20for%20windows&fenlei=256&rsv_pq=85e9ea970014e398&rsv_t=65b0a6Jcf0%2BxVz236%2FvGuF8E0xRVuMCrOc34eyW2AzlnLlzYbKymFBYxUZo&rqlang=cn&rsv_dl=tb&rsv_enter=1&rsv_sug3=28&rsv_sug1=10&rsv_sug7=101&rsv_sug2=0&rsv_btype=i&inputT=3938&rsv_sug4=4669
+2022年01月18日 22时59分11秒 - _NET_WM_NAME changed to "https://www.baidu.com/link?url=q-T3VpTz-82fknVwwBpIjqttg01oECYQ6QJQ7bGGL7RPudSYtNuN8dtGOG9PtYOhbUfr9POlctIdlI5tg3ZvdobVzPc0Q00DbU4x9u5VRTC&wd=&eqid=9cf52ad30000371f0000000361e6d5a4 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时59分11秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分11秒 - dock status does not match
+2022年01月18日 22时59分11秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分11秒 - dock status does not match
+2022年01月18日 22时59分11秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分11秒 - dock status does not match
+2022年01月18日 22时59分11秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分11秒 - dock status does not match
+2022年01月18日 22时59分13秒 - _NET_WM_NAME changed to "clash for windows_百度搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时59分13秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分13秒 - dock status does not match
+2022年01月18日 22时59分13秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分13秒 - dock status does not match
+2022年01月18日 22时59分13秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分13秒 - dock status does not match
+2022年01月18日 22时59分13秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分13秒 - dock status does not match
+[4628:4641:0118/225913.913472:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+2022年01月18日 22时59分14秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 22时59分14秒 - _NET_WM_NAME changed to "clash for windows_百度搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge"
+2022年01月18日 22时59分14秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分14秒 - dock status does not match
+2022年01月18日 22时59分14秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分14秒 - dock status does not match
+2022年01月18日 22时59分14秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分14秒 - dock status does not match
+2022年01月18日 22时59分14秒 - Checking window 0x00a00002 (class Microsoft-edge)
+2022年01月18日 22时59分14秒 - dock status does not match
+2022年01月18日 22时59分14秒 - ClientMessage for window 0x00a00002
+2022年01月18日 22时59分14秒 - workspace visible? fs = 0x5596f2a895e0, ws = 0x5596f2a895e0
+2022年01月18日 22时59分17秒 - Not a managed window, ignoring UnmapNotify event
+                                                                                                                                                                                                                                                                                                                                                                                                  

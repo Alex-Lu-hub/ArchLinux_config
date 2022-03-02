@@ -1,0 +1,907 @@
+2022年01月18日 23时30分36秒 - i3 4.20.1 (2021-11-03) starting
+2022年01月18日 23时30分36秒 - Parsing configfile /home/alex/.config/i3/config
+2022年01月18日 23时30分36秒 - Changing working directory to config file directory /home/alex/.config/i3
+2022年01月18日 23时30分36秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2022年01月18日 23时30分36秒 - [libi3] ../i3-4.20.1/libi3/font.c Using Pango font monospace, size 8
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b23099ca80, ws = 0x55b23099ca80
+2022年01月18日 23时30分36秒 - focused now = 0x55b23099ca80 / 1
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b23099ca80, ws = 0x55b23099ca80
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时30分36秒 - This is not an in-place restart, checking if a wallpaper is set.
+2022年01月18日 23时30分36秒 - A wallpaper is set, so no screenshot is necessary.
+2022年01月18日 23时30分36秒 - auto-starting dex --autostart --environment i3
+2022年01月18日 23时30分36秒 - executing: dex --autostart --environment i3
+2022年01月18日 23时30分36秒 - auto-starting xss-lock --transfer-sleep-lock -- i3lock --nofork
+2022年01月18日 23时30分36秒 - executing: xss-lock --transfer-sleep-lock -- i3lock --nofork
+2022年01月18日 23时30分36秒 - auto-starting nm-applet
+2022年01月18日 23时30分36秒 - executing: nm-applet
+2022年01月18日 23时30分36秒 - auto-starting $HOME/.config/i3/bin/i3bar
+2022年01月18日 23时30分36秒 - executing: $HOME/.config/i3/bin/i3bar
+2022年01月18日 23时30分36秒 - Starting bar process: exec i3bar  --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.624"
+2022年01月18日 23时30分36秒 - executing: exec i3bar  --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.624"
+/bin/sh:行1: xss-lock：未找到命令
+/bin/sh:行1: dex：未找到命令
+/bin/sh:行1: nm-applet：未找到命令
+2022年01月18日 23时30分36秒 - IPC: looking for config for bar ID "bar-0"
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b23099ca80, ws = 0x55b23099ca80
+2022年01月18日 23时30分36秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 23时30分36秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 23时30分36秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时30分36秒 - This window is of type dock
+2022年01月18日 23时30分36秒 - Checking window 0x00800006 (class i3bar)
+2022年01月18日 23时30分36秒 - dock status does not match
+2022年01月18日 23时30分36秒 - Checking window 0x00800006 (class i3bar)
+2022年01月18日 23时30分36秒 - dock status matches
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b23099ca80, ws = 0x55b23099ca80
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时30分36秒 - ClientMessage for window 0x000001cd
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b23099ca80, ws = 0x55b23099ca80
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+polybar|notice:  Parsing config file: /home/alex/.config/i3/polybar/config
+2022年01月18日 23时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时30分36秒 - expose event for unknown window, ignoring
+2022年01月18日 23时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时30分36秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 23时30分36秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 23时30分36秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时30分36秒 - This window is of type dock
+2022年01月18日 23时30分36秒 - Checking window 0x00800015 (class i3bar)
+2022年01月18日 23时30分36秒 - dock status does not match
+2022年01月18日 23时30分36秒 - Checking window 0x00800015 (class i3bar)
+2022年01月18日 23时30分36秒 - dock status matches
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b23099ca80, ws = 0x55b23099ca80
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时30分36秒 - expose event for unknown window, ignoring
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b23099ca80, ws = 0x55b23099ca80
+2022年01月18日 23时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时30分36秒 - WM_CLASS changed to bar-0 (instance), i3bar (class)
+2022年01月18日 23时30分36秒 - WM_NAME changed to "i3bar for output eDP1"
+2022年01月18日 23时30分36秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时30分36秒 - This window is of type dock
+2022年01月18日 23时30分36秒 - Checking window 0x0080001b (class i3bar)
+2022年01月18日 23时30分36秒 - dock status does not match
+2022年01月18日 23时30分36秒 - Checking window 0x0080001b (class i3bar)
+2022年01月18日 23时30分36秒 - dock status matches
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b23099ca80, ws = 0x55b23099ca80
+polybar|warn:  The config parameter 'settings.throttle-input-for' is deprecated, it will be removed in the future. Please remove it from your config
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b23099ca80, ws = 0x55b23099ca80
+polybar|error: Disabling module "network" (reason: Invalid network interface "wlan0")
+polybar|error: module/mpd: Connection refused
+polybar|error: Disabling module "volume" (reason: Could not connect pulseaudio context.)
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|error: module/mpd: Connection refused
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=13" (name=文泉驿微米黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-microhei/wqy-microhei.ttc)
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=12" (name=文泉驿微米黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-microhei/wqy-microhei.ttc)
+polybar|notice:  Loaded font "NotoColorEmoji:pixelsize=8;1:fontformat=truetype:scale=10:antialias=true" (name=文泉驿微米黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-microhei/wqy-microhei.ttc)
+polybar|notice:  Loaded font "Weather Icons:style=Regular:size=10" (name=文泉驿微米黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-microhei/wqy-microhei.ttc)
+polybar|notice:  Loaded font "NotoSansCJK:size=12" (name=文泉驿微米黑, offset=2, file=/usr/share/fonts/wenquanyi/wqy-microhei/wqy-microhei.ttc)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+2022年01月18日 23时30分36秒 - WM_CLASS changed to polybar (instance), Polybar (class)
+2022年01月18日 23时30分36秒 - WM_NAME changed to "i3"
+2022年01月18日 23时30分36秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时30分36秒 - This window is of type dock
+2022年01月18日 23时30分36秒 - Checking window 0x00a00001 (class Polybar)
+2022年01月18日 23时30分36秒 - dock status matches
+polybar|warn:  Systray selection already managed (window=0x080000c)
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b23099ca80, ws = 0x55b23099ca80
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时30分36秒 - workspace visible? fs = 0x55b23099ca80, ws = 0x55b23099ca80
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时30分54秒 - IPC: received: *workspace "1"*
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分33秒 - executing: rofi -show drun
+
+(process:699): XrmOptions-WARNING **: 23:31:33.770: Option: width is not found.
+
+(process:699): XrmOptions-WARNING **: 23:31:33.770: Option: lines is not found.
+
+(process:699): XrmOptions-WARNING **: 23:31:33.770: Option: columns is not found.
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分37秒 - executing: rofi -show drun
+
+(process:740): XrmOptions-WARNING **: 23:31:37.675: Option: width is not found.
+
+(process:740): XrmOptions-WARNING **: 23:31:37.675: Option: lines is not found.
+
+(process:740): XrmOptions-WARNING **: 23:31:37.675: Option: columns is not found.
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分46秒 - There is no workspace with number 2, creating a new one.
+2022年01月18日 23时31分46秒 - Creating new workspace "2"
+2022年01月18日 23时31分46秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b23099ca80
+2022年01月18日 23时31分46秒 - Closing old workspace (0x55b23099ca80 / 1), it is empty
+2022年01月18日 23时31分46秒 - focused now = 0x55b230982a80 / 2
+2022年01月18日 23时31分46秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分46秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时31分46秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分46秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分46秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分46秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分46秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分46秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分46秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+polybar|error: module/mpd: Connection refused
+2022年01月18日 23时31分47秒 - There is no workspace with number 1, creating a new one.
+2022年01月18日 23时31分47秒 - Creating new workspace "1"
+2022年01月18日 23时31分47秒 - workspace visible? fs = 0x55b230985060, ws = 0x55b230982a80
+2022年01月18日 23时31分47秒 - Closing old workspace (0x55b230982a80 / 2), it is empty
+2022年01月18日 23时31分47秒 - focused now = 0x55b230985060 / 1
+2022年01月18日 23时31分47秒 - workspace visible? fs = 0x55b230985060, ws = 0x55b230985060
+2022年01月18日 23时31分47秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时31分47秒 - workspace visible? fs = 0x55b230985060, ws = 0x55b230985060
+2022年01月18日 23时31分47秒 - workspace visible? fs = 0x55b230985060, ws = 0x55b230985060
+2022年01月18日 23时31分47秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分47秒 - workspace visible? fs = 0x55b230985060, ws = 0x55b230985060
+2022年01月18日 23时31分47秒 - workspace visible? fs = 0x55b230985060, ws = 0x55b230985060
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分47秒 - workspace visible? fs = 0x55b230985060, ws = 0x55b230985060
+2022年01月18日 23时31分47秒 - workspace visible? fs = 0x55b230985060, ws = 0x55b230985060
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分49秒 - executing: terminator
+Gtk-Message: 23:31:49.895: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:31:49.895: Failed to load module "window-decorations-gtk-module"
+2022年01月18日 23时31分50秒 - There is no workspace with number 2, creating a new one.
+2022年01月18日 23时31分50秒 - Creating new workspace "2"
+2022年01月18日 23时31分50秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230985060
+2022年01月18日 23时31分50秒 - Closing old workspace (0x55b230985060 / 1), it is empty
+2022年01月18日 23时31分50秒 - focused now = 0x55b230982a80 / 2
+2022年01月18日 23时31分50秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分50秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时31分50秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分50秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分50秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分50秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分50秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分50秒 - ClientMessage for window 0x00c00007
+2022年01月18日 23时31分50秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年01月18日 23时31分50秒 - WM_NAME changed to "None"
+2022年01月18日 23时31分50秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时31分50秒 - _NET_WM_NAME changed to "None"
+2022年01月18日 23时31分50秒 - WM_HINTS.input changed to "1"
+2022年01月18日 23时31分50秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 23时31分50秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分50秒 - dock status does not match
+2022年01月18日 23时31分50秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分50秒 - dock status does not match
+2022年01月18日 23时31分50秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分50秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分50秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分50秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时31分50秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分50秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年01月18日 23时31分50秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分50秒 - dock status does not match
+2022年01月18日 23时31分50秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分50秒 - dock status does not match
+2022年01月18日 23时31分50秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分50秒 - dock status does not match
+2022年01月18日 23时31分50秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分50秒 - dock status does not match
+2022年01月18日 23时31分50秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 23时31分50秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分50秒 - dock status does not match
+2022年01月18日 23时31分50秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分50秒 - dock status does not match
+2022年01月18日 23时31分50秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分50秒 - dock status does not match
+2022年01月18日 23时31分50秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分50秒 - dock status does not match
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分51秒 - There is no workspace with number 1, creating a new one.
+2022年01月18日 23时31分51秒 - Creating new workspace "1"
+2022年01月18日 23时31分51秒 - focused now = 0x55b2309872d0 / 1
+2022年01月18日 23时31分51秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分51秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时31分51秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分51秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b230982a80
+2022年01月18日 23时31分51秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分51秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b230982a80
+polybar|error: module/mpd: Connection refused
+2022年01月18日 23时31分51秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分51秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b230982a80
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分51秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分51秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b230982a80
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分52秒 - executing: terminator
+Gtk-Message: 23:31:52.392: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:31:52.392: Failed to load module "window-decorations-gtk-module"
+2022年01月18日 23时31分52秒 - ClientMessage for window 0x00c000f8
+2022年01月18日 23时31分52秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年01月18日 23时31分52秒 - WM_NAME changed to "None"
+2022年01月18日 23时31分52秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月18日 23时31分52秒 - _NET_WM_NAME changed to "None"
+2022年01月18日 23时31分52秒 - WM_HINTS.input changed to "1"
+2022年01月18日 23时31分52秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月18日 23时31分52秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+2022年01月18日 23时31分52秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+2022年01月18日 23时31分52秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分52秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分52秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分52秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时31分52秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 23时31分52秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+2022年01月18日 23时31分52秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+2022年01月18日 23时31分52秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+2022年01月18日 23时31分52秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+2022年01月18日 23时31分52秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分52秒 - ClientMessage for window 0x00c000f8
+2022年01月18日 23时31分52秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分52秒 - ClientMessage for window 0x00c000f8
+2022年01月18日 23时31分52秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分52秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年01月18日 23时31分52秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+2022年01月18日 23时31分52秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+2022年01月18日 23时31分52秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+2022年01月18日 23时31分52秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分52秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 23时31分52秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+2022年01月18日 23时31分52秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+2022年01月18日 23时31分52秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+2022年01月18日 23时31分52秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分52秒 - dock status does not match
+polybar|error: module/mpd: Connection refused
+2022年01月18日 23时31分53秒 - focused now = 0x55b230985060 / (null)
+2022年01月18日 23时31分53秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b2309872d0
+2022年01月18日 23时31分53秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分53秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时31分53秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b2309872d0
+2022年01月18日 23时31分53秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分53秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b2309872d0
+2022年01月18日 23时31分53秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分53秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 23时31分53秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分53秒 - dock status does not match
+2022年01月18日 23时31分53秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分53秒 - dock status does not match
+2022年01月18日 23时31分53秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分53秒 - dock status does not match
+2022年01月18日 23时31分53秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分53秒 - dock status does not match
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分53秒 - focused now = 0x55b23098e8c0 / (null)
+2022年01月18日 23时31分53秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分53秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时31分53秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分53秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b230982a80
+2022年01月18日 23时31分53秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分53秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b230982a80
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分53秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 23时31分53秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分53秒 - dock status does not match
+2022年01月18日 23时31分53秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分53秒 - dock status does not match
+2022年01月18日 23时31分53秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分53秒 - dock status does not match
+2022年01月18日 23时31分53秒 - Checking window 0x00c000f8 (class Terminator)
+2022年01月18日 23时31分53秒 - dock status does not match
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分54秒 - Sending WM_DELETE to the client
+<window.Window object at 0x7f0fb4073f80 (terminatorlib+window+Window at 0x55e702b02500)> is not in registered window list
+2022年01月18日 23时31分54秒 - workspace visible? fs = 0x55b2309872d0, ws = 0x55b2309872d0
+2022年01月18日 23时31分54秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分54秒 - expose event for unknown window, ignoring
+2022年01月18日 23时31分54秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分54秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分54秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分54秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分54秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分56秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b2309872d0
+2022年01月18日 23时31分56秒 - Closing old workspace (0x55b2309872d0 / 1), it is empty
+2022年01月18日 23时31分56秒 - focused now = 0x55b230985060 / (null)
+2022年01月18日 23时31分56秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分56秒 - workspace visible? fs = 0x55b230998f50, ws = 0x55b230998f50
+2022年01月18日 23时31分56秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分56秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分56秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分56秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分56秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分56秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月18日 23时31分56秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分56秒 - dock status does not match
+2022年01月18日 23时31分56秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分56秒 - dock status does not match
+2022年01月18日 23时31分56秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分56秒 - dock status does not match
+2022年01月18日 23时31分56秒 - Checking window 0x00c00007 (class Terminator)
+2022年01月18日 23时31分56秒 - dock status does not match
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+2022年01月18日 23时31分56秒 - Sending WM_DELETE to the client
+<window.Window object at 0x7f0fdb7131c0 (terminatorlib+window+Window at 0x55e702b02260)> is not in registered window list
+2022年01月18日 23时31分56秒 - workspace visible? fs = 0x55b230982a80, ws = 0x55b230982a80
+2022年01月18日 23时31分56秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分56秒 - expose event for unknown window, ignoring
+2022年01月18日 23时31分56秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分56秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分56秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分56秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月18日 23时31分56秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+f85a) in ''
+polybar|warn:  Dropping unmatched character ﬙ (U+fb19) in '﬙'
+polybar|warn:  Dropping unmatched character  (U+f5dc) in ''
+polybar|warn:  Dropping unmatched character  (U+f017) in ' '
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

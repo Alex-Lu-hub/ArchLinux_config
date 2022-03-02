@@ -1,0 +1,2460 @@
+2022年01月21日 14时26分53秒 - i3 4.20.1 (2021-11-03) starting
+2022年01月21日 14时26分53秒 - Parsing configfile /home/alex/.config/i3/config
+2022年01月21日 14时26分53秒 - Changing working directory to config file directory /home/alex/.config/i3
+2022年01月21日 14时26分53秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2022年01月21日 14时26分53秒 - [libi3] ../i3-4.20.1/libi3/font.c Using Pango font Input Nerd Font, size 9
+2022年01月21日 14时26分53秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时26分53秒 - focused now = 0x55f385f7b150 / 1
+2022年01月21日 14时26分53秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时26分53秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时26分53秒 - This is not an in-place restart, checking if a wallpaper is set.
+2022年01月21日 14时26分53秒 - A wallpaper is set, so no screenshot is necessary.
+2022年01月21日 14时26分53秒 - auto-starting xautolock -time 5 -locker '/usr/bin/betterlockscreen -l' -corners ---- -cornersize 30 &
+2022年01月21日 14时26分53秒 - executing: xautolock -time 5 -locker '/usr/bin/betterlockscreen -l' -corners ---- -cornersize 30 &
+2022年01月21日 14时26分53秒 - auto-starting fcitx5
+2022年01月21日 14时26分53秒 - executing: fcitx5
+2022年01月21日 14时26分53秒 - auto-starting dunst
+2022年01月21日 14时26分53秒 - executing: dunst
+2022年01月21日 14时26分53秒 - auto-starting '/home/alex/Downloads/Clash for Windows-0.19.5-x64-linux/cfw'
+2022年01月21日 14时26分53秒 - executing: '/home/alex/Downloads/Clash for Windows-0.19.5-x64-linux/cfw'
+2022年01月21日 14时26分53秒 - auto-starting feh --bg-fill feh/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+2022年01月21日 14时26分53秒 - executing: feh --bg-fill feh/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+2022年01月21日 14时26分53秒 - auto-starting picom -b
+2022年01月21日 14时26分53秒 - executing: picom -b
+2022年01月21日 14时26分53秒 - auto-starting $HOME/.config/i3/bin/i3bar
+2022年01月21日 14时26分53秒 - executing: $HOME/.config/i3/bin/i3bar
+[ 2022年01月21日 14:26:53.902 parse_config_libconfig WARN ] Invalid blur method dual_kawase, ignoring.
+WARNING: Setting geometry in section global doesn't exist
+WARNING: Setting notification_height in section global doesn't exist
+WARNING: Setting startup_notification in section global doesn't exist
+WARNING: Setting verbosity in section global doesn't exist
+WARNING: Section shortcuts is deprecated.
+Acting on notifications has been moved to its own utility. For more information, see the manual for dunstctl.
+Ignoring this section.
+I2022-01-21 14:26:53.908488 instance.cpp:1404] Override Enabled Addons: {}
+I2022-01-21 14:26:53.908582 instance.cpp:1405] Override Disabled Addons: {}
+I2022-01-21 14:26:53.917061 addonmanager.cpp:191] Loaded addon wayland
+I2022-01-21 14:26:53.917908 addonmanager.cpp:191] Loaded addon imselector
+I2022-01-21 14:26:53.922007 addonmanager.cpp:191] Loaded addon xcb
+I2022-01-21 14:26:53.926669 addonmanager.cpp:191] Loaded addon quickphrase
+I2022-01-21 14:26:53.927895 addonmanager.cpp:191] Loaded addon waylandim
+I2022-01-21 14:26:53.938091 addonmanager.cpp:191] Loaded addon keyboard
+I2022-01-21 14:26:53.940602 addonmanager.cpp:191] Loaded addon clipboard
+I2022-01-21 14:26:53.941492 addonmanager.cpp:191] Loaded addon unicode
+I2022-01-21 14:26:53.943801 addonmanager.cpp:191] Loaded addon dbus
+I2022-01-21 14:26:53.945191 addonmanager.cpp:191] Loaded addon dbusfrontend
+polybar|notice:  Parsing config file: /home/alex/.config/i3/polybar/config
+I2022-01-21 14:26:53.949168 addonmanager.cpp:191] Loaded addon fcitx4frontend
+I2022-01-21 14:26:53.955651 addonmanager.cpp:191] Loaded addon ibusfrontend
+I2022-01-21 14:26:53.958010 addonmanager.cpp:191] Loaded addon xim
+polybar|warn:  The config parameter 'settings.throttle-input-for' is deprecated, it will be removed in the future. Please remove it from your config
+polybar|error: module/mpd: Connection refused
+I2022-01-21 14:26:54.004332 inputmethodmanager.cpp:198] Found 704 input method(s) in addon keyboard
+I2022-01-21 14:26:54.026711 addonmanager.cpp:191] Loaded addon kimpanel
+I2022-01-21 14:26:54.062386 addonmanager.cpp:191] Loaded addon classicui
+I2022-01-21 14:26:54.064148 addonmanager.cpp:191] Loaded addon notificationitem
+I2022-01-21 14:26:54.067883 addonmanager.cpp:191] Loaded addon notifications
+I2022-01-21 14:26:54.172502 addonmanager.cpp:191] Loaded addon rime
+I2022-01-21 14:26:54.173280 kimpanel.cpp:117] Kimpanel new owner
+Gtk-Message: 14:26:54.428: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 14:26:54.428: Failed to load module "window-decorations-gtk-module"
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时26分54秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=13" (name=LiterationMono Nerd Font, offset=3, file=/usr/share/fonts/TTF/Literation Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=12" (name=LiterationMono Nerd Font, offset=3, file=/usr/share/fonts/TTF/Literation Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "NotoColorEmoji:pixelsize=8;1:fontformat=truetype:scale=10:antialias=true" (name=Noto Color Emoji, offset=3, file=/usr/share/fonts/noto/NotoColorEmoji.ttf)
+polybar|notice:  Loaded font "Weather Icons:style=Regular:size=10" (name=Weather Icons, offset=3, file=/usr/share/fonts/TTF/weathericons-regular-webfont.ttf)
+polybar|notice:  Loaded font "NotoSansCJK:size=12" (name=Noto Sans CJK SC, offset=2, file=/usr/share/fonts/noto-cjk/NotoSansCJK-Regular.ttc)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+2022年01月21日 14时26分54秒 - WM_CLASS changed to polybar (instance), Polybar (class)
+2022年01月21日 14时26分54秒 - WM_NAME changed to "i3"
+2022年01月21日 14时26分54秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时26分54秒 - This window is of type dock
+2022年01月21日 14时26分54秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时26分54秒 - dock status matches
+2022年01月21日 14时26分54秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时26分54秒 - Regular expression ".*" matches "Polybar"
+2022年01月21日 14时26分54秒 - window class matches (Polybar)
+2022年01月21日 14时26分54秒 - dock status does not match
+2022年01月21日 14时26分54秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时26分54秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+[803:0121/142654.591894:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+2022年01月21日 14时26分54秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: Failed to setup tray client removing... (XCB_WINDOW (3))
+[666:0121/142654.780473:ERROR:browser_main_loop.cc(269)] Gdk: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时26分55秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年01月21日 14时26分55秒 - WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时26分55秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时26分55秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时26分55秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月21日 14时26分55秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时26分55秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时26分55秒 - dock status does not match
+2022年01月21日 14时26分55秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时26分55秒 - dock status does not match
+2022年01月21日 14时26分55秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时26分55秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时26分55秒 - Regular expression ".*" matches "Clash for Windows"
+2022年01月21日 14时26分55秒 - window class matches (Clash for Windows)
+2022年01月21日 14时26分55秒 - dock status matches
+2022年01月21日 14时26分55秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时26分55秒 - window id does not match
+2022年01月21日 14时26分55秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时26分55秒 - match made by window id (20971523)
+2022年01月21日 14时26分55秒 - dock status matches
+2022年01月21日 14时26分55秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时26分55秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时26分55秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时26分55秒 - ClientMessage for window 0x01400003
+2022年01月21日 14时26分55秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时26分55秒 - ClientMessage for window 0x01400003
+2022年01月21日 14时26分55秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时26分55秒 - ClientMessage for window 0x000001cd
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分04秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分04秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时27分04秒 - expose event for unknown window, ignoring
+2022年01月21日 14时27分04秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时27分04秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时27分04秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分06秒 - ClientMessage for window 0x0160001a
+2022年01月21日 14时27分06秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分08秒 - startup id = i3/rofi/649-0-alexarch_TIME32230
+2022年01月21日 14时27分08秒 - executing: rofi -show drun
+2022年01月21日 14时27分08秒 - Not a managed window, ignoring UnmapNotify event
+
+(process:909): XrmOptions-WARNING **: 14:27:08.155: Option: width is not found.
+
+(process:909): XrmOptions-WARNING **: 14:27:08.155: Option: lines is not found.
+
+(process:909): XrmOptions-WARNING **: 14:27:08.155: Option: columns is not found.
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分09秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年01月21日 14时27分09秒 - WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时27分09秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时27分09秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时27分09秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月21日 14时27分09秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时27分09秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时27分09秒 - dock status does not match
+2022年01月21日 14时27分09秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时27分09秒 - dock status does not match
+2022年01月21日 14时27分09秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分09秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时27分09秒 - Regular expression ".*" matches "Clash for Windows"
+2022年01月21日 14时27分09秒 - window class matches (Clash for Windows)
+2022年01月21日 14时27分09秒 - dock status matches
+2022年01月21日 14时27分09秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时27分09秒 - window id does not match
+2022年01月21日 14时27分09秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时27分09秒 - match made by window id (20971523)
+2022年01月21日 14时27分09秒 - dock status matches
+2022年01月21日 14时27分09秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分09秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分09秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时27分09秒 - ClientMessage for window 0x01400003
+2022年01月21日 14时27分09秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分09秒 - ClientMessage for window 0x01400003
+2022年01月21日 14时27分09秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+Gtk-Message: 14:27:09.688: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 14:27:09.689: Failed to load module "window-decorations-gtk-module"
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分11秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时27分11秒 - expose event for unknown window, ignoring
+2022年01月21日 14时27分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时27分11秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时27分11秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分15秒 - startup id = i3/rofi/649-1-alexarch_TIME39251
+2022年01月21日 14时27分15秒 - executing: rofi -show drun
+2022年01月21日 14时27分15秒 - Not a managed window, ignoring UnmapNotify event
+
+(process:1011): XrmOptions-WARNING **: 14:27:15.641: Option: width is not found.
+
+(process:1011): XrmOptions-WARNING **: 14:27:15.641: Option: lines is not found.
+
+(process:1011): XrmOptions-WARNING **: 14:27:15.641: Option: columns is not found.
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分21秒 - executing: code
+2022年01月21日 14时27分22秒 - WM_CLASS changed to code (instance), Code (class)
+2022年01月21日 14时27分22秒 - WM_NAME changed to "Visual Studio Code"
+2022年01月21日 14时27分22秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时27分22秒 - _NET_WM_NAME changed to "Visual Studio Code"
+2022年01月21日 14时27分22秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月21日 14时27分22秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时27分22秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时27分22秒 - dock status does not match
+2022年01月21日 14时27分22秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时27分22秒 - dock status does not match
+2022年01月21日 14时27分22秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分22秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时27分22秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时27分22秒 - window class matches (Code)
+2022年01月21日 14时27分22秒 - dock status matches
+2022年01月21日 14时27分22秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时27分22秒 - window id does not match
+2022年01月21日 14时27分22秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时27分22秒 - match made by window id (33554433)
+2022年01月21日 14时27分22秒 - dock status matches
+2022年01月21日 14时27分22秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分22秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分22秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时27分22秒 - ClientMessage for window 0x02000001
+2022年01月21日 14时27分22秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分22秒 - ClientMessage for window 0x02000001
+2022年01月21日 14时27分22秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分24秒 - _NET_WM_NAME changed to "Get Started - Visual Studio Code"
+2022年01月21日 14时27分24秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时27分24秒 - dock status does not match
+2022年01月21日 14时27分24秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时27分24秒 - dock status does not match
+2022年01月21日 14时27分24秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时27分24秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时27分24秒 - window class matches (Code)
+2022年01月21日 14时27分24秒 - dock status matches
+2022年01月21日 14时27分24秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时27分24秒 - dock status does not match
+2022年01月21日 14时27分24秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时27分24秒 - dock status does not match
+2022年01月21日 14时27分24秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时27分24秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时27分24秒 - window class matches (Code)
+2022年01月21日 14时27分24秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分26秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分30秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分33秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分38秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时27分39秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分40秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分41秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时27分43秒 - There is no workspace with number 2, creating a new one.
+2022年01月21日 14时27分43秒 - Creating new workspace "2"
+2022年01月21日 14时27分43秒 - focused now = 0x55f385f8e5b0 / 2
+2022年01月21日 14时27分43秒 - workspace visible? fs = 0x55f385f8e5b0, ws = 0x55f385f7b150
+2022年01月21日 14时27分43秒 - workspace visible? fs = 0x55f385f8e5b0, ws = 0x55f385f8e5b0
+2022年01月21日 14时27分43秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时27分43秒 - workspace visible? fs = 0x55f385f8e5b0, ws = 0x55f385f7b150
+2022年01月21日 14时27分43秒 - workspace visible? fs = 0x55f385f8e5b0, ws = 0x55f385f8e5b0
+2022年01月21日 14时27分43秒 - workspace visible? fs = 0x55f385f8e5b0, ws = 0x55f385f7b150
+2022年01月21日 14时27分43秒 - workspace visible? fs = 0x55f385f8e5b0, ws = 0x55f385f8e5b0
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分44秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f8e5b0
+2022年01月21日 14时27分44秒 - Closing old workspace (0x55f385f8e5b0 / 2), it is empty
+2022年01月21日 14时27分44秒 - focused now = 0x55f385f6a5f0 / (null)
+2022年01月21日 14时27分44秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分44秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时27分44秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时27分44秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分45秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分47秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分51秒 - WM_CLASS changed to microsoft-edge (instance), Microsoft-edge (class)
+2022年01月21日 14时27分51秒 - WM_NAME changed to "无标题 - 个人 - Microsoft​ Edge"
+2022年01月21日 14时27分51秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时27分51秒 - _NET_WM_NAME changed to "无标题 - 个人 - Microsoft​ Edge"
+2022年01月21日 14时27分51秒 - WM_WINDOW_ROLE changed to "browser"
+2022年01月21日 14时27分51秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时27分51秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时27分51秒 - dock status does not match
+2022年01月21日 14时27分51秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时27分51秒 - dock status does not match
+2022年01月21日 14时27分51秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分51秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时27分51秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时27分51秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时27分51秒 - dock status matches
+2022年01月21日 14时27分51秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时27分51秒 - window id does not match
+2022年01月21日 14时27分51秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时27分51秒 - window id does not match
+2022年01月21日 14时27分51秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时27分51秒 - match made by window id (50331651)
+2022年01月21日 14时27分51秒 - dock status matches
+2022年01月21日 14时27分51秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分51秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分51秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时27分51秒 - ClientMessage for window 0x03000003
+2022年01月21日 14时27分51秒 - ClientMessage for window 0x03000003
+2022年01月21日 14时27分51秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时27分51秒 - ClientMessage for window 0x03000003
+2022年01月21日 14时27分51秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分54秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时27分56秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时28分03秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时28分06秒 - _NET_WM_NAME changed to "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月21日 14时28分06秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分06秒 - dock status does not match
+2022年01月21日 14时28分06秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分06秒 - dock status does not match
+2022年01月21日 14时28分06秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分06秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时28分06秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时28分06秒 - dock status matches
+2022年01月21日 14时28分06秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分06秒 - dock status does not match
+2022年01月21日 14时28分06秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分06秒 - dock status does not match
+2022年01月21日 14时28分06秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分06秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时28分06秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时28分06秒 - dock status matches
+2022年01月21日 14时28分06秒 - ClientMessage for window 0x03000003
+2022年01月21日 14时28分06秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时28分08秒 - _NET_WM_NAME changed to "login.microsoftonline.com 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月21日 14时28分08秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分08秒 - dock status does not match
+2022年01月21日 14时28分08秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分08秒 - dock status does not match
+2022年01月21日 14时28分08秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分08秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时28分08秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时28分08秒 - dock status matches
+2022年01月21日 14时28分08秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分08秒 - dock status does not match
+2022年01月21日 14时28分08秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分08秒 - dock status does not match
+2022年01月21日 14时28分08秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分08秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时28分08秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时28分08秒 - dock status matches
+2022年01月21日 14时28分08秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时28分10秒 - _NET_WM_NAME changed to "无标题 - 个人 - Microsoft​ Edge"
+2022年01月21日 14时28分10秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分10秒 - dock status does not match
+2022年01月21日 14时28分10秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分10秒 - dock status does not match
+2022年01月21日 14时28分10秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分10秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时28分10秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时28分10秒 - dock status matches
+2022年01月21日 14时28分10秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分10秒 - dock status does not match
+2022年01月21日 14时28分10秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分10秒 - dock status does not match
+2022年01月21日 14时28分10秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分10秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时28分10秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时28分10秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时28分13秒 - _NET_WM_NAME changed to "Sign in to your account - 个人 - Microsoft​ Edge"
+2022年01月21日 14时28分13秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分13秒 - dock status does not match
+2022年01月21日 14时28分13秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分13秒 - dock status does not match
+2022年01月21日 14时28分13秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分13秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时28分13秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时28分13秒 - dock status matches
+2022年01月21日 14时28分13秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分13秒 - dock status does not match
+2022年01月21日 14时28分13秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分13秒 - dock status does not match
+2022年01月21日 14时28分13秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分13秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时28分13秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时28分13秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时28分15秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时28分20秒 - _NET_WM_NAME changed to "Continue - 个人 - Microsoft​ Edge"
+2022年01月21日 14时28分20秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分20秒 - dock status does not match
+2022年01月21日 14时28分20秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分20秒 - dock status does not match
+2022年01月21日 14时28分20秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分20秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时28分20秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时28分20秒 - dock status matches
+2022年01月21日 14时28分20秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分20秒 - dock status does not match
+2022年01月21日 14时28分20秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分20秒 - dock status does not match
+2022年01月21日 14时28分20秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分20秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时28分20秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时28分20秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时28分21秒 - _NET_WM_NAME changed to "https://login.microsoftonline.com/common/federation/oauth2msa - 个人 - Microsoft​ Edge"
+2022年01月21日 14时28分21秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分21秒 - dock status does not match
+2022年01月21日 14时28分21秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分21秒 - dock status does not match
+2022年01月21日 14时28分21秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分21秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时28分21秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时28分21秒 - dock status matches
+2022年01月21日 14时28分21秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分21秒 - dock status does not match
+2022年01月21日 14时28分21秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分21秒 - dock status does not match
+2022年01月21日 14时28分21秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时28分21秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时28分21秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时28分21秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时31分00秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时31分00秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时31分04秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时31分04秒 - expose event for unknown window, ignoring
+2022年01月21日 14时31分04秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时31分04秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时31分04秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时31分08秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时31分18秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时31分19秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时31分30秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时31分33秒 - ClientMessage for window 0x0160001a
+2022年01月21日 14时31分35秒 - ClientMessage for window 0x016000a6
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时31分41秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时31分41秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时32分58秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时33分03秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时34分40秒 - ClientMessage for window 0x02200009
+2022年01月21日 14时34分40秒 - WM_CLASS changed to code (instance), Code (class)
+2022年01月21日 14时34分40秒 - WM_NAME changed to "Settings Sync"
+2022年01月21日 14时34分40秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时34分40秒 - _NET_WM_NAME changed to "Settings Sync"
+2022年01月21日 14时34分40秒 - WM_HINTS.input changed to "1"
+2022年01月21日 14时34分40秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时34分40秒 - Checking window 0x02200009 (class Code)
+2022年01月21日 14时34分40秒 - dock status does not match
+2022年01月21日 14时34分40秒 - Checking window 0x02200009 (class Code)
+2022年01月21日 14时34分40秒 - dock status does not match
+2022年01月21日 14时34分40秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时34分40秒 - This window is a dialog window, setting floating
+2022年01月21日 14时34分40秒 - This window is transient for another window, setting floating
+2022年01月21日 14时34分40秒 - Checking window 0x02200009 (class Code)
+2022年01月21日 14时34分40秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时34分40秒 - window class matches (Code)
+2022年01月21日 14时34分40秒 - dock status matches
+2022年01月21日 14时34分40秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时34分40秒 - window id does not match
+2022年01月21日 14时34分40秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时34分40秒 - window id does not match
+2022年01月21日 14时34分40秒 - Checking window 0x02200009 (class Code)
+2022年01月21日 14时34分40秒 - match made by window id (35651593)
+2022年01月21日 14时34分40秒 - dock status matches
+2022年01月21日 14时34分40秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时34分40秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时34分40秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时34分40秒 - ClientMessage for window 0x02200009
+2022年01月21日 14时34分40秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时34分40秒 - Checking window 0x02200009 (class Code)
+2022年01月21日 14时34分40秒 - dock status does not match
+2022年01月21日 14时34分40秒 - Checking window 0x02200009 (class Code)
+2022年01月21日 14时34分40秒 - dock status does not match
+2022年01月21日 14时34分40秒 - Checking window 0x02200009 (class Code)
+2022年01月21日 14时34分40秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时34分40秒 - window class matches (Code)
+2022年01月21日 14时34分40秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时34分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时34分51秒 - expose event for unknown window, ignoring
+2022年01月21日 14时34分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时34分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时34分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时34分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时34分51秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时34分51秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时37分20秒 - ClientMessage for window 0x0160001a
+2022年01月21日 14时37分20秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时37分21秒 - startup id = i3/rofi/649-2-alexarch_TIME645010
+2022年01月21日 14时37分21秒 - executing: rofi -show drun
+2022年01月21日 14时37分21秒 - Not a managed window, ignoring UnmapNotify event
+
+(process:2627): XrmOptions-WARNING **: 14:37:21.428: Option: width is not found.
+
+(process:2627): XrmOptions-WARNING **: 14:37:21.428: Option: lines is not found.
+
+(process:2627): XrmOptions-WARNING **: 14:37:21.428: Option: columns is not found.
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时37分22秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年01月21日 14时37分22秒 - WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时37分22秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时37分22秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时37分22秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月21日 14时37分22秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时37分22秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时37分22秒 - dock status does not match
+2022年01月21日 14时37分22秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时37分22秒 - dock status does not match
+2022年01月21日 14时37分22秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时37分22秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时37分22秒 - Regular expression ".*" matches "Clash for Windows"
+2022年01月21日 14时37分22秒 - window class matches (Clash for Windows)
+2022年01月21日 14时37分22秒 - dock status matches
+2022年01月21日 14时37分22秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时37分22秒 - window id does not match
+2022年01月21日 14时37分22秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时37分22秒 - window id does not match
+2022年01月21日 14时37分22秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时37分22秒 - match made by window id (20971523)
+2022年01月21日 14时37分22秒 - dock status matches
+2022年01月21日 14时37分22秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时37分22秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时37分22秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时37分22秒 - ClientMessage for window 0x01400003
+2022年01月21日 14时37分22秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时37分22秒 - ClientMessage for window 0x01400003
+2022年01月21日 14时37分22秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+Gtk-Message: 14:37:22.630: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 14:37:22.630: Failed to load module "window-decorations-gtk-module"
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时37分23秒 - Sending WM_DELETE to the client
+2022年01月21日 14时37分23秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时37分23秒 - expose event for unknown window, ignoring
+2022年01月21日 14时37分23秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时37分23秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时37分23秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时37分26秒 - executing: microsoft-edge-stable
+Gtk-Message: 14:37:26.461: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 14:37:26.461: Failed to load module "window-decorations-gtk-module"
+[2736:2736:0121/143726.513807:ERROR:assistance_home_client.cc(23)] File path /home/alex/.config/microsoft-edge/Default
+2022年01月21日 14时37分26秒 - WM_CLASS changed to microsoft-edge (instance), Microsoft-edge (class)
+2022年01月21日 14时37分26秒 - WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月21日 14时37分26秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时37分26秒 - _NET_WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月21日 14时37分26秒 - WM_WINDOW_ROLE changed to "browser"
+2022年01月21日 14时37分26秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时37分26秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分26秒 - dock status does not match
+2022年01月21日 14时37分26秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分26秒 - dock status does not match
+2022年01月21日 14时37分26秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时37分26秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分26秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时37分26秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时37分26秒 - dock status matches
+2022年01月21日 14时37分26秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时37分26秒 - window id does not match
+2022年01月21日 14时37分26秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时37分26秒 - window id does not match
+2022年01月21日 14时37分26秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分26秒 - match made by window id (50331651)
+2022年01月21日 14时37分26秒 - dock status matches
+2022年01月21日 14时37分26秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时37分26秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时37分26秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时37分26秒 - ClientMessage for window 0x03000003
+2022年01月21日 14时37分26秒 - ClientMessage for window 0x03000003
+2022年01月21日 14时37分26秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+[2736:2937:0121/143726.784554:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[2736:2937:0121/143726.784792:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[2736:2937:0121/143726.784972:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+polybar|error: module/mpd: Connection refused
+[2841:2841:0121/143728.225937:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2736:3068:0121/143729.007555:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[2736:3068:0121/143729.176231:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:30.161: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:30.253: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:30.344: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:30.482: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:30.578: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:30.853: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:31.078: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:31.455: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:31.564: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:31.669: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:31.965: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:32.109: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:32.210: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:32.297: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:32.601: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:33.014: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:33.102: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:33.176: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:33.517: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:33.655: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:33.775: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:33.907: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:2736): Gdk-WARNING **: 14:37:35.771: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+[2736:2736:0121/143737.786992:ERROR:smartscreen_dns_resolver.cc(103)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://www.bing.com/search?q=linux+vscode%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%90%86&cvid=c62e7a56506c4813b4f4886cdd74dc75&aqs=edge..69i57.5602j0j1&pglt=675&FORM=ANSPA1&PC=U531
+2022年01月21日 14时37分38秒 - _NET_WM_NAME changed to "linux vscode使用代理 - Bing - 个人 - Microsoft​ Edge"
+2022年01月21日 14时37分38秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分38秒 - dock status does not match
+2022年01月21日 14时37分38秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分38秒 - dock status does not match
+2022年01月21日 14时37分38秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分38秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时37分38秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时37分38秒 - dock status matches
+2022年01月21日 14时37分38秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分38秒 - dock status does not match
+2022年01月21日 14时37分38秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分38秒 - dock status does not match
+2022年01月21日 14时37分38秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分38秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时37分38秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时37分38秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时37分40秒 - _NET_WM_NAME changed to "linux vscode使用代理 - Bing 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月21日 14时37分40秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分40秒 - dock status does not match
+2022年01月21日 14时37分40秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分40秒 - dock status does not match
+2022年01月21日 14时37分40秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分40秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时37分40秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时37分40秒 - dock status matches
+2022年01月21日 14时37分40秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分40秒 - dock status does not match
+2022年01月21日 14时37分40秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分40秒 - dock status does not match
+2022年01月21日 14时37分40秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分40秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时37分40秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时37分40秒 - dock status matches
+2022年01月21日 14时37分40秒 - ClientMessage for window 0x03000003
+2022年01月21日 14时37分40秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时37分45秒 - _NET_WM_NAME changed to "VSCode proxy设置，解决We cannot connect to the Exiensions Marketplace at this time问题以及leetcode插件刷题_移步换景的博客-CSDN博客 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月21日 14时37分45秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分45秒 - dock status does not match
+2022年01月21日 14时37分45秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分45秒 - dock status does not match
+2022年01月21日 14时37分45秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分45秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时37分45秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时37分45秒 - dock status matches
+2022年01月21日 14时37分45秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分45秒 - dock status does not match
+2022年01月21日 14时37分45秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分45秒 - dock status does not match
+2022年01月21日 14时37分45秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时37分45秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月21日 14时37分45秒 - window class matches (Microsoft-edge)
+2022年01月21日 14时37分45秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时37分51秒 - should move window to workspace 2
+2022年01月21日 14时37分51秒 - Creating new workspace "2"
+2022年01月21日 14时37分51秒 - focused now = 0x55f385f6a5f0 / (null)
+2022年01月21日 14时37分51秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时37分51秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时37分51秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时37分51秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f81ac0
+2022年01月21日 14时37分51秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时37分51秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f81ac0
+2022年01月21日 14时37分52秒 - focused now = 0x55f385f69ae0 / (null)
+2022年01月21日 14时37分52秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f7b150
+2022年01月21日 14时37分52秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f81ac0
+2022年01月21日 14时37分52秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时37分52秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f7b150
+2022年01月21日 14时37分52秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f81ac0
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时38分06秒 - focused now = 0x55f385f6a5f0 / (null)
+2022年01月21日 14时38分06秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时38分06秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时38分06秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时38分06秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f81ac0
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时38分09秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时38分09秒 - _NET_WM_NAME changed to "Settings - Visual Studio Code"
+2022年01月21日 14时38分09秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时38分09秒 - dock status does not match
+2022年01月21日 14时38分09秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时38分09秒 - dock status does not match
+2022年01月21日 14时38分09秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时38分09秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时38分09秒 - window class matches (Code)
+2022年01月21日 14时38分09秒 - dock status matches
+2022年01月21日 14时38分09秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时38分09秒 - dock status does not match
+2022年01月21日 14时38分09秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时38分09秒 - dock status does not match
+2022年01月21日 14时38分09秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时38分09秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时38分09秒 - window class matches (Code)
+2022年01月21日 14时38分09秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+[2843:2859:0121/143815.522801:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -100
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时38分21秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时38分44秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时38分53秒 - focused now = 0x55f385f69ae0 / (null)
+2022年01月21日 14时38分53秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f7b150
+2022年01月21日 14时38分53秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f81ac0
+2022年01月21日 14时38分53秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时38分53秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f7b150
+2022年01月21日 14时38分53秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f81ac0
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时38分58秒 - focused now = 0x55f385f6a5f0 / (null)
+2022年01月21日 14时38分58秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时38分58秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时38分58秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时38分58秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f81ac0
+2022年01月21日 14时38分59秒 - focused now = 0x55f385f69ae0 / (null)
+2022年01月21日 14时38分59秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f7b150
+2022年01月21日 14时38分59秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f81ac0
+2022年01月21日 14时38分59秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时38分59秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f7b150
+2022年01月21日 14时38分59秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f81ac0
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时39分00秒 - focused now = 0x55f385f6a5f0 / (null)
+2022年01月21日 14时39分00秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时39分00秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时39分00秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时39分00秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f81ac0
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时39分06秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分06秒 - _NET_WM_NAME changed to "Get Started - Visual Studio Code"
+2022年01月21日 14时39分06秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分06秒 - dock status does not match
+2022年01月21日 14时39分06秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分06秒 - dock status does not match
+2022年01月21日 14时39分06秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分06秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时39分06秒 - window class matches (Code)
+2022年01月21日 14时39分06秒 - dock status matches
+2022年01月21日 14时39分06秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分06秒 - dock status does not match
+2022年01月21日 14时39分06秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分06秒 - dock status does not match
+2022年01月21日 14时39分06秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分06秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时39分06秒 - window class matches (Code)
+2022年01月21日 14时39分06秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时39分10秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时39分12秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时39分21秒 - Sending WM_DELETE to the client
+2022年01月21日 14时39分21秒 - ClientMessage for window 0x02201049
+2022年01月21日 14时39分21秒 - WM_CLASS changed to code (instance), Code (class)
+2022年01月21日 14时39分21秒 - WM_NAME changed to "Settings Sync"
+2022年01月21日 14时39分21秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时39分21秒 - _NET_WM_NAME changed to "Settings Sync"
+2022年01月21日 14时39分21秒 - WM_HINTS.input changed to "1"
+2022年01月21日 14时39分21秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时39分21秒 - Checking window 0x02201049 (class Code)
+2022年01月21日 14时39分21秒 - dock status does not match
+2022年01月21日 14时39分21秒 - Checking window 0x02201049 (class Code)
+2022年01月21日 14时39分21秒 - dock status does not match
+2022年01月21日 14时39分21秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时39分21秒 - This window is a dialog window, setting floating
+2022年01月21日 14时39分21秒 - This window is transient for another window, setting floating
+2022年01月21日 14时39分21秒 - Checking window 0x02201049 (class Code)
+2022年01月21日 14时39分21秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时39分21秒 - window class matches (Code)
+2022年01月21日 14时39分21秒 - dock status matches
+2022年01月21日 14时39分21秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时39分21秒 - window id does not match
+2022年01月21日 14时39分21秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分21秒 - window id does not match
+2022年01月21日 14时39分21秒 - Checking window 0x03000003 (class Microsoft-edge)
+2022年01月21日 14时39分21秒 - window id does not match
+2022年01月21日 14时39分21秒 - Checking window 0x02201049 (class Code)
+2022年01月21日 14时39分21秒 - match made by window id (35655753)
+2022年01月21日 14时39分21秒 - dock status matches
+2022年01月21日 14时39分21秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时39分21秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时39分21秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时39分21秒 - ClientMessage for window 0x02201049
+2022年01月21日 14时39分21秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时39分21秒 - Checking window 0x02201049 (class Code)
+2022年01月21日 14时39分21秒 - dock status does not match
+2022年01月21日 14时39分21秒 - Checking window 0x02201049 (class Code)
+2022年01月21日 14时39分21秒 - dock status does not match
+2022年01月21日 14时39分21秒 - Checking window 0x02201049 (class Code)
+2022年01月21日 14时39分21秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时39分21秒 - window class matches (Code)
+2022年01月21日 14时39分21秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时39分28秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分28秒 - expose event for unknown window, ignoring
+2022年01月21日 14时39分28秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分28秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分28秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分28秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分28秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分28秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时39分36秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时39分44秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分44秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时39分45秒 - Sending WM_DELETE to the client
+2022年01月21日 14时39分45秒 - workspace visible? fs = 0x55f385f7b150, ws = 0x55f385f7b150
+2022年01月21日 14时39分45秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分45秒 - expose event for unknown window, ignoring
+2022年01月21日 14时39分45秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分45秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分45秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分45秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时39分47秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f7b150
+2022年01月21日 14时39分47秒 - Closing old workspace (0x55f385f7b150 / 1), it is empty
+2022年01月21日 14时39分47秒 - focused now = 0x55f385f69ae0 / (null)
+2022年01月21日 14时39分47秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f81ac0
+2022年01月21日 14时39分47秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时39分47秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分47秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f81ac0
+2022年01月21日 14时39分47秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f81ac0
+2022年01月21日 14时39分49秒 - Sending WM_DELETE to the client
+2022年01月21日 14时39分49秒 - workspace visible? fs = 0x55f385f81ac0, ws = 0x55f385f81ac0
+2022年01月21日 14时39分49秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分49秒 - expose event for unknown window, ignoring
+2022年01月21日 14时39分49秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分49秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分49秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时39分50秒 - There is no workspace with number 1, creating a new one.
+2022年01月21日 14时39分50秒 - Creating new workspace "1"
+2022年01月21日 14时39分50秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f81ac0
+2022年01月21日 14时39分50秒 - Closing old workspace (0x55f385f81ac0 / 2), it is empty
+2022年01月21日 14时39分50秒 - focused now = 0x55f385f6a5f0 / 1
+2022年01月21日 14时39分50秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时39分50秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时39分50秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时39分50秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时39分50秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时39分50秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时39分51秒 - executing: code
+2022年01月21日 14时39分52秒 - WM_CLASS changed to code (instance), Code (class)
+2022年01月21日 14时39分52秒 - WM_NAME changed to "Visual Studio Code"
+2022年01月21日 14时39分52秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时39分52秒 - _NET_WM_NAME changed to "Visual Studio Code"
+2022年01月21日 14时39分52秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月21日 14时39分52秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时39分52秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分52秒 - dock status does not match
+2022年01月21日 14时39分52秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分52秒 - dock status does not match
+2022年01月21日 14时39分52秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时39分52秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分52秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时39分52秒 - window class matches (Code)
+2022年01月21日 14时39分52秒 - dock status matches
+2022年01月21日 14时39分52秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时39分52秒 - window id does not match
+2022年01月21日 14时39分52秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分52秒 - match made by window id (33554433)
+2022年01月21日 14时39分52秒 - dock status matches
+2022年01月21日 14时39分52秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时39分52秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时39分52秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时39分52秒 - ClientMessage for window 0x02000001
+2022年01月21日 14时39分52秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时39分52秒 - ClientMessage for window 0x02000001
+2022年01月21日 14时39分52秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时39分54秒 - _NET_WM_NAME changed to "开始 - Visual Studio Code"
+2022年01月21日 14时39分54秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分54秒 - dock status does not match
+2022年01月21日 14时39分54秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分54秒 - dock status does not match
+2022年01月21日 14时39分54秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分54秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时39分54秒 - window class matches (Code)
+2022年01月21日 14时39分54秒 - dock status matches
+2022年01月21日 14时39分54秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分54秒 - dock status does not match
+2022年01月21日 14时39分54秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分54秒 - dock status does not match
+2022年01月21日 14时39分54秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时39分54秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时39分54秒 - window class matches (Code)
+2022年01月21日 14时39分54秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时41分34秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时41分34秒 - _NET_WM_NAME changed to "扩展: Bracket Pair Colorizer - Visual Studio Code"
+2022年01月21日 14时41分34秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时41分34秒 - dock status does not match
+2022年01月21日 14时41分34秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时41分34秒 - dock status does not match
+2022年01月21日 14时41分34秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时41分34秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时41分34秒 - window class matches (Code)
+2022年01月21日 14时41分34秒 - dock status matches
+2022年01月21日 14时41分34秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时41分34秒 - dock status does not match
+2022年01月21日 14时41分34秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时41分34秒 - dock status does not match
+2022年01月21日 14时41分34秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时41分34秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时41分34秒 - window class matches (Code)
+2022年01月21日 14时41分34秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时41分37秒 - _NET_WM_NAME changed to "Visual Studio Code"
+2022年01月21日 14时41分37秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时41分37秒 - dock status does not match
+2022年01月21日 14时41分37秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时41分37秒 - dock status does not match
+2022年01月21日 14时41分37秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时41分37秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时41分37秒 - window class matches (Code)
+2022年01月21日 14时41分37秒 - dock status matches
+2022年01月21日 14时41分37秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时41分37秒 - dock status does not match
+2022年01月21日 14时41分37秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时41分37秒 - dock status does not match
+2022年01月21日 14时41分37秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时41分37秒 - Regular expression ".*" matches "Code"
+2022年01月21日 14时41分37秒 - window class matches (Code)
+2022年01月21日 14时41分37秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时41分41秒 - ClientMessage for window 0x0160001a
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时41分43秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时41分44秒 - startup id = i3/rofi/649-3-alexarch_TIME908592
+2022年01月21日 14时41分44秒 - executing: rofi -show drun
+2022年01月21日 14时41分44秒 - Not a managed window, ignoring UnmapNotify event
+
+(process:4065): XrmOptions-WARNING **: 14:41:44.982: Option: width is not found.
+
+(process:4065): XrmOptions-WARNING **: 14:41:44.982: Option: lines is not found.
+
+(process:4065): XrmOptions-WARNING **: 14:41:44.982: Option: columns is not found.
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时41分47秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年01月21日 14时41分47秒 - WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时41分47秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时41分47秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时41分47秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月21日 14时41分47秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时41分47秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时41分47秒 - dock status does not match
+2022年01月21日 14时41分47秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时41分47秒 - dock status does not match
+2022年01月21日 14时41分47秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时41分47秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时41分47秒 - Regular expression ".*" matches "Clash for Windows"
+2022年01月21日 14时41分47秒 - window class matches (Clash for Windows)
+2022年01月21日 14时41分47秒 - dock status matches
+2022年01月21日 14时41分47秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时41分47秒 - window id does not match
+2022年01月21日 14时41分47秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时41分47秒 - window id does not match
+2022年01月21日 14时41分47秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时41分47秒 - match made by window id (20971523)
+2022年01月21日 14时41分47秒 - dock status matches
+2022年01月21日 14时41分47秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时41分47秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时41分47秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时41分47秒 - ClientMessage for window 0x01400003
+2022年01月21日 14时41分47秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时41分47秒 - ClientMessage for window 0x01400003
+2022年01月21日 14时41分47秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+Gtk-Message: 14:41:47.153: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 14:41:47.153: Failed to load module "window-decorations-gtk-module"
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时41分48秒 - Sending WM_DELETE to the client
+2022年01月21日 14时41分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时41分48秒 - expose event for unknown window, ignoring
+2022年01月21日 14时41分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时41分48秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时41分48秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时42分42秒 - executing: terminator
+Gtk-Message: 14:42:43.016: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 14:42:43.016: Failed to load module "window-decorations-gtk-module"
+2022年01月21日 14时42分43秒 - ClientMessage for window 0x03000007
+2022年01月21日 14时42分43秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年01月21日 14时42分43秒 - WM_NAME changed to "None"
+2022年01月21日 14时42分43秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时42分43秒 - _NET_WM_NAME changed to "None"
+2022年01月21日 14时42分43秒 - WM_HINTS.input changed to "1"
+2022年01月21日 14时42分43秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - dock status does not match
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - dock status does not match
+2022年01月21日 14时42分43秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时42分43秒 - window class matches (Terminator)
+2022年01月21日 14时42分43秒 - dock status matches
+2022年01月21日 14时42分43秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时42分43秒 - window id does not match
+2022年01月21日 14时42分43秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时42分43秒 - window id does not match
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - match made by window id (50331655)
+2022年01月21日 14时42分43秒 - dock status matches
+2022年01月21日 14时42分43秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时42分43秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时42分43秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时42分43秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - dock status does not match
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - dock status does not match
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时42分43秒 - window class matches (Terminator)
+2022年01月21日 14时42分43秒 - dock status matches
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - dock status does not match
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - dock status does not match
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时42分43秒 - window class matches (Terminator)
+2022年01月21日 14时42分43秒 - dock status matches
+2022年01月21日 14时42分43秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - dock status does not match
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - dock status does not match
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时42分43秒 - window class matches (Terminator)
+2022年01月21日 14时42分43秒 - dock status matches
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - dock status does not match
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - dock status does not match
+2022年01月21日 14时42分43秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分43秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时42分43秒 - window class matches (Terminator)
+2022年01月21日 14时42分43秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时42分44秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时42分48秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时42分48秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分48秒 - dock status does not match
+2022年01月21日 14时42分48秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分48秒 - dock status does not match
+2022年01月21日 14时42分48秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分48秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时42分48秒 - window class matches (Terminator)
+2022年01月21日 14时42分48秒 - dock status matches
+2022年01月21日 14时42分48秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分48秒 - dock status does not match
+2022年01月21日 14时42分48秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分48秒 - dock status does not match
+2022年01月21日 14时42分48秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时42分48秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时42分48秒 - window class matches (Terminator)
+2022年01月21日 14时42分48秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时46分53秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时46分53秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时46分53秒 - dock status does not match
+2022年01月21日 14时46分53秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时46分53秒 - dock status does not match
+2022年01月21日 14时46分53秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时46分53秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时46分53秒 - window class matches (Terminator)
+2022年01月21日 14时46分53秒 - dock status matches
+2022年01月21日 14时46分53秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时46分53秒 - dock status does not match
+2022年01月21日 14时46分53秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时46分53秒 - dock status does not match
+2022年01月21日 14时46分53秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时46分53秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时46分53秒 - window class matches (Terminator)
+2022年01月21日 14时46分53秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时50分37秒 - startup id = i3/rofi/649-4-alexarch_TIME1441577
+2022年01月21日 14时50分37秒 - executing: rofi -show drun
+2022年01月21日 14时50分37秒 - Not a managed window, ignoring UnmapNotify event
+
+(process:29015): XrmOptions-WARNING **: 14:50:37.968: Option: width is not found.
+
+(process:29015): XrmOptions-WARNING **: 14:50:37.968: Option: lines is not found.
+
+(process:29015): XrmOptions-WARNING **: 14:50:37.968: Option: columns is not found.
+2022年01月21日 14时50分38秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时50分38秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分38秒 - dock status does not match
+2022年01月21日 14时50分38秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分38秒 - dock status does not match
+2022年01月21日 14时50分38秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分38秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时50分38秒 - window class matches (Terminator)
+2022年01月21日 14时50分38秒 - dock status matches
+2022年01月21日 14时50分38秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分38秒 - dock status does not match
+2022年01月21日 14时50分38秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分38秒 - dock status does not match
+2022年01月21日 14时50分38秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分38秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时50分38秒 - window class matches (Terminator)
+2022年01月21日 14时50分38秒 - dock status matches
+2022年01月21日 14时50分39秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时50分39秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分39秒 - dock status does not match
+2022年01月21日 14时50分39秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分39秒 - dock status does not match
+2022年01月21日 14时50分39秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分39秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时50分39秒 - window class matches (Terminator)
+2022年01月21日 14时50分39秒 - dock status matches
+2022年01月21日 14时50分39秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分39秒 - dock status does not match
+2022年01月21日 14时50分39秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分39秒 - dock status does not match
+2022年01月21日 14时50分39秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分39秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时50分39秒 - window class matches (Terminator)
+2022年01月21日 14时50分39秒 - dock status matches
+2022年01月21日 14时50分39秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年01月21日 14时50分39秒 - WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时50分39秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时50分39秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时50分39秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月21日 14时50分39秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时50分39秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时50分39秒 - dock status does not match
+2022年01月21日 14时50分39秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时50分39秒 - dock status does not match
+2022年01月21日 14时50分39秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时50分39秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时50分39秒 - Regular expression ".*" matches "Clash for Windows"
+2022年01月21日 14时50分39秒 - window class matches (Clash for Windows)
+2022年01月21日 14时50分39秒 - dock status matches
+2022年01月21日 14时50分39秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时50分39秒 - window id does not match
+2022年01月21日 14时50分39秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时50分39秒 - window id does not match
+2022年01月21日 14时50分39秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分39秒 - window id does not match
+2022年01月21日 14时50分39秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时50分39秒 - match made by window id (20971523)
+2022年01月21日 14时50分39秒 - dock status matches
+2022年01月21日 14时50分39秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时50分39秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时50分39秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时50分39秒 - ClientMessage for window 0x01400003
+2022年01月21日 14时50分39秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时50分39秒 - ClientMessage for window 0x01400003
+2022年01月21日 14时50分39秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+Gtk-Message: 14:50:39.687: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 14:50:39.687: Failed to load module "window-decorations-gtk-module"
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时50分41秒 - Sending WM_DELETE to the client
+2022年01月21日 14时50分41秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时50分41秒 - expose event for unknown window, ignoring
+2022年01月21日 14时50分41秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时50分41秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时50分41秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时50分41秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时50分41秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分41秒 - dock status does not match
+2022年01月21日 14时50分41秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分41秒 - dock status does not match
+2022年01月21日 14时50分41秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分41秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时50分41秒 - window class matches (Terminator)
+2022年01月21日 14时50分41秒 - dock status matches
+2022年01月21日 14时50分41秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分41秒 - dock status does not match
+2022年01月21日 14时50分41秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分41秒 - dock status does not match
+2022年01月21日 14时50分41秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时50分41秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时50分41秒 - window class matches (Terminator)
+2022年01月21日 14时50分41秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时51分37秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+I2022-01-21 14:56:54.608369 instance.cpp:1266] Running autosave...
+I2022-01-21 14:56:54.612165 instance.cpp:1268] End autosave
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时57分25秒 - startup id = i3/rofi/649-5-alexarch_TIME1848977
+2022年01月21日 14时57分25秒 - executing: rofi -show drun
+2022年01月21日 14时57分25秒 - Not a managed window, ignoring UnmapNotify event
+
+(process:37000): XrmOptions-WARNING **: 14:57:25.368: Option: width is not found.
+
+(process:37000): XrmOptions-WARNING **: 14:57:25.368: Option: lines is not found.
+
+(process:37000): XrmOptions-WARNING **: 14:57:25.368: Option: columns is not found.
+2022年01月21日 14时57分25秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时57分25秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分25秒 - dock status does not match
+2022年01月21日 14时57分25秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分25秒 - dock status does not match
+2022年01月21日 14时57分25秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分25秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分25秒 - window class matches (Terminator)
+2022年01月21日 14时57分25秒 - dock status matches
+2022年01月21日 14时57分25秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分25秒 - dock status does not match
+2022年01月21日 14时57分25秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分25秒 - dock status does not match
+2022年01月21日 14时57分25秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分25秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分25秒 - window class matches (Terminator)
+2022年01月21日 14时57分25秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时57分26秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时57分26秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分26秒 - dock status does not match
+2022年01月21日 14时57分26秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分26秒 - dock status does not match
+2022年01月21日 14时57分26秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分26秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分26秒 - window class matches (Terminator)
+2022年01月21日 14时57分26秒 - dock status matches
+2022年01月21日 14时57分26秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分26秒 - dock status does not match
+2022年01月21日 14时57分26秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分26秒 - dock status does not match
+2022年01月21日 14时57分26秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分26秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分26秒 - window class matches (Terminator)
+2022年01月21日 14时57分26秒 - dock status matches
+2022年01月21日 14时57分26秒 - WM_CLASS changed to clash for windows (instance), Clash for Windows (class)
+2022年01月21日 14时57分26秒 - WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时57分26秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月21日 14时57分26秒 - _NET_WM_NAME changed to "Clash for Windows"
+2022年01月21日 14时57分26秒 - WM_WINDOW_ROLE changed to "browser-window"
+2022年01月21日 14时57分26秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月21日 14时57分26秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时57分26秒 - dock status does not match
+2022年01月21日 14时57分26秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时57分26秒 - dock status does not match
+2022年01月21日 14时57分26秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时57分26秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时57分26秒 - Regular expression ".*" matches "Clash for Windows"
+2022年01月21日 14时57分26秒 - window class matches (Clash for Windows)
+2022年01月21日 14时57分26秒 - dock status matches
+2022年01月21日 14时57分26秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月21日 14时57分26秒 - window id does not match
+2022年01月21日 14时57分26秒 - Checking window 0x02000001 (class Code)
+2022年01月21日 14时57分26秒 - window id does not match
+2022年01月21日 14时57分26秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分26秒 - window id does not match
+2022年01月21日 14时57分26秒 - Checking window 0x01400003 (class Clash for Windows)
+2022年01月21日 14时57分26秒 - match made by window id (20971523)
+2022年01月21日 14时57分26秒 - dock status matches
+2022年01月21日 14时57分26秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时57分26秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时57分26秒 - workspace visible? fs = 0x55f385f775a0, ws = 0x55f385f775a0
+2022年01月21日 14时57分26秒 - ClientMessage for window 0x01400003
+2022年01月21日 14时57分26秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 14时57分26秒 - ClientMessage for window 0x01400003
+2022年01月21日 14时57分26秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+Gtk-Message: 14:57:26.912: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 14:57:26.912: Failed to load module "window-decorations-gtk-module"
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时57分29秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时57分29秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分29秒 - dock status does not match
+2022年01月21日 14时57分29秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分29秒 - dock status does not match
+2022年01月21日 14时57分29秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分29秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分29秒 - window class matches (Terminator)
+2022年01月21日 14时57分29秒 - dock status matches
+2022年01月21日 14时57分29秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分29秒 - dock status does not match
+2022年01月21日 14时57分29秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分29秒 - dock status does not match
+2022年01月21日 14时57分29秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分29秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分29秒 - window class matches (Terminator)
+2022年01月21日 14时57分29秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时57分37秒 - Sending WM_DELETE to the client
+2022年01月21日 14时57分37秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时57分37秒 - expose event for unknown window, ignoring
+2022年01月21日 14时57分37秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时57分37秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时57分37秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 14时57分37秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时57分37秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分37秒 - dock status does not match
+2022年01月21日 14时57分37秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分37秒 - dock status does not match
+2022年01月21日 14时57分37秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分37秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分37秒 - window class matches (Terminator)
+2022年01月21日 14时57分37秒 - dock status matches
+2022年01月21日 14时57分37秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分37秒 - dock status does not match
+2022年01月21日 14时57分37秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分37秒 - dock status does not match
+2022年01月21日 14时57分37秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分37秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分37秒 - window class matches (Terminator)
+2022年01月21日 14时57分37秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时57分39秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时57分39秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分39秒 - dock status does not match
+2022年01月21日 14时57分39秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分39秒 - dock status does not match
+2022年01月21日 14时57分39秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分39秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分39秒 - window class matches (Terminator)
+2022年01月21日 14时57分39秒 - dock status matches
+2022年01月21日 14时57分39秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分39秒 - dock status does not match
+2022年01月21日 14时57分39秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分39秒 - dock status does not match
+2022年01月21日 14时57分39秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分39秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分39秒 - window class matches (Terminator)
+2022年01月21日 14时57分39秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时57分42秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时57分42秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分42秒 - dock status does not match
+2022年01月21日 14时57分42秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分42秒 - dock status does not match
+2022年01月21日 14时57分42秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分42秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分42秒 - window class matches (Terminator)
+2022年01月21日 14时57分42秒 - dock status matches
+2022年01月21日 14时57分42秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分42秒 - dock status does not match
+2022年01月21日 14时57分42秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分42秒 - dock status does not match
+2022年01月21日 14时57分42秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分42秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分42秒 - window class matches (Terminator)
+2022年01月21日 14时57分42秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时57分44秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时57分44秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分44秒 - dock status does not match
+2022年01月21日 14时57分44秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分44秒 - dock status does not match
+2022年01月21日 14时57分44秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分44秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分44秒 - window class matches (Terminator)
+2022年01月21日 14时57分44秒 - dock status matches
+2022年01月21日 14时57分44秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分44秒 - dock status does not match
+2022年01月21日 14时57分44秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分44秒 - dock status does not match
+2022年01月21日 14时57分44秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时57分44秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时57分44秒 - window class matches (Terminator)
+2022年01月21日 14时57分44秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时58分25秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时59分01秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时59分01秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时59分01秒 - dock status does not match
+2022年01月21日 14时59分01秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时59分01秒 - dock status does not match
+2022年01月21日 14时59分01秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时59分01秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时59分01秒 - window class matches (Terminator)
+2022年01月21日 14时59分01秒 - dock status matches
+2022年01月21日 14时59分01秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时59分01秒 - dock status does not match
+2022年01月21日 14时59分01秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时59分01秒 - dock status does not match
+2022年01月21日 14时59分01秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时59分01秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时59分01秒 - window class matches (Terminator)
+2022年01月21日 14时59分01秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月21日 14时59分02秒 - _NET_WM_NAME changed to "proxychains -q pikaur -S deepin-wine-wechat"
+2022年01月21日 14时59分02秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时59分02秒 - dock status does not match
+2022年01月21日 14时59分02秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时59分02秒 - dock status does not match
+2022年01月21日 14时59分02秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时59分02秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时59分02秒 - window class matches (Terminator)
+2022年01月21日 14时59分02秒 - dock status matches
+2022年01月21日 14时59分02秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时59分02秒 - dock status does not match
+2022年01月21日 14时59分02秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时59分02秒 - dock status does not match
+2022年01月21日 14时59分02秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 14时59分02秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 14时59分02秒 - window class matches (Terminator)
+2022年01月21日 14时59分02秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 15时00分28秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月21日 15时00分28秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 15时00分28秒 - dock status does not match
+2022年01月21日 15时00分28秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 15时00分28秒 - dock status does not match
+2022年01月21日 15时00分28秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 15时00分28秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 15时00分28秒 - window class matches (Terminator)
+2022年01月21日 15时00分28秒 - dock status matches
+2022年01月21日 15时00分28秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 15时00分28秒 - dock status does not match
+2022年01月21日 15时00分28秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 15时00分28秒 - dock status does not match
+2022年01月21日 15时00分28秒 - Checking window 0x03000007 (class Terminator)
+2022年01月21日 15时00分28秒 - Regular expression ".*" matches "Terminator"
+2022年01月21日 15时00分28秒 - window class matches (Terminator)
+2022年01月21日 15时00分28秒 - dock status matches
+polybar|error: module/mpd: Connection refused
+2022年01月21日 15时00分30秒 - Sending WM_DELETE to the client
+2022年01月21日 15时00分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 15时00分30秒 - expose event for unknown window, ignoring
+2022年01月21日 15时00分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 15时00分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 15时00分30秒 - Not a managed window, ignoring UnmapNotify event
+<window.Window object at 0x7f99241119c0 (terminatorlib+window+Window at 0x557ca964a260)> is not in registered window list
+2022年01月21日 15时00分30秒 - Sending WM_DELETE to the client
+2022年01月21日 15时00分30秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+2022年01月21日 15时00分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 15时00分30秒 - expose event for unknown window, ignoring
+2022年01月21日 15时00分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 15时00分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 15时00分30秒 - Not a managed window, ignoring UnmapNotify event
+2022年01月21日 15时00分30秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月21日 15时00分33秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月21日 15时00分36秒 - executing: systemctl poweroff -i
+2022年01月21日 15时00分36秒 - workspace visible? fs = 0x55f385f6a5f0, ws = 0x55f385f6a5f0
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address (polkit-error-quark, 0)
+=========================
+Fcitx 5.0.13 -- Get Signal No.: 15
+Date: try "date -d @1642748436" if you are using GNU date ***
+ProcessID: 662
+fcitx5(+0xd158)[0x55ba6ce1e158]
+/usr/lib/libc.so.6(+0x3cda0)[0x7fba54ab9da0]
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+/usr/lib/libc.so.6(epoll_wait+0x5e)[0x7fba54b7b92e]
+=========================
+Fcitx 5.0.13 -- Get Signal No.: 1
+Date: try "date -d @1642748436" if you are using GNU date ***
+ProcessID: 662
+fcitx5(+0xd158)[0x55ba6ce1e158]
+/usr/lib/libc.so.6(+0x3cda0)[0x7fba54ab9da0]
+/usr/lib/libc.so.6(writev+0x4d)[0x7fba54b726ad]
+/usr/lib/libc.so.6(backtrace_symbols_fd+0x20f)[0x7fba54b8895f]
+fcitx5(+0xd16b)[0x55ba6ce1e16b]
+/usr/lib/libc.so.6(+0x3cda0)[0x7fba54ab9da0]
+/usr/lib/libc.so.6(epoll_wait+0x5e)[0x7fba54b7b92e]
+/usr/lib/libsystemd.so.0(sd_event_wait+0x172)[0x7fba549a0d02]
+/usr/lib/libsystemd.so.0(sd_event_run+0x1ac)[0x7fba549a20bc]
+/usr/lib/libsystemd.so.0(sd_event_loop+0x60)[0x7fba549a2200]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx9EventLoop4execEv+0x16)[0x7fba54ef91d6]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4execEv+0x57)[0x7fba54fb4847]
+fcitx5(+0xb7f8)[0x55ba6ce1c7f8]
+/usr/lib/libc.so.6(__libc_start_main+0xd5)[0x7fba54aa4b25]
+fcitx5(+0xc7fe)[0x55ba6ce1d7fe]
+/usr/lib/libsystemd.so.0(sd_event_wait+0x172)[0x7fba549a0d02]
+/usr/lib/libsystemd.so.0(sd_event_run+0x1ac)[0x7fba549a20bc]
+/usr/lib/libsystemd.so.0(sd_event_loop+0x60)[0x7fba549a2200]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx9EventLoop4execEv+0x16)[0x7fba54ef91d6]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4execEv+0x57)[0x7fba54fb4847]
+fcitx5(+0xb7f8)[0x55ba6ce1c7f8]
+/usr/lib/libc.so.6(__libc_start_main+0xd5)[0x7fba54aa4b25]
+fcitx5(+0xc7fe)[0x55ba6ce1d7fe]
+W2022-01-21 15:00:36.681886 xcbeventreader.cpp:39] XCB connection ":0" got error: 1
+I2022-01-21 15:00:36.682000 addonmanager.cpp:297] Unloading addon rime
+I2022-01-21 15:00:36.682331 addonmanager.cpp:297] Unloading addon notifications
+I2022-01-21 15:00:36.682375 addonmanager.cpp:297] Unloading addon notificationitem
+I2022-01-21 15:00:36.682423 addonmanager.cpp:297] Unloading addon classicui
+I2022-01-21 15:00:36.683720 addonmanager.cpp:297] Unloading addon kimpanel
+I2022-01-21 15:00:36.683751 addonmanager.cpp:297] Unloading addon xim
+I2022-01-21 15:00:36.683773 addonmanager.cpp:297] Unloading addon ibusfrontend
+I2022-01-21 15:00:36.686184 addonmanager.cpp:297] Unloading addon fcitx4frontend
+I2022-01-21 15:00:36.686275 addonmanager.cpp:297] Unloading addon dbusfrontend
+I2022-01-21 15:00:36.686356 addonmanager.cpp:297] Unloading addon dbus
+I2022-01-21 15:00:36.686415 addonmanager.cpp:297] Unloading addon unicode
+I2022-01-21 15:00:36.686447 addonmanager.cpp:297] Unloading addon clipboard
+I2022-01-21 15:00:36.686484 addonmanager.cpp:297] Unloading addon keyboard
+I2022-01-21 15:00:36.686637 addonmanager.cpp:297] Unloading addon waylandim
+I2022-01-21 15:00:36.686662 addonmanager.cpp:297] Unloading addon quickphrase
+I2022-01-21 15:00:36.686854 addonmanager.cpp:297] Unloading addon xcb
+I2022-01-21 15:00:36.686878 inputcontextmanager.cpp:318] All display connections are gone, exit now.
+I2022-01-21 15:00:36.686985 addonmanager.cpp:297] Unloading addon imselector
+I2022-01-21 15:00:36.687015 addonmanager.cpp:297] Unloading addon wayland

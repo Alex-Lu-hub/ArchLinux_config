@@ -1,0 +1,1666 @@
+2022年01月19日 16时59分49秒 - i3 4.20.1 (2021-11-03) starting
+2022年01月19日 16时59分49秒 - Parsing configfile /home/alex/.config/i3/config
+2022年01月19日 16时59分49秒 - Changing working directory to config file directory /home/alex/.config/i3
+2022年01月19日 16时59分49秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2022年01月19日 16时59分49秒 - [libi3] ../i3-4.20.1/libi3/font.c Using Pango font Input Nerd Font, size 9
+2022年01月19日 16时59分49秒 - workspace visible? fs = 0x560b9cbcdb10, ws = 0x560b9cbcdb10
+2022年01月19日 16时59分49秒 - focused now = 0x560b9cbcdb10 / 1
+2022年01月19日 16时59分49秒 - workspace visible? fs = 0x560b9cbcdb10, ws = 0x560b9cbcdb10
+2022年01月19日 16时59分49秒 - workspace visible? fs = 0x560b9cbc9f60, ws = 0x560b9cbc9f60
+2022年01月19日 16时59分49秒 - This is not an in-place restart, checking if a wallpaper is set.
+2022年01月19日 16时59分49秒 - A wallpaper is set, so no screenshot is necessary.
+2022年01月19日 16时59分49秒 - auto-starting xautolock -time 5 -locker '/usr/bin/betterlockscreen -l' -corners ---- -cornersize 30 &
+2022年01月19日 16时59分49秒 - executing: xautolock -time 5 -locker '/usr/bin/betterlockscreen -l' -corners ---- -cornersize 30 &
+2022年01月19日 16时59分49秒 - auto-starting fcitx5
+2022年01月19日 16时59分49秒 - executing: fcitx5
+2022年01月19日 16时59分49秒 - auto-starting dunst
+2022年01月19日 16时59分49秒 - executing: dunst
+2022年01月19日 16时59分49秒 - auto-starting xfce4-power-manager
+2022年01月19日 16时59分49秒 - executing: xfce4-power-manager
+2022年01月19日 16时59分49秒 - auto-starting qv2ray
+2022年01月19日 16时59分49秒 - executing: qv2ray
+2022年01月19日 16时59分49秒 - auto-starting xdman
+2022年01月19日 16时59分49秒 - executing: xdman
+/bin/sh:行1: xautolock：未找到命令
+2022年01月19日 16时59分49秒 - auto-starting nutstore
+2022年01月19日 16时59分49秒 - executing: nutstore
+/bin/sh:行1: dunst：未找到命令
+2022年01月19日 16时59分49秒 - auto-starting copyq
+2022年01月19日 16时59分49秒 - executing: copyq
+/bin/sh:行1: xfce4-power-manager：未找到命令
+/bin/sh:行1: qv2ray：未找到命令
+2022年01月19日 16时59分49秒 - auto-starting sh ~/.fehbg
+2022年01月19日 16时59分49秒 - executing: sh ~/.fehbg
+/bin/sh:行1: xdman：未找到命令
+2022年01月19日 16时59分49秒 - auto-starting picom -b
+2022年01月19日 16时59分49秒 - executing: picom -b
+2022年01月19日 16时59分49秒 - auto-starting $HOME/.config/i3/bin/i3bar
+2022年01月19日 16时59分49秒 - executing: $HOME/.config/i3/bin/i3bar
+/bin/sh:行1: nutstore：未找到命令
+/bin/sh:行1: copyq：未找到命令
+sh: /home/alex/.fehbg: 没有那个文件或目录
+[ 2022年01月19日 16:59:49.760 parse_config_libconfig WARN ] Invalid blur method dual_kawase, ignoring.
+I2022-01-19 16:59:49.760489 instance.cpp:1404] Override Enabled Addons: {}
+I2022-01-19 16:59:49.760546 instance.cpp:1405] Override Disabled Addons: {}
+I2022-01-19 16:59:49.767055 addonmanager.cpp:191] Loaded addon wayland
+I2022-01-19 16:59:49.767752 addonmanager.cpp:191] Loaded addon imselector
+I2022-01-19 16:59:49.772223 addonmanager.cpp:191] Loaded addon xcb
+I2022-01-19 16:59:49.775190 addonmanager.cpp:191] Loaded addon quickphrase
+I2022-01-19 16:59:49.776016 addonmanager.cpp:191] Loaded addon waylandim
+I2022-01-19 16:59:49.782650 addonmanager.cpp:191] Loaded addon keyboard
+I2022-01-19 16:59:49.783861 addonmanager.cpp:191] Loaded addon clipboard
+I2022-01-19 16:59:49.784720 addonmanager.cpp:191] Loaded addon unicode
+I2022-01-19 16:59:49.786972 addonmanager.cpp:191] Loaded addon dbus
+I2022-01-19 16:59:49.788129 addonmanager.cpp:191] Loaded addon dbusfrontend
+I2022-01-19 16:59:49.791373 addonmanager.cpp:191] Loaded addon fcitx4frontend
+polybar|notice:  Parsing config file: /home/alex/.config/i3/polybar/config
+I2022-01-19 16:59:49.797257 addonmanager.cpp:191] Loaded addon ibusfrontend
+I2022-01-19 16:59:49.800465 addonmanager.cpp:191] Loaded addon xim
+polybar|warn:  The config parameter 'settings.throttle-input-for' is deprecated, it will be removed in the future. Please remove it from your config
+polybar|error: module/mpd: Connection refused
+I2022-01-19 16:59:49.842782 inputmethodmanager.cpp:198] Found 704 input method(s) in addon keyboard
+I2022-01-19 16:59:49.862506 addonmanager.cpp:191] Loaded addon kimpanel
+I2022-01-19 16:59:49.894893 addonmanager.cpp:191] Loaded addon classicui
+I2022-01-19 16:59:49.896067 addonmanager.cpp:191] Loaded addon notificationitem
+I2022-01-19 16:59:49.897652 addonmanager.cpp:191] Loaded addon notifications
+I2022-01-19 16:59:49.983836 addonmanager.cpp:191] Loaded addon rime
+I2022-01-19 16:59:49.984898 kimpanel.cpp:117] Kimpanel new owner
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|error: module/mpd: Connection refused
+2022年01月19日 16时59分50秒 - workspace visible? fs = 0x560b9cbcdb10, ws = 0x560b9cbcdb10
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=13" (name=LiterationMono Nerd Font, offset=3, file=/usr/share/fonts/TTF/Literation Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "LiterationMono Nerd Font:size=12" (name=LiterationMono Nerd Font, offset=3, file=/usr/share/fonts/TTF/Literation Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "NotoColorEmoji:pixelsize=8;1:fontformat=truetype:scale=10:antialias=true" (name=Noto Color Emoji, offset=3, file=/usr/share/fonts/noto/NotoColorEmoji.ttf)
+polybar|notice:  Loaded font "Weather Icons:style=Regular:size=10" (name=Weather Icons, offset=3, file=/usr/share/fonts/TTF/weathericons-regular-webfont.ttf)
+polybar|notice:  Loaded font "NotoSansCJK:size=12" (name=Noto Sans CJK SC, offset=2, file=/usr/share/fonts/noto-cjk/NotoSansCJK-Regular.ttc)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+2022年01月19日 16时59分50秒 - WM_CLASS changed to polybar (instance), Polybar (class)
+2022年01月19日 16时59分50秒 - WM_NAME changed to "i3"
+2022年01月19日 16时59分50秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月19日 16时59分50秒 - This window is of type dock
+2022年01月19日 16时59分50秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月19日 16时59分50秒 - dock status matches
+2022年01月19日 16时59分50秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月19日 16时59分50秒 - Regular expression ".*" matches "Polybar"
+2022年01月19日 16时59分50秒 - window class matches (Polybar)
+2022年01月19日 16时59分50秒 - dock status does not match
+2022年01月19日 16时59分50秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月19日 16时59分50秒 - Regular expression "xdman-Main" does not match "Polybar"
+2022年01月19日 16时59分50秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月19日 16时59分50秒 - Regular expression "java-lang-Thread" does not match "Polybar"
+2022年01月19日 16时59分50秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月19日 16时59分50秒 - Regular expression "VirtualBox Manager" does not match "Polybar"
+2022年01月19日 16时59分50秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月19日 16时59分50秒 - Regular expression "Qq" does not match "Polybar"
+2022年01月19日 16时59分50秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月19日 16时59分50秒 - Regular expression "Lxappearance" does not match "Polybar"
+2022年01月19日 16时59分50秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月19日 16时59分50秒 - Regular expression "Qalculate-gtk" does not match "Polybar"
+2022年01月19日 16时59分50秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月19日 16时59分50秒 - Regular expression "Nitrogen" does not match "Polybar"
+2022年01月19日 16时59分50秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月19日 16时59分50秒 - Regular expression "Steam" does not match "Polybar"
+2022年01月19日 16时59分50秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月19日 16时59分50秒 - Regular expression "words-picker" does not match "Polybar"
+2022年01月19日 16时59分50秒 - workspace visible? fs = 0x560b9cbcdb10, ws = 0x560b9cbcdb10
+2022年01月19日 16时59分50秒 - workspace visible? fs = 0x560b9cbc9f60, ws = 0x560b9cbc9f60
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月19日 16时59分51秒 - ClientMessage for window 0x000001cd
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月19日 16时59分57秒 - executing: light -U 5
+2022年01月19日 16时59分58秒 - executing: light -U 5
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月19日 17时00分01秒 - executing: light -A 5
+2022年01月19日 17时00分01秒 - executing: light -A 5
+2022年01月19日 17时00分01秒 - executing: light -U 5
+2022年01月19日 17时00分01秒 - executing: light -U 5
+2022年01月19日 17时00分02秒 - executing: light -A 5
+2022年01月19日 17时00分02秒 - executing: light -A 5
+polybar|error: module/mpd: Connection refused
+2022年01月19日 17时00分02秒 - executing: light -U 5
+2022年01月19日 17时00分03秒 - executing: light -U 5
+2022年01月19日 17时00分03秒 - executing: light -A 5
+2022年01月19日 17时00分03秒 - executing: light -A 5
+2022年01月19日 17时00分04秒 - executing: light -U 5
+2022年01月19日 17时00分04秒 - executing: light -U 5
+polybar|error: module/mpd: Connection refused
+2022年01月19日 17时00分05秒 - executing: terminator
+Gtk-Message: 17:00:05.868: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 17:00:05.869: Failed to load module "window-decorations-gtk-module"
+2022年01月19日 17时00分06秒 - ClientMessage for window 0x00e00007
+2022年01月19日 17时00分06秒 - WM_CLASS changed to terminator (instance), Terminator (class)
+2022年01月19日 17时00分06秒 - WM_NAME changed to "None"
+2022年01月19日 17时00分06秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月19日 17时00分06秒 - _NET_WM_NAME changed to "None"
+2022年01月19日 17时00分06秒 - WM_HINTS.input changed to "1"
+2022年01月19日 17时00分06秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - dock status does not match
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - dock status does not match
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "libreoffice" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "jetbrains-toolbox" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "jetbrains-goland" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "jetbrains-idea" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "jetbrains-pycharm" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "jetbrains-clion" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "jetbrains-datagrip" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "jetbrains-webstorm" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "firefox" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "FirefoxNightly" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Microsoft-edge-dev" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Nightly" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "netease-cloud-music" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "FeelUOwn" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "VirtualBox Machine" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Thunderbird" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "TelegramDesktop" does not match "Terminator"
+2022年01月19日 17时00分06秒 - workspace visible? fs = 0x560b9cbcdb10, ws = 0x560b9cbcdb10
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时00分06秒 - window class matches (Terminator)
+2022年01月19日 17时00分06秒 - dock status matches
+2022年01月19日 17时00分06秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月19日 17时00分06秒 - window id does not match
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - match made by window id (14680071)
+2022年01月19日 17时00分06秒 - dock status matches
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时00分06秒 - workspace visible? fs = 0x560b9cbcdb10, ws = 0x560b9cbcdb10
+2022年01月19日 17时00分06秒 - workspace visible? fs = 0x560b9cbcdb10, ws = 0x560b9cbcdb10
+2022年01月19日 17时00分06秒 - workspace visible? fs = 0x560b9cbc9f60, ws = 0x560b9cbc9f60
+2022年01月19日 17时00分06秒 - _NET_WM_NAME changed to "/usr/bin/zsh"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - dock status does not match
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - dock status does not match
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时00分06秒 - window class matches (Terminator)
+2022年01月19日 17时00分06秒 - dock status matches
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - dock status does not match
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - dock status does not match
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时00分06秒 - window class matches (Terminator)
+2022年01月19日 17时00分06秒 - dock status matches
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时00分06秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - dock status does not match
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - dock status does not match
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时00分06秒 - window class matches (Terminator)
+2022年01月19日 17时00分06秒 - dock status matches
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - dock status does not match
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - dock status does not match
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时00分06秒 - window class matches (Terminator)
+2022年01月19日 17时00分06秒 - dock status matches
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时00分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分06秒 - Regular expression "words-picker" does not match "Terminator"
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月19日 17时00分17秒 - startup id = i3/rofi/632-0-alexarch_TIME40316
+2022年01月19日 17时00分17秒 - executing: rofi -show drun
+2022年01月19日 17时00分17秒 - Not a managed window, ignoring UnmapNotify event
+
+(process:1007): XrmOptions-WARNING **: 17:00:17.733: Option: width is not found.
+
+(process:1007): XrmOptions-WARNING **: 17:00:17.733: Option: lines is not found.
+
+(process:1007): XrmOptions-WARNING **: 17:00:17.733: Option: columns is not found.
+2022年01月19日 17时00分17秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - dock status does not match
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - dock status does not match
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时00分17秒 - window class matches (Terminator)
+2022年01月19日 17时00分17秒 - dock status matches
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - dock status does not match
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - dock status does not match
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时00分17秒 - window class matches (Terminator)
+2022年01月19日 17时00分17秒 - dock status matches
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时00分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分17秒 - Regular expression "words-picker" does not match "Terminator"
+polybar|error: module/mpd: Connection refused
+
+(process:1007): GLib-CRITICAL **: 17:00:18.510: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+2022年01月19日 17时00分18秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - dock status does not match
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - dock status does not match
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时00分18秒 - window class matches (Terminator)
+2022年01月19日 17时00分18秒 - dock status matches
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - dock status does not match
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - dock status does not match
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时00分18秒 - window class matches (Terminator)
+2022年01月19日 17时00分18秒 - dock status matches
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时00分18秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分18秒 - Regular expression "words-picker" does not match "Terminator"
+Gtk-Message: 17:00:18.859: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 17:00:18.859: Failed to load module "window-decorations-gtk-module"
+[1037:1037:0119/170019.037427:ERROR:assistance_home_client.cc(23)] File path /home/alex/.config/microsoft-edge/Default
+2022年01月19日 17时00分19秒 - WM_CLASS changed to microsoft-edge (instance), Microsoft-edge (class)
+2022年01月19日 17时00分19秒 - WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月19日 17时00分19秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2022年01月19日 17时00分19秒 - _NET_WM_NAME changed to "新建标签页 - 个人 - Microsoft​ Edge"
+2022年01月19日 17时00分19秒 - WM_WINDOW_ROLE changed to "browser"
+2022年01月19日 17时00分19秒 - WM_CLIENT_MACHINE changed to "alexarch"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - dock status does not match
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - dock status does not match
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "libreoffice" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "jetbrains-toolbox" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "jetbrains-goland" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "jetbrains-idea" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "jetbrains-pycharm" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "jetbrains-clion" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "jetbrains-datagrip" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "jetbrains-webstorm" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "firefox" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "FirefoxNightly" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "Microsoft-edge-dev" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "Nightly" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "netease-cloud-music" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "FeelUOwn" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "Steam" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "VirtualBox Machine" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "Thunderbird" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "Qq" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "TelegramDesktop" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - workspace visible? fs = 0x560b9cbcdb10, ws = 0x560b9cbcdb10
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月19日 17时00分19秒 - window class matches (Microsoft-edge)
+2022年01月19日 17时00分19秒 - dock status matches
+2022年01月19日 17时00分19秒 - Checking window 0x00c00001 (class Polybar)
+2022年01月19日 17时00分19秒 - window id does not match
+2022年01月19日 17时00分19秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时00分19秒 - window id does not match
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - match made by window id (20971523)
+2022年01月19日 17时00分19秒 - dock status matches
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "xdman-Main" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "java-lang-Thread" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "VirtualBox Manager" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "Qq" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "Lxappearance" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "Qalculate-gtk" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "Nitrogen" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "Steam" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分19秒 - Regular expression "words-picker" does not match "Microsoft-edge"
+2022年01月19日 17时00分19秒 - workspace visible? fs = 0x560b9cbcdb10, ws = 0x560b9cbcdb10
+2022年01月19日 17时00分19秒 - workspace visible? fs = 0x560b9cbcdb10, ws = 0x560b9cbcdb10
+2022年01月19日 17时00分19秒 - workspace visible? fs = 0x560b9cbc9f60, ws = 0x560b9cbc9f60
+2022年01月19日 17时00分19秒 - ClientMessage for window 0x01400003
+2022年01月19日 17时00分19秒 - ClientMessage for window 0x01400003
+2022年01月19日 17时00分19秒 - workspace visible? fs = 0x560b9cbcdb10, ws = 0x560b9cbcdb10
+2022年01月19日 17时00分19秒 - ClientMessage for window 0x01400003
+2022年01月19日 17时00分19秒 - workspace visible? fs = 0x560b9cbcdb10, ws = 0x560b9cbcdb10
+[1037:1284:0119/170019.421312:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1037:1284:0119/170019.421515:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1037:1284:0119/170019.421704:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+polybar|error: module/mpd: Connection refused
+[1133:1133:0119/170020.720262:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1037:1074:0119/170021.735170:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[1137:1142:0119/170021.797179:ERROR:ssl_client_socket_impl.cc(1138)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1037:1074:0119/170021.970210:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:23.352: gdk_window_set_user_time called on non-toplevel
+
+2022年01月19日 17时00分23秒 - Not a managed window, ignoring UnmapNotify event
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:23.435: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:23.568: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:23.686: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:23.798: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:23.918: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:26.021: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:27.684: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:27.870: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:28.082: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:28.279: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:31.922: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:32.159: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:32.251: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:32.376: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:32.646: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:32.807: gdk_window_set_user_time called on non-toplevel
+
+
+(microsoft-edge:1037): Gdk-WARNING **: 17:00:34.007: gdk_window_set_user_time called on non-toplevel
+
+polybar|error: module/mpd: Connection refused
+[1037:1037:0119/170034.424023:ERROR:interface_endpoint_client.cc(658)] Message 2 rejected by interface blink.mojom.WidgetHost
+[1037:1037:0119/170034.424085:ERROR:interface_endpoint_client.cc(658)] Message 5 rejected by interface blink.mojom.WidgetHost
+2022年01月19日 17时00分34秒 - _NET_WM_NAME changed to "light控制亮度需要sudo权限 - 国内版 Bing - 个人 - Microsoft​ Edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - dock status does not match
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - dock status does not match
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月19日 17时00分34秒 - window class matches (Microsoft-edge)
+2022年01月19日 17时00分34秒 - dock status matches
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "xdman-Main" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "java-lang-Thread" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "VirtualBox Manager" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "Qq" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "Lxappearance" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "Qalculate-gtk" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "Nitrogen" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "Steam" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "words-picker" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - dock status does not match
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - dock status does not match
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月19日 17时00分34秒 - window class matches (Microsoft-edge)
+2022年01月19日 17时00分34秒 - dock status matches
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "xdman-Main" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "java-lang-Thread" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "VirtualBox Manager" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "Qq" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "Lxappearance" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "Qalculate-gtk" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "Nitrogen" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "Steam" does not match "Microsoft-edge"
+2022年01月19日 17时00分34秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分34秒 - Regular expression "words-picker" does not match "Microsoft-edge"
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月19日 17时00分45秒 - _NET_WM_NAME changed to "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - dock status does not match
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - dock status does not match
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月19日 17时00分45秒 - window class matches (Microsoft-edge)
+2022年01月19日 17时00分45秒 - dock status matches
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "xdman-Main" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "java-lang-Thread" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "VirtualBox Manager" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "Qq" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "Lxappearance" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "Qalculate-gtk" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "Nitrogen" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "Steam" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "words-picker" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - dock status does not match
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - dock status does not match
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月19日 17时00分45秒 - window class matches (Microsoft-edge)
+2022年01月19日 17时00分45秒 - dock status matches
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "xdman-Main" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "java-lang-Thread" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "VirtualBox Manager" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "Qq" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "Lxappearance" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "Qalculate-gtk" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "Nitrogen" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "Steam" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分45秒 - Regular expression "words-picker" does not match "Microsoft-edge"
+2022年01月19日 17时00分45秒 - ClientMessage for window 0x01400003
+2022年01月19日 17时00分45秒 - workspace visible? fs = 0x560b9cbcdb10, ws = 0x560b9cbcdb10
+2022年01月19日 17时00分46秒 - _NET_WM_NAME changed to "Archlinux 屏幕亮度调节失效问题解决_始新世公子的博客-CSDN博客_archlinux亮度没反应 和另外 1 个页面 - 个人 - Microsoft​ Edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - dock status does not match
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - dock status does not match
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月19日 17时00分46秒 - window class matches (Microsoft-edge)
+2022年01月19日 17时00分46秒 - dock status matches
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "xdman-Main" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "java-lang-Thread" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "VirtualBox Manager" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "Qq" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "Lxappearance" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "Qalculate-gtk" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "Nitrogen" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "Steam" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "words-picker" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - dock status does not match
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - dock status does not match
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression ".*" matches "Microsoft-edge"
+2022年01月19日 17时00分46秒 - window class matches (Microsoft-edge)
+2022年01月19日 17时00分46秒 - dock status matches
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "xdman-Main" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "java-lang-Thread" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "VirtualBox Manager" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "Qq" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "Lxappearance" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "Qalculate-gtk" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "Nitrogen" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "Steam" does not match "Microsoft-edge"
+2022年01月19日 17时00分46秒 - Checking window 0x01400003 (class Microsoft-edge)
+2022年01月19日 17时00分46秒 - Regular expression "words-picker" does not match "Microsoft-edge"
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月19日 17时00分55秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月19日 17时01分02秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+2022年01月19日 17时01分05秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - dock status does not match
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - dock status does not match
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分05秒 - window class matches (Terminator)
+2022年01月19日 17时01分05秒 - dock status matches
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - dock status does not match
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - dock status does not match
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分05秒 - window class matches (Terminator)
+2022年01月19日 17时01分05秒 - dock status matches
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分05秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分05秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分06秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - dock status does not match
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - dock status does not match
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分06秒 - window class matches (Terminator)
+2022年01月19日 17时01分06秒 - dock status matches
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - dock status does not match
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - dock status does not match
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分06秒 - window class matches (Terminator)
+2022年01月19日 17时01分06秒 - dock status matches
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分06秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分06秒 - Regular expression "words-picker" does not match "Terminator"
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月19日 17时01分15秒 - _NET_WM_NAME changed to "sudo gpasswd video -a alex"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - dock status does not match
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - dock status does not match
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分15秒 - window class matches (Terminator)
+2022年01月19日 17时01分15秒 - dock status matches
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - dock status does not match
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - dock status does not match
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分15秒 - window class matches (Terminator)
+2022年01月19日 17时01分15秒 - dock status matches
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分15秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分15秒 - Regular expression "words-picker" does not match "Terminator"
+polybar|error: module/mpd: Connection refused
+2022年01月19日 17时01分17秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - dock status does not match
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - dock status does not match
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分17秒 - window class matches (Terminator)
+2022年01月19日 17时01分17秒 - dock status matches
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - dock status does not match
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - dock status does not match
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分17秒 - window class matches (Terminator)
+2022年01月19日 17时01分17秒 - dock status matches
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分17秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分17秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月19日 17时01分21秒 - executing: light -U 5
+2022年01月19日 17时01分21秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - dock status does not match
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - dock status does not match
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分21秒 - window class matches (Terminator)
+2022年01月19日 17时01分21秒 - dock status matches
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - dock status does not match
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - dock status does not match
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分21秒 - window class matches (Terminator)
+2022年01月19日 17时01分21秒 - dock status matches
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分21秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分21秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分22秒 - executing: light -U 5
+2022年01月19日 17时01分22秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分22秒 - window class matches (Terminator)
+2022年01月19日 17时01分22秒 - dock status matches
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分22秒 - window class matches (Terminator)
+2022年01月19日 17时01分22秒 - dock status matches
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分22秒 - executing: light -U 5
+2022年01月19日 17时01分22秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分22秒 - window class matches (Terminator)
+2022年01月19日 17时01分22秒 - dock status matches
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分22秒 - window class matches (Terminator)
+2022年01月19日 17时01分22秒 - dock status matches
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "words-picker" does not match "Terminator"
+polybar|error: module/mpd: Connection refused
+2022年01月19日 17时01分22秒 - executing: light -A 5
+2022年01月19日 17时01分22秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分22秒 - window class matches (Terminator)
+2022年01月19日 17时01分22秒 - dock status matches
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分22秒 - window class matches (Terminator)
+2022年01月19日 17时01分22秒 - dock status matches
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分22秒 - executing: light -A 5
+2022年01月19日 17时01分22秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分22秒 - window class matches (Terminator)
+2022年01月19日 17时01分22秒 - dock status matches
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分22秒 - window class matches (Terminator)
+2022年01月19日 17时01分22秒 - dock status matches
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分22秒 - executing: light -A 5
+2022年01月19日 17时01分22秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分22秒 - window class matches (Terminator)
+2022年01月19日 17时01分22秒 - dock status matches
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分22秒 - window class matches (Terminator)
+2022年01月19日 17时01分22秒 - dock status matches
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分22秒 - executing: light -U 5
+2022年01月19日 17时01分22秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分22秒 - window class matches (Terminator)
+2022年01月19日 17时01分22秒 - dock status matches
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - dock status does not match
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分22秒 - window class matches (Terminator)
+2022年01月19日 17时01分22秒 - dock status matches
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分22秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分22秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分23秒 - executing: light -U 5
+2022年01月19日 17时01分23秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - dock status does not match
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - dock status does not match
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分23秒 - window class matches (Terminator)
+2022年01月19日 17时01分23秒 - dock status matches
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - dock status does not match
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - dock status does not match
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分23秒 - window class matches (Terminator)
+2022年01月19日 17时01分23秒 - dock status matches
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分23秒 - executing: light -A 5
+2022年01月19日 17时01分23秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - dock status does not match
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - dock status does not match
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分23秒 - window class matches (Terminator)
+2022年01月19日 17时01分23秒 - dock status matches
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - dock status does not match
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - dock status does not match
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分23秒 - window class matches (Terminator)
+2022年01月19日 17时01分23秒 - dock status matches
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分23秒 - executing: light -U 5
+2022年01月19日 17时01分23秒 - _NET_WM_NAME changed to "alex@alexarch:~"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - dock status does not match
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - dock status does not match
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分23秒 - window class matches (Terminator)
+2022年01月19日 17时01分23秒 - dock status matches
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - dock status does not match
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - dock status does not match
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分23秒 - window class matches (Terminator)
+2022年01月19日 17时01分23秒 - dock status matches
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分23秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分23秒 - Regular expression "words-picker" does not match "Terminator"
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+2022年01月19日 17时01分32秒 - _NET_WM_NAME changed to "sudo reboot"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - dock status does not match
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - dock status does not match
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分32秒 - window class matches (Terminator)
+2022年01月19日 17时01分32秒 - dock status matches
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "words-picker" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - dock status does not match
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - dock status does not match
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression ".*" matches "Terminator"
+2022年01月19日 17时01分32秒 - window class matches (Terminator)
+2022年01月19日 17时01分32秒 - dock status matches
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "xdman-Main" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "java-lang-Thread" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "VirtualBox Manager" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "Qq" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "Lxappearance" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "Qalculate-gtk" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "Nitrogen" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "Steam" does not match "Terminator"
+2022年01月19日 17时01分32秒 - Checking window 0x00e00007 (class Terminator)
+2022年01月19日 17时01分32秒 - Regular expression "words-picker" does not match "Terminator"
+=========================
+Fcitx 5.0.13 -- Get Signal No.: 15
+Date: try "date -d @1642582892" if you are using GNU date ***
+ProcessID: 645
+fcitx5(+0xd158)[0x5641223c2158]
+/usr/lib/libc.so.6(+0x3cda0)[0x7fa83ab84da0]
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+/usr/lib/libc.so.6(epoll_wait+0x5e)[0x7fa83ac4692e]
+/usr/lib/libsystemd.so.0(sd_event_wait+0x172)[0x7fa83aa6bc52]
+/usr/lib/libsystemd.so.0(sd_event_run+0x1ac)[0x7fa83aa6d00c]
+/usr/lib/libsystemd.so.0(sd_event_loop+0x60)[0x7fa83aa6d150]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx9EventLoop4execEv+0x16)[0x7fa83afc41d6]
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|notice:  Termination signal received, shutting down...
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4execEv+0x57)[0x7fa83b07f847]
+fcitx5(+0xb7f8)[0x5641223c07f8]
+/usr/lib/libc.so.6(__libc_start_main+0xd5)[0x7fa83ab6fb25]
+fcitx5(+0xc7fe)[0x5641223c17fe]
+=========================
+Fcitx 5.0.13 -- Get Signal No.: 1
+Date: try "date -d @1642582892" if you are using GNU date ***
+ProcessID: 645
+fcitx5(+0xd158)[0x5641223c2158]
+/usr/lib/libc.so.6(+0x3cda0)[0x7fa83ab84da0]
+/usr/lib/libc.so.6(fsync+0x3b)[0x7fa83ac3e41b]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx20StandardPathTempFile5closeEv+0x39)[0x7fa83afce569]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx20StandardPathTempFileD1Ev+0x1c)[0x7fa83afce7bc]
+/usr/lib/libFcitx5Utils.so.2(_ZNK5fcitx12StandardPath8safeSaveENS0_4TypeERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERKSt8functionIFbiEE+0x53)[0x7fa83afd6e73]
+/usr/lib/libFcitx5Config.so.6(_ZN5fcitx13safeSaveAsIniERKNS_9RawConfigENS_12StandardPath4TypeERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x5c)[0x7fa83b0381fc]
+/usr/lib/libFcitx5Config.so.6(_ZN5fcitx13safeSaveAsIniERKNS_13ConfigurationENS_12StandardPath4TypeERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x4f)[0x7fa83b0382bf]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx18InputMethodManager4saveEv+0x402)[0x7fa83b0b1b32]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4saveEv+0x28)[0x7fa83b082608]
+/usr/lib/libFcitx5Core.so.7(+0x4b62f)[0x7fa83b09362f]
+/usr/lib/libFcitx5Utils.so.2(+0x4466c)[0x7fa83afce66c]
+/usr/lib/libsystemd.so.0(+0x79d7d)[0x7fa83aa69d7d]
+/usr/lib/libsystemd.so.0(sd_event_dispatch+0x270)[0x7fa83aa6a3a0]
+/usr/lib/libsystemd.so.0(sd_event_run+0x119)[0x7fa83aa6cf79]
+/usr/lib/libsystemd.so.0(sd_event_loop+0x60)[0x7fa83aa6d150]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx9EventLoop4execEv+0x16)[0x7fa83afc41d6]
+/usr/lib/libFcitx5Core.so.7(_ZN5fcitx8Instance4execEv+0x57)[0x7fa83b07f847]
+fcitx5(+0xb7f8)[0x5641223c07f8]
+/usr/lib/libc.so.6(__libc_start_main+0xd5)[0x7fa83ab6fb25]
+fcitx5(+0xc7fe)[0x5641223c17fe]
+I2022-01-19 17:01:32.038058 addonmanager.cpp:297] Unloading addon rime
+I2022-01-19 17:01:32.038433 addonmanager.cpp:297] Unloading addon notifications
+I2022-01-19 17:01:32.038480 addonmanager.cpp:297] Unloading addon notificationitem
+I2022-01-19 17:01:32.038533 addonmanager.cpp:297] Unloading addon classicui
+W2022-01-19 17:01:32.039915 xcbeventreader.cpp:39] XCB connection ":0" got error: 1
+I2022-01-19 17:01:32.043085 addonmanager.cpp:297] Unloading addon kimpanel
+I2022-01-19 17:01:32.043161 addonmanager.cpp:297] Unloading addon xim
+I2022-01-19 17:01:32.043198 addonmanager.cpp:297] Unloading addon ibusfrontend
+I2022-01-19 17:01:32.045545 addonmanager.cpp:297] Unloading addon fcitx4frontend
+I2022-01-19 17:01:32.045614 addonmanager.cpp:297] Unloading addon dbusfrontend
+I2022-01-19 17:01:32.045647 addonmanager.cpp:297] Unloading addon dbus
+I2022-01-19 17:01:32.045689 addonmanager.cpp:297] Unloading addon unicode
+I2022-01-19 17:01:32.045712 addonmanager.cpp:297] Unloading addon clipboard
+I2022-01-19 17:01:32.045738 addonmanager.cpp:297] Unloading addon keyboard
+I2022-01-19 17:01:32.045855 addonmanager.cpp:297] Unloading addon waylandim
+I2022-01-19 17:01:32.045882 addonmanager.cpp:297] Unloading addon quickphrase
+I2022-01-19 17:01:32.046022 addonmanager.cpp:297] Unloading addon xcb
+I2022-01-19 17:01:32.046042 inputcontextmanager.cpp:318] All display connections are gone, exit now.
+I2022-01-19 17:01:32.046143 addonmanager.cpp:297] Unloading addon imselector
+I2022-01-19 17:01:32.046165 addonmanager.cpp:297] Unloading addon wayland
