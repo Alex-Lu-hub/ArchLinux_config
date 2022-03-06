@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "836da8115c67848d",
+        "id": "1742458f2395de71",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -113,7 +113,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "836da8115c67848d",
+  "active": "1742458f2395de71",
   "lastOpenFiles": [
     "README.md",
     "TODO.md",
